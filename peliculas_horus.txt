@@ -153,6 +153,8 @@ plugin://script.module.horus?action=play&id=35fadc203a14f9d37ea595ed1425ab065eba
 plugin://script.module.horus?action=play&id=44ca6d8d0a1b07e554294d9dbbe2a6f28a7da931
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=5ad12f560aaa17c515c299061e5f1410a47d25e8
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo [Bluray] [HD]
+plugin://script.module.horus?action=play&id=d3ce4c1194630c2d93e52502005c3e11a8ce038e
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f6feee53407aeb4037c91ef4d45ceee7efd600ba
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [SD]

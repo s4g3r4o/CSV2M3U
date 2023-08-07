@@ -161,6 +161,10 @@ magnet:?xt=urn:btih:c479b0d526403457143a1ebd462cadc78f8b8572
 magnet:?xt=urn:btih:575a60692054ae937136ceb6a310928080b12b10
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo  (2023) [Bluray] [FHD]
 magnet:?xt=urn:btih:0af1d6d8589ac7cc84b5c9047f804721d17f3d86
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo  (2023) [Bluray] [SD]
+magnet:?xt=urn:btih:5adca49d7f91ec11e5b517d2a8f4eafb30ede4ae
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo  (2023) [Bluray] [HD]
+magnet:?xt=urn:btih:e8c7179ad8127f7469010ca2f34b30de7eaf8fd0
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [FHD]
 magnet:?xt=urn:btih:4f60f242ae7a25a827ad53931b321fa99cd0de6a
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [SD]
@@ -469,6 +473,10 @@ magnet:?xt=urn:btih:62fb041b234649c644d2e9b6645d9b2518591911
 magnet:?xt=urn:btih:b2f333cacc4657f31ef9832902e51f696311f1d5
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sinead OConnor Nothing Compares [Bluray] [FHD]
 magnet:?xt=urn:btih:4c64cbe95b87fa131a1fb707f9d576d655a6d1ff
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso (2023) [4K]
+magnet:?xt=urn:btih:e972aa8ceccdc89661c98f5bf64000c4b0102281
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso (2023) [Bluray] [FHD]
+magnet:?xt=urn:btih:dc67bc9342036732c211140f60ecc2c95b3e9dcf
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Stephen Curry Un jugador subestimado (2023) [Bluray] [FHD]
 magnet:?xt=urn:btih:a225695c7c7056dcbc522c65264d1c1832d05916
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Suenos y pan (2023) [Bluray] [SD]
