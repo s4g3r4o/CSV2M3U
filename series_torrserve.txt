@@ -11,16 +11,6 @@ magnet:?xt=urn:btih:c6e702530b08aff96b7f225be1dd7fd35884922d
 magnet:?xt=urn:btih:00c6821163fdc18630649c58ab12676efc683b1c
 #EXTINF:-1 group-title="911" tvg-id="" tvg-logo="" ,911 (Cap 618) [HDTV] [HD]
 magnet:?xt=urn:btih:fdb7da3e6e5e7645d02bc1130a8335be16dcda7c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:57d2464a57376786e1bc32981ba95a84aa01266c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:049962cdfcbc192e4b0dbed3d3a38b707d0d9784
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A traves del mar (2023) [4K]
-magnet:?xt=urn:btih:7d83ddf268a7c74c7d2b29a224a57cd341cb1432
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Abrazame fuerte (2021) [Bluray] [SD]
-magnet:?xt=urn:btih:bcacb3a5f8d1348996f3fa411a59034fe1349077
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Abrazame fuerte (2021) [Bluray] [HD]
-magnet:?xt=urn:btih:63fc3078f43ebe4d16be1d7a38b03a040e796fc1
 #EXTINF:-1 group-title="Accused" tvg-id="" tvg-logo="" ,Accused (Cap 115) [HDTV] [FHD]
 magnet:?xt=urn:btih:d396da1f56ced661935cc7330820c9d4a5b2b9fe
 #EXTINF:-1 group-title="Accused" tvg-id="" tvg-logo="" ,Accused (Cap 115) [HDTV] [SD]
@@ -57,16 +47,6 @@ magnet:?xt=urn:btih:cccad37998d8199b4fe6a3e164c5be0337b51a27
 magnet:?xt=urn:btih:dee8f35ed0dcdaaef20cd87a7938b63661a632eb
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 305) [HDTV] [HD]
 magnet:?xt=urn:btih:ed632aae2664b806307fc5fa540ffc527bce8273
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar  (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:ee41d7d0f8c73020f3b865f63ce17033a3a7b0a2
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar  (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:5e7a0d75161fe67155eb5258fcfbbe0206585c1c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar  (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:70d84082d992f998dc834ce2caf4af3f947fd0bb
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:8ed18b99dcb49d88fc8e8b2f50a172f2e21fd162
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:8ebfafef8de1eb708deb64cc4d17ade134812ce5
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 203) [HDTV] [FHD]
 magnet:?xt=urn:btih:018b84e99c0ed3a99c531edefb75dc6be185a280
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 204) [HDTV] [FHD]
@@ -103,24 +83,6 @@ magnet:?xt=urn:btih:a43a3fbf5152bdd8f0748c039e89b0d4972a32a9
 magnet:?xt=urn:btih:511342cc9ccfe1d375e8cf48c174c3543ff6d2ea
 #EXTINF:-1 group-title="Arnold" tvg-id="" tvg-logo="" ,Arnold (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:f59376660a9ef397843978bfa44ca408cdb5a93d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Asedio (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:7f1d15711037031e952872851f86a0cb9160999d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Asedio (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:b52822c741ac9ee2e5cc04641288435c4d64bdf3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Asombrosa Elisa (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:2a7f10181f0d00f38e180efd848d8a489cd7f501
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Asombrosa Elisa (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:6f749d678eea40315456acde7a9be0e30838c095
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Atrapaalmas (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:32b4751a05aac05e8b3a982b2af7ba08976bbae8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Atrapaalmas (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:a5f751627c961c663ac51fad92b1bec619bbe61e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Baby Assassins (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:87f71014d52964f6ec6a87cff690f295abbc395c
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Baby Assassins [Bluray] [SD]
-magnet:?xt=urn:btih:277a21e23dc5c524e1fe33403cc50af1ff40ebbc
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Baby Assassins [Bluray] [HD]
-magnet:?xt=urn:btih:026ce464af4ab3db2156e7b57d0ad704f27568bc
 #EXTINF:-1 group-title="Bad Banks" tvg-id="" tvg-logo="" ,Bad Banks (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:b454c77cf6a40b136c8dd1d4829eb3a95c82554e
 #EXTINF:-1 group-title="Bad Banks" tvg-id="" tvg-logo="" ,Bad Banks (Cap 102) [HDTV] [FHD]
@@ -167,42 +129,12 @@ magnet:?xt=urn:btih:9aa7ccd4929ae4f19871a570c4f5b937230b198f
 magnet:?xt=urn:btih:94c74d88fd3d9b2651c8a2820bea727b690c5206
 #EXTINF:-1 group-title="Bad Banks" tvg-id="" tvg-logo="" ,Bad Banks (Cap 206) [HDTV] [HD]
 magnet:?xt=urn:btih:7d98321e17ed236d35cad532d41e7e76f6e28d68
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:49638f76c165ea03983bf63580d7f58a9b69b9e5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:344bccfd4f253aa35cd27114b352e544a6620fca
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:34bb63d3f3a055b0fcce16b225d01310f29c0ff7
 #EXTINF:-1 group-title="Baraja La firma del asesino" tvg-id="" tvg-logo="" ,Baraja La firma del asesino (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:711aa711cda721adcc8aac8bcb7bc5bf60d08704
 #EXTINF:-1 group-title="Baraja La firma del asesino" tvg-id="" tvg-logo="" ,Baraja La firma del asesino (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:befdef2f177168253c6ce5419f355a7b86f046f1
 #EXTINF:-1 group-title="Baraja La firma del asesino" tvg-id="" tvg-logo="" ,Baraja La firma del asesino (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:2f88fd6e6919ca97d676344bc294d1a626d86306
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Beautiful Disaster 2023 [FHD]
-magnet:?xt=urn:btih:abd12e7411a7f48fc3b79393ed11b75f401254d9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Beautiful Disaster 2023 [HD]
-magnet:?xt=urn:btih:b7d768599feb0816e66c30ce32680b2c6bd9172f
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Belle y Sebastian La nueva generacion [Bluray] [FHD]
-magnet:?xt=urn:btih:005787587892f55e517461b7f3cedbfe95266ab2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Belle y Sebastian La nueva generacion [Bluray] [SD]
-magnet:?xt=urn:btih:8e8923086c201c66d85a0d673c79121d8d010bf0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Belle y Sebastian La nueva generacion [Bluray] [HD]
-magnet:?xt=urn:btih:7a99d0c95ae5282c69b43c0306874c4ce8d88424
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman (2023) [4K]
-magnet:?xt=urn:btih:4b5e796d4c7f2e96306b289037d18e79355b64dc
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:2157cdfa7b0860d475d044422d71ab28b4c85c5a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:5c9f51e22f6003bccd5ec0795b49d104b0dc2493
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:85cc4e291a6c84579fab68ca452d253e640b9327
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bird Box Barcelona (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:93f4d6fda42221a153c4346b1ec8155edd7522e6
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bird Box Barcelona (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:8fab5ea6a7b3cec2e38f180603596952a9d0c588
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bird Box Barcelona (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:fe34ee2f2a589a7796070df3465aa644ce6b8187
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:5cab3022d69b4981b9246e8d2d342eddfa55b9d2
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 102) [HDTV] [FHD]
@@ -295,20 +227,6 @@ magnet:?xt=urn:btih:3a8a81a6512d2dc34107b3a4b4d1ae115d76027b
 magnet:?xt=urn:btih:ec31ee32c607988a1ad2da91a7bed28573cacebe
 #EXTINF:-1 group-title="Blue Bloods" tvg-id="" tvg-logo="" ,Blue Bloods (Cap 1321) [HDTV] [HD]
 magnet:?xt=urn:btih:c3cf5c4f0fe081c10649d2b21854fe4ffb50b102
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:f98c89e5b1624d86611ecaa4747d651650fa17d0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:2d83f843d42bd226cf35985de645e1a8c5c5661c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:e24054def9a5004c42cfc5208e36c4887333f884
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:4a4dcc75d9a6be107d1ee34dfda544c9ad1f7097
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:75ddee05e7096da1b4cfa74880f1c0a2e8c2f6c3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:6f83dc5d201902184f14ee127dec93871665bf82
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Brad Pitt - todas las caras.torrent
-magnet:?xt=urn:btih:6b9553abc6e67082cd2b801a81ccc55f615d7d42
 #EXTINF:-1 group-title="Break Point" tvg-id="" tvg-logo="" ,Break Point (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:09e14dacf23c8c7eeb4fc24456ee570969c643bc
 #EXTINF:-1 group-title="Break Point" tvg-id="" tvg-logo="" ,Break Point (Cap 102) [HDTV] [FHD]
@@ -317,22 +235,6 @@ magnet:?xt=urn:btih:2ff0ba2047c6a3bc55f06dd60706a28c91f4b239
 magnet:?xt=urn:btih:33243a47c1a7c309260549b172b245cdfaf25dd1
 #EXTINF:-1 group-title="Break Point" tvg-id="" tvg-logo="" ,Break Point (Cap 110) [HDTV] [FHD]
 magnet:?xt=urn:btih:5798662fedc4ee3eafd611e85d2addb524bd2b7a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bukraken (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:5cda11f65f4ffedda952c5f98708d3080c0ac46c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bukraken (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:226835e3f0311144e06347976cbd3794308497f0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,C4ft4nAzl [FHD]
-magnet:?xt=urn:btih:6a86bad90e3895548ebdf25eaa1eb306a8a90347
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz  (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:594853328173b22438c0e06de98f626ff8990c9d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz  (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:16fa98ecf852ef0c03e50646f6be0fa960111ed6
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz  (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:1bd75f37cd64a2578e42e9968dd9dc92826ac235
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cash (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:182aef92ae0ebd96ea42425dc323b87d9b6920a0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cash (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:62b44fccf298d3cc0d5b763957a4fee9444a4ff1
 #EXTINF:-1 group-title="Castigo" tvg-id="" tvg-logo="" ,Castigo (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:1706b90055841d5a9e717a9824ccee109452028f
 #EXTINF:-1 group-title="Castigo" tvg-id="" tvg-logo="" ,Castigo (Cap 102) [HDTV] [FHD]
@@ -477,12 +379,6 @@ magnet:?xt=urn:btih:961d2a21b804a50840f7458fdc87d5f89b23f01f
 magnet:?xt=urn:btih:c51c0b6adefc6ab4aa7b0ccfc9f942adfc9148ce
 #EXTINF:-1 group-title="Circulo Cerrado" tvg-id="" tvg-logo="" ,Circulo Cerrado (Cap 106) [HDTV] [HD]
 magnet:?xt=urn:btih:9c37a31442b96ca96e7565db4974b03b3a3cf7d2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [FHD]
-magnet:?xt=urn:btih:efd2dea34cf3c639466c8b4b73b96c7d4529563e
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [SD]
-magnet:?xt=urn:btih:fc2e54427f652cd0e4afffdac611d995b106fc2e
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [HD]
-magnet:?xt=urn:btih:82ab222d77be0cf7c748c7dbecc9f8cb05ed89a7
 #EXTINF:-1 group-title="Como conoci a vuestro padre" tvg-id="" tvg-logo="" ,Como conoci a vuestro padre (Cap 217) [HDTV] [FHD]
 magnet:?xt=urn:btih:a228b8e54aaa52d32498de3d98e398933d8e6f4c
 #EXTINF:-1 group-title="Como conoci a vuestro padre" tvg-id="" tvg-logo="" ,Como conoci a vuestro padre (Cap 218) [HDTV] [FHD]
@@ -505,10 +401,6 @@ magnet:?xt=urn:btih:5a9f2660824bd8431adb3cc4fa794a7e9091ab45
 magnet:?xt=urn:btih:926c3973cdaae7dc414858da99ad888bf43d0de9
 #EXTINF:-1 group-title="Como conoci a vuestro padre" tvg-id="" tvg-logo="" ,Como conoci a vuestro padre (Cap 220) [HDTV] [HD]
 magnet:?xt=urn:btih:97aa46224ec2034fb9596dd3e97b31cc4a895597
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Como Dios manda (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:831b57f75578d82a05b18b80ed18303fe30b8344
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Como Dios manda (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:f4403f66d3c1b09f0295e0cd7bb39d935d70a587
 #EXTINF:-1 group-title="Como se convirtieron en l�deres de sectas" tvg-id="" tvg-logo="" ,Como se convirtieron en l�deres de sectas (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:f6a5f14a08faf7c3c0bef3291a06d83d151d862e
 #EXTINF:-1 group-title="Como se convirtieron en l�deres de sectas" tvg-id="" tvg-logo="" ,Como se convirtieron en l�deres de sectas (Cap 102) [HDTV] [FHD]
@@ -541,14 +433,6 @@ magnet:?xt=urn:btih:2b39c3b4f7ae29153dae457b1c16a72484ab5f16
 magnet:?xt=urn:btih:3958733072532d74e15ede45dcbd48b9dbbc9972
 #EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1204) [HDTV] [HD]
 magnet:?xt=urn:btih:6f9e71f692be0c228a132cfd3a89f4abb1abba9b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo (2022) [4K]
-magnet:?xt=urn:btih:275f1766552b29e1b4b13adbc344acf2024e2402
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:506537ac2653d89496a0820b5d1e7ae87e10dc20
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:3ebbcb6ba8c4ddecb42693508b745cd45f9acb99
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:352532e0d0866f49d1f4f269079d27faee9290d4
 #EXTINF:-1 group-title="D P   El cazadesertores" tvg-id="" tvg-logo="" ,D P   El cazadesertores (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:743a5ace2bdcbb35c171e7820df30eed431b293b
 #EXTINF:-1 group-title="D P   El cazadesertores" tvg-id="" tvg-logo="" ,D P   El cazadesertores (Cap 202) [HDTV] [SD]
@@ -631,8 +515,6 @@ magnet:?xt=urn:btih:d733fc8f1c2a2f3dee6b721532711800c5bcc8bd
 magnet:?xt=urn:btih:eeb85776322d252a1d51ff315247332ec32dc0b7
 #EXTINF:-1 group-title="Deadloch" tvg-id="" tvg-logo="" ,Deadloch (Cap 108) [HDTV] [HD]
 magnet:?xt=urn:btih:750b1d34f5c51b15c35ae2ff4514d826c1a9593f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Desaparecida El caso Lucie Blackman (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:f2621cbc19faebd533d42f08a9276ce600fe48b6
 #EXTINF:-1 group-title="Diana La investigacion continua" tvg-id="" tvg-logo="" ,Diana La investigacion continua (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:e726a530f675e1a0795c8550f3064695ba8b48cb
 #EXTINF:-1 group-title="Diana La investigacion continua" tvg-id="" tvg-logo="" ,Diana La investigacion continua (Cap 102) [HDTV] [FHD]
@@ -721,16 +603,6 @@ magnet:?xt=urn:btih:7416d3acef76b58c3f397387595ca6be823c3845
 magnet:?xt=urn:btih:a4b2236c9982d04f9556a1190ef73a484b5b818e
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 105) [HDTV] [HD]
 magnet:?xt=urn:btih:994a8121d0f39e6dcb4045d9e82551f221b08e2f
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Don Cochecito y los caballeros templarios [HD]
-magnet:?xt=urn:btih:8d8ae4f2cdb66c58baa19aed21cb64e9706a42d3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Don Cochecito y los caballeros templarios (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:071b2b666c4598c235f0641dd14de7ea731a8b60
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dragon Ball Super Super Hero (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:cb632c92ba748154a96d5e90df8bd8668266e6ea
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dragon Ball Super Super Hero (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:b8ef70dce727da7debda4eed67b270938543d305
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dragon Ball Super Super Hero (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:60003dbb517f74a043956555d7a16fa7386abd1a
 #EXTINF:-1 group-title="Dulces Magnolias" tvg-id="" tvg-logo="" ,Dulces Magnolias (Cap 301) [HDTV] [FHD]
 magnet:?xt=urn:btih:63c02abff1a94d066a656c2c2f7bdb373c3f0cdb
 #EXTINF:-1 group-title="Dulces Magnolias" tvg-id="" tvg-logo="" ,Dulces Magnolias (Cap 302) [HDTV] [FHD]
@@ -791,10 +663,6 @@ magnet:?xt=urn:btih:97e20838a9ad1fb2b557e2c74d0095a10776c197
 magnet:?xt=urn:btih:ab22dd8d4f0c319b316a93edd6cd749fa413a29b
 #EXTINF:-1 group-title="Dulces Magnolias" tvg-id="" tvg-logo="" ,Dulces Magnolias (Cap 310) [HDTV] [HD]
 magnet:?xt=urn:btih:e156ca6332aca546372c360666047782252e0605
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Eden (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:3620dcdd00277f16ec9274780904b4f16137294b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Eden (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:401558d3fd5c7e7a730ba7c40c3fb340d0bec3e0
 #EXTINF:-1 group-title="El Abogado Del Lincoln" tvg-id="" tvg-logo="" ,El Abogado Del Lincoln (Cap 201) [HDTV] [FHD]
 magnet:?xt=urn:btih:76893d16128aaa1d5bd3f5b56d76cb0adddac348
 #EXTINF:-1 group-title="El Abogado Del Lincoln" tvg-id="" tvg-logo="" ,El Abogado Del Lincoln (Cap 202) [HDTV] [FHD]
@@ -825,64 +693,22 @@ magnet:?xt=urn:btih:04b78ebfde7a225755563d7f23d9962bd54ade39
 magnet:?xt=urn:btih:de6784ef99efdf453031601208241142593138d7
 #EXTINF:-1 group-title="El Abogado Del Lincoln" tvg-id="" tvg-logo="" ,El Abogado Del Lincoln (Cap 205) [HDTV] [HD]
 magnet:?xt=urn:btih:480114efa3353e537258dbd2795b7010643dfb61
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,EL Aleteo de las mariposas (2023) [FHD]
-magnet:?xt=urn:btih:c247ad37f5e9ac18b936dc66bf32ba85722a5850
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El caftan azul (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:958ea42176ce43bbcf7a5ab20044d8b76c4d8984
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El caftan azul (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:33eccb8088403721aa5d9ae8f4b2037d3560f516
 #EXTINF:-1 group-title="El castillo de Takeshi" tvg-id="" tvg-logo="" ,El castillo de Takeshi (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:0def11383598da83d74f90e0e4e7fb273f8b1348
 #EXTINF:-1 group-title="El castillo de Takeshi" tvg-id="" tvg-logo="" ,El castillo de Takeshi (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:db5ab478f476e442c94547a61cb935e8b60491b2
 #EXTINF:-1 group-title="El castillo de Takeshi" tvg-id="" tvg-logo="" ,El castillo de Takeshi (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:613a5176e8ace08b6f3b322430fc81bb36e12a01
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El clon de Tyrone (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:31d2fb700e0176ccfbd8f53311ade2f399395036
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El clon de Tyrone (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:763263a00f7f354219f79db2d3a5d6c862bec676
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar�a (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:a48b3ad04342ac7b48d824c0c515e19c5ccc7701
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar�a (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:24698525cd47a5ec797e068f9e764058155c726f
 #EXTINF:-1 group-title="El Garaje del Futuro de Robert Downey Jr" tvg-id="" tvg-logo="" ,El Garaje del Futuro de Robert Downey Jr (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:3b3db92f58ae15ecc57492f43864e31eff089b5e
 #EXTINF:-1 group-title="El Garaje del Futuro de Robert Downey Jr" tvg-id="" tvg-logo="" ,El Garaje del Futuro de Robert Downey Jr (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:2a90ef416bb198e50bb8d10cbb95760346939425
 #EXTINF:-1 group-title="El Garaje del Futuro de Robert Downey Jr" tvg-id="" tvg-logo="" ,El Garaje del Futuro de Robert Downey Jr (Cap 106) [HDTV] [FHD]
 magnet:?xt=urn:btih:e7b9e93964bb46b5fcbafef9abb63c7af318ec4f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El impacto de Van Damme (2023) [HDTV] [FHD]
-magnet:?xt=urn:btih:1742bb5258ac3d7e1524394163a8eb37c40c8bf8
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente  (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:bdc22b86579e977204ba9a1389bd9788817c5506
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente  (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:6afee70a8c1ede4a4f61a9ff5e7d06f0ee3697c4
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente  (2022) [HDTV] [FHD]
-magnet:?xt=urn:btih:efdf3b27e977f7c904a630beb73ea89198e39bdd
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:d73e67dfb0a5f795c58a74226d35176c58430bf2
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:c479b0d526403457143a1ebd462cadc78f8b8572
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:575a60692054ae937136ceb6a310928080b12b10
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo  (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:0af1d6d8589ac7cc84b5c9047f804721d17f3d86
 #EXTINF:-1 group-title="El principe que nunca reino" tvg-id="" tvg-logo="" ,El principe que nunca reino (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:04e6a54754c1a93eb1366a2d9512dbb703edc159
 #EXTINF:-1 group-title="El principe que nunca reino" tvg-id="" tvg-logo="" ,El principe que nunca reino (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:6f4ccacbdcddfb43d88d296d6a4f23f82f8dcdd5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [FHD]
-magnet:?xt=urn:btih:4f60f242ae7a25a827ad53931b321fa99cd0de6a
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [SD]
-magnet:?xt=urn:btih:526c1ab6596394f9e391c676cca8ace37f346e8f
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [HD]
-magnet:?xt=urn:btih:b971136ae830246e75cf4d810eb2c91f54cb9bf3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:6e5aacc88fdcc013d14adae3db27ef832b6aacb2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:ffe258e06b68c727d68eae145fcd67b63530ff8d
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El Resort 1x05 El Espejo [FHD]
-magnet:?xt=urn:btih:e2809b5cf333e2338ab0b8df5873af2db6d2af0e
 #EXTINF:-1 group-title="El Resort" tvg-id="" tvg-logo="" ,El Resort (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:976c8603c4e779535bf4ebef1a1a0591f5f2a4f5
 #EXTINF:-1 group-title="El Resort" tvg-id="" tvg-logo="" ,El Resort (Cap 102) [HDTV] [FHD]
@@ -1011,34 +837,12 @@ magnet:?xt=urn:btih:3e356c27a7228df4c32677177b34b050efd9dca2
 magnet:?xt=urn:btih:d0b0438501d17bb20f27aa4a91c1d27548a5139d
 #EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 205) [HDTV] [HD]
 magnet:?xt=urn:btih:d06640928a212e3d6550e3318c478c4c0f04d568
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Fatum (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:1f32850aa1cdd99c59e1bfaf1b606983662e8e07
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fatum [Bluray] [SD]
-magnet:?xt=urn:btih:6bed7b5259d18d82f16e40c28e110f3b72eedfea
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Felicidad para principiantes (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:3261f77ff0428e75eb9c113b514d19ccf29cd83f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Figli (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:bb29b259393a679142021fd1c02d2ae27e2d08f3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Figli (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:91737c542e4a0fcb5150418aca839c6d8a2449af
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Figli (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:5a628a660dc80cc47901e84013ae6141aa4a6084
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Flash (2023) [4K]
-magnet:?xt=urn:btih:ff67dcb0a5368ef641885effbb31ec150ed212df
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Flash (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:07b92a0d17fa1288ad9c592d62b1aacfbb85cbb4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Flash (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:bbeb784d5e52be1d4612a2f4c4e126ff8b326c75
 #EXTINF:-1 group-title="From" tvg-id="" tvg-logo="" ,From (Cap 210) [HDTV] [FHD]
 magnet:?xt=urn:btih:d607b25f2b06ac287286a8bf6981902b9cd3ab1d
 #EXTINF:-1 group-title="From" tvg-id="" tvg-logo="" ,From (Cap 210) [HDTV] [SD]
 magnet:?xt=urn:btih:096bce48d1ff54f7a63bdff1ea710ca10f219e0b
 #EXTINF:-1 group-title="From" tvg-id="" tvg-logo="" ,From (Cap 210) [HDTV] [HD]
 magnet:?xt=urn:btih:dd58abbc196a90ff640ede5c6e00db854a4b4c11
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Fuerza bruta  (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:b2be984a7e2b05f1f22bea6a87481f8f97833604
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Fuerza bruta  (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:1579809d64d10da92e1bdf179e86f42dd6efa99c
 #EXTINF:-1 group-title="Full Monty" tvg-id="" tvg-logo="" ,Full Monty (Cap 104) [HDTV] [SD]
 magnet:?xt=urn:btih:b00638e27810205561113ed2559ccd5607046035
 #EXTINF:-1 group-title="Full Monty" tvg-id="" tvg-logo="" ,Full Monty (Cap 105) [HDTV] [SD]
@@ -1083,16 +887,6 @@ magnet:?xt=urn:btih:25d74623bc1db62d5940583314b8ab1c18d5f5d8
 magnet:?xt=urn:btih:cac41f845b16fbb0dd7b7706518932f153c1056f
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 203) [HDTV] [HD]
 magnet:?xt=urn:btih:0779e47df499ddd82377dd147cab79276655d226
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,G-Loc (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:64dd9c3160454a219f371974472f4e471b2a2a44
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,G-LOC (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:9756c7c69e003ca38c5c07eb757ca495e67212cf
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,G-LOC (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:0dffaeccd66f314a8f656c2a81232c568b5dcad9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Gatlo (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:01b953c91e642d08dbdee29770a98acc5f6579cf
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Gatlo (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:f2f8c77390cedfe3ddf97de667848b8d6a9cc6f7
 #EXTINF:-1 group-title="Ghosts Of Beirut" tvg-id="" tvg-logo="" ,Ghosts Of Beirut (Cap 101) [4K]
 magnet:?xt=urn:btih:949c2b516fea867a6e29d7eeaecdbb8c2388abff
 #EXTINF:-1 group-title="Ghosts Of Beirut" tvg-id="" tvg-logo="" ,Ghosts Of Beirut (Cap 102) [4K]
@@ -1183,34 +977,6 @@ magnet:?xt=urn:btih:3e2c85c584d34d447e2bf97d7afdecd73e3fa331
 magnet:?xt=urn:btih:db702c41975a531d7feb295fbb8d0651811d06a1
 #EXTINF:-1 group-title="Gotham Knights" tvg-id="" tvg-logo="" ,Gotham Knights (Cap 113) [HDTV] [HD]
 magnet:?xt=urn:btih:e61494f11e31abc10e8010881d61220d953be6fa
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta  (2022) [4K]
-magnet:?xt=urn:btih:9e6c2ead3467a5e66937b78c613167c35e193b12
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta  (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:cab7003489c7c8e9cc2b0068fe32e5767277a963
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta  (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:03fcc154bcd5653d48aad4266600baf19e757d08
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta  (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:3638f1797bf86ed43826260c48c2177177873797
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Gringa (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:3c9c7ff7b93589242ca0d80ecb90ec82a855175f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Gringa (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:2c14483ac6d500b006c742a73ca4f8eba59e6b20
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Gringa (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:69d8359cc405933c10c9cf00ebdcf7df0644f4b6
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [4K]
-magnet:?xt=urn:btih:028805b1679886a5208dbf401ed618af1e3425dc
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [FHD]
-magnet:?xt=urn:btih:e2a76bae7d45fbc3744d2bd3443be41aa517f6c2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [SD]
-magnet:?xt=urn:btih:e9c3a08287c8849f1c961d7c131f5d8aaebae880
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [HD]
-magnet:?xt=urn:btih:60b6d6bc8cb5b8af7ab819cd9c4e2c02d52d9240
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,H (2022) [HDTV] [FHD]
-magnet:?xt=urn:btih:7a84cc5c2cb46fa47eb08e2e3eaebcbe4060d5c2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Hidden Strike (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:07d526661728e43c4f3b957c532e1c546dbd52cf
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Hidden Strike.torrent
-magnet:?xt=urn:btih:b03b1a97115ef9b74046de767c3e080da3367d3a
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap ) [HDTV] [HD]
 magnet:?xt=urn:btih:a97a88664c912548541925813d0d1c566e41a6bb
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 102) [HDTV] [HD]
@@ -1253,24 +1019,6 @@ magnet:?xt=urn:btih:56c2bb2535eab4080391a6227dd28a99078f739f
 magnet:?xt=urn:btih:9d02f2dd0ca4223efd85e922d36742ddfb90ca93
 #EXTINF:-1 group-title="Hotel El Balneario" tvg-id="" tvg-logo="" ,Hotel El Balneario (Cap 606) [HDTV] [HD]
 magnet:?xt=urn:btih:9f5b727768e3dcb37d89975a46f9e3f91effb03f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Huye conejo huye (2023) [4K]
-magnet:?xt=urn:btih:8f569b5a3b13153b779bad9b94f32f5b8a32ed1d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Huye conejo huye (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:1bd868e629d9d31defe77f96cd2171a46383f485
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Huye conejo huye (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:a3321455b4e4534375cce7c8362162c4ee2f042b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Il Boemo (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:ffe0b8a209fce82f46c15cea9043eea6b5497d41
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,IlBo3mo [FHD]
-magnet:?xt=urn:btih:838392e66fbfc916c1dcf64114de00dcd37aaab5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:52f82ee2d12443834e3176bc32d816b75b8a6aa2
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:897ee864bf662b4e856b7f9f8685719903f3d766
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:382973e99daa600720fd236cac9486d6d2841ac0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Intoxicacion La cruda verdad de nuestra comida [Bluray] [FHD]
-magnet:?xt=urn:btih:b5c3566ab750150e58f48c56e070c9efc3957bbf
 #EXTINF:-1 group-title="Invasion Secreta" tvg-id="" tvg-logo="" ,Invasion Secreta (Cap 102) [4K]
 magnet:?xt=urn:btih:7835a0f54c4872257cdbbe65588a33a1bad20005
 #EXTINF:-1 group-title="Invasion Secreta" tvg-id="" tvg-logo="" ,Invasion Secreta (Cap 103) [4K]
@@ -1361,14 +1109,6 @@ magnet:?xt=urn:btih:1f2141f86b100ddbbf0d2dcab30cc8ce1dad417f
 magnet:?xt=urn:btih:ef1787180ffb99d722562cb158010330efa083c9
 #EXTINF:-1 group-title="Jack Ryan" tvg-id="" tvg-logo="" ,Jack Ryan (Cap 406) [HDTV] [HD]
 magnet:?xt=urn:btih:02c07118ed5af9583c6db9181b937e4763b63403
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution (2023) [4K]
-magnet:?xt=urn:btih:8b6eeeadc02a617b90f9c196fe47692d11cbc35d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:b5e4c25ee7f34a4bd85fb02588e951286c5af193
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:4bb9e3bb19af7928dda48d2a50fee352fa6a8d72
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:32dded850d6c6c7a1af291e9a69fcacda58a9836
 #EXTINF:-1 group-title="Juan Carlos La caida del rey putero" tvg-id="" tvg-logo="" ,Juan Carlos La caida del rey putero (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:67299884498fa2be3bb83aff1c5ecd089a96df48
 #EXTINF:-1 group-title="Juan Carlos La caida del rey putero" tvg-id="" tvg-logo="" ,Juan Carlos La caida del rey putero (Cap 102) [HDTV] [SD]
@@ -1445,44 +1185,6 @@ magnet:?xt=urn:btih:72632910b06b65153fab50696eb518663cd06f54
 magnet:?xt=urn:btih:cc06242b39a147bc12bd86febdfc36fb14216adf
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 108) [HDTV] [HD]
 magnet:?xt=urn:btih:81033a0442ed7a469b39367564870de4c83ce487
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:ac15488f6559733100da8607205b761af4ae6a10
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:2f6fa2dafee591d19369a98662e59c2fa0aad766
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:6f68d091fb68e0b6177ee57bf830e1cba626040b
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La Dama del Silencio El caso Mataviejitas [HDTV] [FHD]
-magnet:?xt=urn:btih:383bf21b12ddd6420620d7b826a7bc7dcdfc9546
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La doble vida de Kim Novak [Bluray] [FHD]
-magnet:?xt=urn:btih:977fa803b61b4739b9c07ea6df039a5cd4d29ee7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie (2023) [4K]
-magnet:?xt=urn:btih:3efbde900408516f908bff7d1f4c9747d79ed297
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:637c7bcecfd5de5a42b285e2c027874ace5ea6d2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:f0e929d41fc26e5507c7d8552ba320f03b9958fb
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie (2023) [HDTV] [FHD]
-magnet:?xt=urn:btih:bd9a35880d73f791c5908978b3a3dbefeca1f38d
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,La fuga del capitan Volkonogov (2021) [Bluray] [SD]
-magnet:?xt=urn:btih:19213c98b55b296ae2f76aae4275dac7cfcc15b2
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,La fuga del capitan Volkonogov (2021) [Bluray] [HD]
-magnet:?xt=urn:btih:5f86dceb273b62983b438ed496d8cbb4f3a94eaa
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:062828fac26a71e7a45616ae8db3175576fde2c4
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:0539fd38bb7bf6650089471e91543833cf33dc45
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:4cdcd27e512cca9786f05bd265a50a7f9d1253fc
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:2db8c33dce21840f6dd7a330da40d76824867d21
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:041e44ac164f4de3669e7fbfc6b756d825f04cb1
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La inspiracion mas profunda [Bluray] [FHD]
-magnet:?xt=urn:btih:fd31c8c6e273ba448b4a76476be9eb591029f10b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La noche (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:c35e2ada940099aa5cf5ccb941ffc9800c05c2bd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La noche (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:43885e3c66bda1645c3c828ed2fbe2550a875457
 #EXTINF:-1 group-title="La noche que Logan desperto" tvg-id="" tvg-logo="" ,La noche que Logan desperto (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:ad0aea8f92291d7abf75c7f6f2d2b9b6c95137af
 #EXTINF:-1 group-title="La noche que Logan desperto" tvg-id="" tvg-logo="" ,La noche que Logan desperto (Cap 102) [HDTV] [FHD]
@@ -1513,26 +1215,6 @@ magnet:?xt=urn:btih:fde4f7045d23e0f9f437cd31bb6635560177ab5a
 magnet:?xt=urn:btih:e89f3ff52003057a6d3c6b2859dfbddf6978e200
 #EXTINF:-1 group-title="La noche que Logan desperto" tvg-id="" tvg-logo="" ,La noche que Logan desperto (Cap 105) [HDTV] [HD]
 magnet:?xt=urn:btih:73bbd6ea8b2fbb98655cbc6f2cdb5e7d5a61b955
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La paradoja de Antares (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:b8bd118cd86d315c19268a67fd1bf72461e02b6b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La paradoja de Antares (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:a1902ad1729897a81c9dc60582b8e42c61702b28
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La primera purga [4K]
-magnet:?xt=urn:btih:a2bac534995f864f0847b5cdf6cea379cbfb1517
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita (2023) [4K]
-magnet:?xt=urn:btih:18d755ef3b4fb81bace821d3003a8d1974151256
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:26fe398554006baf19ad4427a7f4ad2dde9a0afa
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:afe8a585c457a69c436d630e40ab854f1e3e1e04
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:2f3419a8651ab68ec634d89eb841a68d68d6656e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:119210376d498760d9aa9c10a11c3f59072e3036
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:b4364df8e95e6cd8964548bebd1aed8787135789
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:3624ae5fce8356d4146977bc0ef7bebebf2a91bc
 #EXTINF:-1 group-title="La Supervivencia De Una Chica Con Curvas" tvg-id="" tvg-logo="" ,La Supervivencia De Una Chica Con Curvas (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:e45ac227437216e8b2242f6ace0ac4e5ceca6488
 #EXTINF:-1 group-title="La Supervivencia De Una Chica Con Curvas" tvg-id="" tvg-logo="" ,La Supervivencia De Una Chica Con Curvas (Cap 102) [HDTV] [FHD]
@@ -1651,12 +1333,6 @@ magnet:?xt=urn:btih:6f5fd0165b17ae4cc3b47bd51ea68e2aa10e5146
 magnet:?xt=urn:btih:393693011aaee599a97070f2476da19feb1474a5
 #EXTINF:-1 group-title="Las cinco primeras" tvg-id="" tvg-logo="" ,Las cinco primeras (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:437fcd522c16799a715276c41dc9387472713cf1
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las estrellas al mediodia (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:3789897cb085bd783ba4bc941568b72bb25e51a1
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las estrellas al mediodia (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:037c98fc30facd1c1b426233dbeaa66781e62ce7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las estrellas al mediodia (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:5d5ebe1b4283d6a26a100dcbf91ae8adadad3f38
 #EXTINF:-1 group-title="Las invisibles" tvg-id="" tvg-logo="" ,Las invisibles (Cap 104) [HDTV] [FHD]
 magnet:?xt=urn:btih:18706d729af42592f1f11c81a242772936dcbe99
 #EXTINF:-1 group-title="Las invisibles" tvg-id="" tvg-logo="" ,Las invisibles (Cap 105) [HDTV] [FHD]
@@ -1691,10 +1367,6 @@ magnet:?xt=urn:btih:d6d32c913fead83220afc721fd61bb866367ce57
 magnet:?xt=urn:btih:d745886dad4f111334814b4fde93a2de60254e3a
 #EXTINF:-1 group-title="Las Noches De Tefia" tvg-id="" tvg-logo="" ,Las Noches De Tefia (Cap 106) [HDTV] [HD]
 magnet:?xt=urn:btih:d8eb83f7b5c8ac0af6646835f1f4f85ad2e6a6e8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Las Noches De Tef�a 1x05 Forte Imaginatio [FHD]
-magnet:?xt=urn:btih:99dd5814fa1e84432dfb0a2bae78d20e504a351c
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Last Call When a Serial Killer Stalked Queer New York [HDTV] [FHD]
-magnet:?xt=urn:btih:54997322cd6ecf24d0af0c667be07acfcc7ecf6f
 #EXTINF:-1 group-title="Last Call When a Serial Killer Stalked Queer New York" tvg-id="" tvg-logo="" ,Last Call When a Serial Killer Stalked Queer New York (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:97209bc125dc9cc69073815a4996cef1cab43edc
 #EXTINF:-1 group-title="Law and Order Organized Crime - Temporada 3" tvg-id="" tvg-logo="" ,Law and Order Organized Crime - Temporada 3 (Cap 319) [HDTV] [FHD]
@@ -1771,22 +1443,6 @@ magnet:?xt=urn:btih:40cc890035f6693c259e64e86a07f1110b2ca315
 magnet:?xt=urn:btih:e235909f9bda876e19802a236ba65be36e2d2c45
 #EXTINF:-1 group-title="Leopard Skin" tvg-id="" tvg-logo="" ,Leopard Skin (Cap 108) [HDTV] [HD]
 magnet:?xt=urn:btih:4b18b892a750927b0209551f9f14539fbd0dfb76
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Libelula (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:d699f14a17a5370acfea75ede0d8331cdec91306
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Libelula (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:10f5ef6c39795b68676eab730c4ec9de0933887d
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Lo desconocido La maquina del tiempo cosmica [Bluray] [FHD]
-magnet:?xt=urn:btih:87f9442353a0dab4ad790610a74f4d33b5d04c7b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lo que nunca te dije pero deberia haberte dicho (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:8fa26be8558468c34a9d19fa62aae4dfffca24f7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lo que nunca te dije pero deberia haberte dicho (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:2197efbc5a2e28a763415992210a09b22cd24e26
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Loli Tormenta (2023) [Bluray]
-magnet:?xt=urn:btih:0c391e6d5ec8cf86246c0601f6c6fef42aee732b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Loli Tormenta (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:72e2bf89d8ecfd2cc16f98ea81f3a09a829dc5fd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Loli Tormenta (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:38cafcdfb39c99a01bb6eaa8016241dedaab11d2
 #EXTINF:-1 group-title="London Kills" tvg-id="" tvg-logo="" ,London Kills (Cap 401) [HDTV] [FHD]
 magnet:?xt=urn:btih:a6587cf4fcaf40c534008f3b01c54d2dba58681c
 #EXTINF:-1 group-title="London Kills" tvg-id="" tvg-logo="" ,London Kills (Cap 402) [HDTV] [FHD]
@@ -1857,14 +1513,6 @@ magnet:?xt=urn:btih:09d66f74f863fc7db09533226766e2eac959355c
 magnet:?xt=urn:btih:18d50316a6eca29a6fa056c570a68ca145cb331b
 #EXTINF:-1 group-title="Los artistas Primeros trazos" tvg-id="" tvg-logo="" ,Los artistas Primeros trazos (Cap 110) [HDTV] [HD]
 magnet:?xt=urn:btih:dabf96ed3fb879067cf60da658fe615020be616e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco (2023) [4K]
-magnet:?xt=urn:btih:ab4f5b05320a185892544f85e0549da478343748
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:81489ca229a62491e6399ed06448ec48f0af540d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:4dbae3d537cd614361265f065710c0d3d4ae58fe
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:2f489a2c2cdaae6d3a93bcdb1433b7049ade8933
 #EXTINF:-1 group-title="Los Gemstone" tvg-id="" tvg-logo="" ,Los Gemstone (Cap 303) [HDTV] [FHD]
 magnet:?xt=urn:btih:88ead2daef1f6f3de7ad904930dc30609eae2ba8
 #EXTINF:-1 group-title="Los Gemstone" tvg-id="" tvg-logo="" ,Los Gemstone (Cap 304) [HDTV] [FHD]
@@ -1951,12 +1599,6 @@ magnet:?xt=urn:btih:da8da35b8ec4ac00526f1dba01fc28a4ccc4c1f9
 magnet:?xt=urn:btih:0f4d5e1c5fbb2b0b949f0b57a962c415fb68e3e6
 #EXTINF:-1 group-title="Los Simpson" tvg-id="" tvg-logo="" ,Los Simpson (Cap 3422) [HDTV] [HD]
 magnet:?xt=urn:btih:2fa2f8600bb3b6043e578202207cfaff73f3d285
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los Tiburones del Cabo Cod  (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:c766404a147f1a73c332ba1f117989badaf7f0eb
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los Tres Mosqueteros DArtagnan (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:bc8f70f599784c7d7eae12384599390fdcbd01b0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los Tres Mosqueteros DArtagnan (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:5b8fc5d1e32d26bdc093d4b8bdb6884aad479ee6
 #EXTINF:-1 group-title="Mapa" tvg-id="" tvg-logo="" ,Mapa (Cap 201) [HDTV] [FHD]
 magnet:?xt=urn:btih:7b3fde170ae742c1e3c2b1c29fefa24f0fa67d7c
 #EXTINF:-1 group-title="Mapa" tvg-id="" tvg-logo="" ,Mapa (Cap 202) [HDTV] [FHD]
@@ -1993,18 +1635,6 @@ magnet:?xt=urn:btih:ff628337c339bfae100dbbd6971463c21997f36b
 magnet:?xt=urn:btih:258b32560497a329442c23192eec2160641c9cf4
 #EXTINF:-1 group-title="Mapa" tvg-id="" tvg-logo="" ,Mapa (Cap 206) [HDTV] [HD]
 magnet:?xt=urn:btih:898666b6d8b26c45b0a34cc933e94a9215894604
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maravilloso desastre (2023) [4K]
-magnet:?xt=urn:btih:eef2c57acd043fb347b3ecdc18f2cd9a9f0b62a3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maravilloso desastre (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:f9f7d5caf33a634ae4e5cbaf4b7be9dbfc532702
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mari (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:1f78aaf0decf4c579e8fd12b72db2283f9682e0c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mari (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:6cf8dff94f390269a3a4993923b9b290af37b871
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maridos (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:37242733cd6edf625a0b6a0a5a0203a36170167b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mark Cavendish Imparable (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:14e9b9abd2e8bd3f2d559b493a8b410a30b09f3a
 #EXTINF:-1 group-title="Marvel Studios" tvg-id="" tvg-logo="" ,Marvel Studios (Cap 201) [HDTV] [FHD]
 magnet:?xt=urn:btih:737d5357f45e7483868a4fd4def97f11ace88049
 #EXTINF:-1 group-title="Mas de la caja de Pandora" tvg-id="" tvg-logo="" ,Mas de la caja de Pandora (Cap 101) [HDTV] [FHD]
@@ -2013,10 +1643,6 @@ magnet:?xt=urn:btih:91463494e76e4aaec61787ff1e850512aad970a3
 magnet:?xt=urn:btih:82166e20b0ad77aafe08c9531fb5b6bad9d74230
 #EXTINF:-1 group-title="Mas de la caja de Pandora" tvg-id="" tvg-logo="" ,Mas de la caja de Pandora (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:80cdce4a4898973ca07a832dd792118680257a70
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:d107140b7ffd3eb3f2c5c3d7e8b777be5a1d65a0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:c4c5e5ee182e35be6500f507cfa2a84553d0f975
 #EXTINF:-1 group-title="Mayans M C" tvg-id="" tvg-logo="" ,Mayans M C (Cap 506) [HDTV] [FHD]
 magnet:?xt=urn:btih:ec44798d8490064af95ae835bcc77c7f4333b1c0
 #EXTINF:-1 group-title="Mayans M C" tvg-id="" tvg-logo="" ,Mayans M C (Cap 506) [HDTV] [SD]
@@ -2123,12 +1749,6 @@ magnet:?xt=urn:btih:659068ffeaefe5f6e880af1d3caf0c75005017b5
 magnet:?xt=urn:btih:472e4c64b920c4c3c7b5f6d9dcd36a5c0e9acc7c
 #EXTINF:-1 group-title="Monarch" tvg-id="" tvg-logo="" ,Monarch (Cap 111) [HDTV] [HD]
 magnet:?xt=urn:btih:fba1c54b05091a9fbbb10813912f3b9bc31a189d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:c6b72f2814d3047e0ae9556408192864236fcdf7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:bf250083653451a01fdfcf02900e908bdc620c5d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:e9dd6bc663e29a308531de48850a23652ce6d003
 #EXTINF:-1 group-title="Musculos y caos" tvg-id="" tvg-logo="" ,Musculos y caos (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:bcca500a8ebe3d14c61b1eb366efe8a2f32da0a7
 #EXTINF:-1 group-title="Musculos y caos" tvg-id="" tvg-logo="" ,Musculos y caos (Cap 102) [HDTV] [FHD]
@@ -2219,12 +1839,6 @@ magnet:?xt=urn:btih:e2f0235c55232785c993ce13ee3a33d172f2526a
 magnet:?xt=urn:btih:8475f74fa6359ff60d413d1c04ee39de083d6945
 #EXTINF:-1 group-title="Narcas" tvg-id="" tvg-logo="" ,Narcas (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:d511f3740d63e35c24057394bc80492d3e7341ec
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nicole Kidman en primera persona (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:15b4cee28dd0b305b3e303d70405f2f4bc066507
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nimona [Bluray] [SD]
-magnet:?xt=urn:btih:3d56f6b65fa1e7504405a50db71f733010f3d310
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nimona [Bluray] [HD]
-magnet:?xt=urn:btih:25dd932b0190beb650d7fac7f64e97aa8de2eff7
 #EXTINF:-1 group-title="No apagues la luz" tvg-id="" tvg-logo="" ,No apagues la luz (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:e7fe6cecddcc56b8cfa6761646cebf82a37d7042
 #EXTINF:-1 group-title="No apagues la luz" tvg-id="" tvg-logo="" ,No apagues la luz (Cap 102) [HDTV] [SD]
@@ -2255,10 +1869,6 @@ magnet:?xt=urn:btih:ff0b5c866e5de902446c2f9128e7695afd0b9d5a
 magnet:?xt=urn:btih:7386d23ff065a1f859d70a1581167835f2ff8d6e
 #EXTINF:-1 group-title="Nuestro planeta" tvg-id="" tvg-logo="" ,Nuestro planeta (Cap 204) [HDTV] [FHD]
 magnet:?xt=urn:btih:3f3211f4dbcb0b3e4d51937d38510eac9c2b476f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Oenheimer El dilema de la bomba atomica (2023) [HDTV] [FHD]
-magnet:?xt=urn:btih:631fa983e87298f72c7a80a0a9f5b023d454a33f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Oso vicioso (2023) [4K]
-magnet:?xt=urn:btih:dab4b59a61bdb59fa7153fcba6440679fba4626c
 #EXTINF:-1 group-title="Outlander - Temporada 5" tvg-id="" tvg-logo="" ,Outlander - Temporada 5 (Cap 507) [HDTV] [HD]
 magnet:?xt=urn:btih:1a61a84a7e231c46ff5693a4a00cf3e2be4ac846
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 507) [HDTV] [FHD]
@@ -2285,18 +1895,6 @@ magnet:?xt=urn:btih:885b02f445ec6d5abea621e2bd98992e7bc72151
 magnet:?xt=urn:btih:b3544661c306d53a3c6fa6c17130a97cbeb96c5e
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 707) [HDTV] [HD]
 magnet:?xt=urn:btih:8233a1883524e4447a4bddac629963e9a8487fdc
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paint (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:9ba97ae7b8c6bfd5b551f131f8d529aaa7a7e4ae
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paint (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:3918c35c948cef9f9ca31c1a9e95b8a592b0e83c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paint (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:d9c3d8d2705ee8963598166084856f3b9c77b167
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paradise (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:05960b866934f3e19253e2603888dadbc730a2a1
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Pequena reina (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:769b71e4db5ec0c1f3a1e0cd157b8055c5dad432
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Pequena reina (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:87c4b1f3a395eeeb7045e0055b7cc2b4b73edaf0
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 301) [4K]
 magnet:?xt=urn:btih:bcdf158eb8fbc55c5a0e51f148cbf51bdea3af9e
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 302) [4K]
@@ -2309,20 +1907,6 @@ magnet:?xt=urn:btih:0fef08cf8b1c840a631c76608913d40dce819b45
 magnet:?xt=urn:btih:9ba865e5dc064f3fc49d6464fb203e92dd4539af
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 302) [HDTV] [HD]
 magnet:?xt=urn:btih:8d1ac32e2626ba33132e4cb0599e00ffc48773b4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Pisicna Infinita (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:ada9fb389bda0793d12764f25c41db187fd43eac
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Pisicna Infinita (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:88b4735efecef3b766484ea2729eb709a0771241
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pisicna Infinita [4K]
-magnet:?xt=urn:btih:0cda7b3cd951fed214c04ed527abdec24deacf91
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pisicna Infinita [Bluray] [FHD]
-magnet:?xt=urn:btih:30f019a5648b14bb2a462a52232f090164438326
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Planet Sex con Cara Delevingne (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:c2f1b9264c0c228203096f98a49f5cef37844e2a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Planeta 5000 (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:4f88f0629f3d5a728f6ba298f834ac5c035abfe9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Planeta 5000 (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:0fbbf38d781b8d58466fc26821f942711ef8af79
 #EXTINF:-1 group-title="Platonico" tvg-id="" tvg-logo="" ,Platonico (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:ec0321226d26b94c2c7e125b10792c44cdc522c5
 #EXTINF:-1 group-title="Platonico" tvg-id="" tvg-logo="" ,Platonico (Cap 109) [HDTV] [FHD]
@@ -2505,12 +2089,6 @@ magnet:?xt=urn:btih:3cd1f131e32be0537bb7693f9ecdb14c82f54209
 magnet:?xt=urn:btih:331b6c933f0a1729cf088148ca59b96f5c45631c
 #EXTINF:-1 group-title="Power Rangers Furia dino" tvg-id="" tvg-logo="" ,Power Rangers Furia dino (Cap 222) [HDTV] [FHD]
 magnet:?xt=urn:btih:7aa326018412fefc13b375a23242fe8573939cd1
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Professionals 1x04 [HD]
-magnet:?xt=urn:btih:757221748610df268429d432e0a7961332ac0a6c
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Professionals 1x05 [HD]
-magnet:?xt=urn:btih:9b610c36fcdbb4143098fec03bad84dc2528cc1f
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Professionals 1x06 [HD]
-magnet:?xt=urn:btih:e76ec27822cb8b225e8050f902fe3fe5db76d843
 #EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:e0cd8c6c7d71a6ef53c617a778cc44c7411aaa39
 #EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 101) [HDTV] [SD]
@@ -2553,32 +2131,6 @@ magnet:?xt=urn:btih:82c4390261d1cacc441f9d44b13248b959bd9001
 magnet:?xt=urn:btih:022ec09b2e2e4064a585a95e3d2e279304271ac0
 #EXTINF:-1 group-title="Quarterback" tvg-id="" tvg-logo="" ,Quarterback (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:aaae61513b532d0409818d963dd2e95185a24dbe
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield (2023) [4K]
-magnet:?xt=urn:btih:00b548e4999e4dcacd51a4f1c9f3625077045ff8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:ea50afbf0e1c8dc2cfb720aa0e507343387f42a4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:a0ab0670ea888842baa50d6e6cc58deb9c067021
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:92f54f9da59b35c3bc543d0e1d132cabbee3886b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Resident Evil Death Island (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:30c3608f1be734aa50a7309abbd4f8bff04582a9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Resident Evil Death Island (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:e56f075ece79cfb7572ab656957747265ea40762
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Retorno a Seul (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:02de2c5f45b6095f5e09094153707a136bdf779a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Retorno a Seul (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:ee539471ae8733632d256c7a8e9ef4a65059ae09
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Retorno a Seul (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:4f1a8a6f512e32306a663dd9a48a043ee036b2db
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Robots (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:04542aad71bd98399feafc5caa5499b7a756a8da
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Robots (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:2eac813492fe10144743c8faafb57e65ee36cc3d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Robots (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:f262303aca272cb3ad29f6ab8d770d8bce77efbe
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Robots [4K]
-magnet:?xt=urn:btih:09a84ad80925f03f751479994dd2ef2d458cf6ff
 #EXTINF:-1 group-title="Royal Crackers" tvg-id="" tvg-logo="" ,Royal Crackers (Cap 110) [HDTV] [HD]
 magnet:?xt=urn:btih:0302d992796a6066ffd3f33d6cd9d52ce35cf5d5
 #EXTINF:-1 group-title="Run the World" tvg-id="" tvg-logo="" ,Run the World (Cap 206) [HDTV] [SD]
@@ -2591,16 +2143,6 @@ magnet:?xt=urn:btih:71c1ab9998ee32c7a47f94e3b9d85a338bbfe01d
 magnet:?xt=urn:btih:a9b192a0ef1d23cea9e5931f3727c1d06b29ec42
 #EXTINF:-1 group-title="Run the World" tvg-id="" tvg-logo="" ,Run the World (Cap 208) [HDTV] [HD]
 magnet:?xt=urn:btih:29be38740f3626cb0ae3049ec46eac1ae7c26102
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:2088341d81f8df75b268db6d5980d76122cea8dd
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:8eb6007029e3388972c80f6974d151d0e64f2ac8
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:c2e669f3554e03e5de4480488abc30ee00563ddb
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Scarlet  (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:8f85114966cf32639238fbef840a98c45828b3da
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Scarlet  (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:1b05acba4598d3df09b90a151dd11fa73e20ccfc
 #EXTINF:-1 group-title="Se busca millonario" tvg-id="" tvg-logo="" ,Se busca millonario (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:edb670dd023ec3aec14ffce605d78dade6f9069a
 #EXTINF:-1 group-title="Se busca millonario" tvg-id="" tvg-logo="" ,Se busca millonario (Cap 102) [HDTV] [FHD]
@@ -2707,24 +2249,12 @@ magnet:?xt=urn:btih:42818c889d7913bbaf3d395bf9754d9dc8b5ca53
 magnet:?xt=urn:btih:ec52afc28163ca677a99dee5bb3b9587e168a87f
 #EXTINF:-1 group-title="Shaun White The Last Run" tvg-id="" tvg-logo="" ,Shaun White The Last Run (Cap 104) [HDTV] [FHD]
 magnet:?xt=urn:btih:5868ba9563de1a75a15abd7f66b61d1ec0d40bd5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si todas las puertas se cierran (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:91c32b09a82bd029851ad412e58afc31300e6115
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si todas las puertas se cierran (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:573de82cb702396c79359447611e2082c7c1fe7c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:415a12053e5c54809968e8f4c496c36b655cbe4d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:62fb041b234649c644d2e9b6645d9b2518591911
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:b2f333cacc4657f31ef9832902e51f696311f1d5
 #EXTINF:-1 group-title="Silo" tvg-id="" tvg-logo="" ,Silo (Cap 110) [HDTV] [FHD]
 magnet:?xt=urn:btih:510ddfe0083ce082e984349640662c9fed78c679
 #EXTINF:-1 group-title="Silo" tvg-id="" tvg-logo="" ,Silo (Cap 110) [HDTV] [SD]
 magnet:?xt=urn:btih:bd128dd239587d121a6ca1ddb72dbf37e2d34ab9
 #EXTINF:-1 group-title="Silo" tvg-id="" tvg-logo="" ,Silo (Cap 110) [HDTV] [HD]
 magnet:?xt=urn:btih:8619e047c31f94a871934ae0abfd4efeb1c33ffc
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sinead OConnor Nothing Compares [Bluray] [FHD]
-magnet:?xt=urn:btih:4c64cbe95b87fa131a1fb707f9d576d655a6d1ff
 #EXTINF:-1 group-title="Sisi" tvg-id="" tvg-logo="" ,Sisi (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:8f75cc36950dfe7ba971b44bef9078182957291d
 #EXTINF:-1 group-title="Sisi" tvg-id="" tvg-logo="" ,Sisi (Cap 202) [HDTV] [SD]
@@ -2833,8 +2363,6 @@ magnet:?xt=urn:btih:d970da1a72f4104cc6c243ab959f605cf94c785e
 magnet:?xt=urn:btih:e8a9e6ac791911b415408e0361743e545794e60e
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 208) [HDTV] [HD]
 magnet:?xt=urn:btih:46fee1516bd5d1a8474be2fa6dd356baff0da7d3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Stephen Curry Un jugador subestimado (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:a225695c7c7056dcbc522c65264d1c1832d05916
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:a3218a7950de878aa0e1242587efeec432715e79
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 104) [HDTV] [FHD]
@@ -2867,10 +2395,6 @@ magnet:?xt=urn:btih:b6b42053f527d1b901fef733eb85a51e8eb54c12
 magnet:?xt=urn:btih:ee8b1f9c4eb2da2170b0a0bb8fdd7088c99996b6
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 107) [HDTV] [HD]
 magnet:?xt=urn:btih:ea711955b876a98a8dc6e94e7b59b97b8fb2a1d3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Suenos y pan (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:27b5e6cefb88c5d4a287626c6556e56f42dfc45e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Suenos y pan (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:1361964ddc0d33115e3d0279ef59ae681c32f2c8
 #EXTINF:-1 group-title="Supergarcia" tvg-id="" tvg-logo="" ,Supergarcia (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:e5f733495ecc0d6cbeb18ebdb3df1701e2ec0998
 #EXTINF:-1 group-title="Supergarcia" tvg-id="" tvg-logo="" ,Supergarcia (Cap 102) [HDTV] [FHD]
@@ -2919,10 +2443,6 @@ magnet:?xt=urn:btih:62c356d900a712569899350baca4895b2d80b15b
 magnet:?xt=urn:btih:3dee5114b220d2f7e3661f57be28bfd70a5a9b1a
 #EXTINF:-1 group-title="Swagger" tvg-id="" tvg-logo="" ,Swagger (Cap 206) [HDTV] [HD]
 magnet:?xt=urn:btih:ace8d2cc711829b3b542d8a528a5fef9382f9560
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Tacticas en el amor 2 [Bluray] [SD]
-magnet:?xt=urn:btih:66f5e130c135cd6feb4140cdbda8a3ac8e26c3e0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Tacticas en el amor 2 [Bluray] [HD]
-magnet:?xt=urn:btih:14492d073f8b119d76ba2bc5cf50893488af616a
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 705) [HDTV] [FHD]
 magnet:?xt=urn:btih:456783d5fdf5b3d3ec6096dddfbf9a28d2b91f4f
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 706) [HDTV] [FHD]
@@ -2955,8 +2475,6 @@ magnet:?xt=urn:btih:94b2f555efdc060d2b1464c1cfe9d046eaad1ade
 magnet:?xt=urn:btih:d968d20f90b02c1aa7d0430329dea8a4fc3c641b
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 710) [HDTV] [HD]
 magnet:?xt=urn:btih:4b3b44eb58a0a122dcc1b8b014d525023a25f6fa
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Th3Qu13tG1rl [FHD]
-magnet:?xt=urn:btih:dbf6b9a9b175b0ae172a08b7f39a5ca1b670a4f3
 #EXTINF:-1 group-title="The 1619 Project" tvg-id="" tvg-logo="" ,The 1619 Project (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:4dcd29379ee5021819794f3a2f91d349e9b335b2
 #EXTINF:-1 group-title="The 1619 Project" tvg-id="" tvg-logo="" ,The 1619 Project (Cap 102) [HDTV] [FHD]
@@ -3021,8 +2539,6 @@ magnet:?xt=urn:btih:ba5402d6781cd7490fc752bc1179da7ff79af30f
 magnet:?xt=urn:btih:ba48ddd5d30a423e7b70d9714f81523609e3e8af
 #EXTINF:-1 group-title="The Ark" tvg-id="" tvg-logo="" ,The Ark (Cap 112) [HDTV] [HD]
 magnet:?xt=urn:btih:1f22439ffe82f8ec785450648d46f9831c729e8a
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,The Bear 2x01 Ternera [FHD]
-magnet:?xt=urn:btih:2c29f126ffa12f1f944e27ea6565ebd7885dd240
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 201) [4K]
 magnet:?xt=urn:btih:032ddf8083ad3335c122c49684a4145c4500ba6d
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 202) [4K]
@@ -3203,18 +2719,12 @@ magnet:?xt=urn:btih:6d211fa67b50f52bf57c87648b4f3ad234d6ee55
 magnet:?xt=urn:btih:5e9a8772351b897ec0b5aadefde8d480f347ba2c
 #EXTINF:-1 group-title="The Crowded Room" tvg-id="" tvg-logo="" ,The Crowded Room (Cap 110) [HDTV] [HD]
 magnet:?xt=urn:btih:ef2bf47c84cc9edeb266c6f975e9ef22ae730670
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:0622e4ef88980ada0468f1209149a10ab940ef70
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:d6839211de6416aa6e098830502693b2b8adcd75
 #EXTINF:-1 group-title="The Essex Murders" tvg-id="" tvg-logo="" ,The Essex Murders (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:fe257414665757c0c1793b1ee0ee80bfbb96ea80
 #EXTINF:-1 group-title="The Essex Murders" tvg-id="" tvg-logo="" ,The Essex Murders (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:1ef89b52fdb350c012b62037abd1073a95b9212c
 #EXTINF:-1 group-title="The Essex Murders" tvg-id="" tvg-logo="" ,The Essex Murders (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:63aa939488b704669908622f6e8d7b468212a9f1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Flash (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:f5f4656da7d321ef4942e9978fc160499a5705dc
 #EXTINF:-1 group-title="The Great North" tvg-id="" tvg-logo="" ,The Great North (Cap 321) [HDTV] [SD]
 magnet:?xt=urn:btih:0b83cf11577ac98f2fe41f1d51b9504bc361c2ff
 #EXTINF:-1 group-title="The Great North" tvg-id="" tvg-logo="" ,The Great North (Cap 322) [HDTV] [SD]
@@ -3253,20 +2763,6 @@ magnet:?xt=urn:btih:678dea775a216064c3e326f69557671dabed56a9
 magnet:?xt=urn:btih:c17f83566cbc3490fe72c5aad8f35a030fbb5b4f
 #EXTINF:-1 group-title="The Idol" tvg-id="" tvg-logo="" ,The Idol (Cap 105) [HDTV] [HD]
 magnet:?xt=urn:btih:51bd925c4c601f2458e651408e6015ad98c705f0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine (2023) [4K]
-magnet:?xt=urn:btih:d2c85bca80d7cc9250f824aa5f93fe1023041987
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:47fdbe0d993698fa4903b4eda4fe4a636e4c6449
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:881b206d35f95697fff4b93db8f63e3792566a95
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:8a8754650e117c71bfba0ee15d661e8171080e75
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Moviemakers Spielberg (2023) [Bluray] [FHD]
-magnet:?xt=urn:btih:1112ba97755230957e25d3673030e341753dee10
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Quiet Girl (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:b91e260d01a8732eb00f405564ba1d56b3f8a0f6
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Quiet Girl (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:f6cea32469f3c644482100b01c086af58a4e13a8
 #EXTINF:-1 group-title="The Resort" tvg-id="" tvg-logo="" ,The Resort (Cap 107) [HDTV] [FHD]
 magnet:?xt=urn:btih:6085915f3680e102bc6673214a2127405b45dcd6
 #EXTINF:-1 group-title="The Resort" tvg-id="" tvg-logo="" ,The Resort (Cap 108) [HDTV] [FHD]
@@ -3377,26 +2873,12 @@ magnet:?xt=urn:btih:a4acb1f72eb209801c6df1bc67269426c7670d71
 magnet:?xt=urn:btih:6b5dc68a6e5af367636af9b634f39aced8c8bbf0
 #EXTINF:-1 group-title="Titans" tvg-id="" tvg-logo="" ,Titans (Cap 412) [4K]
 magnet:?xt=urn:btih:1a26d67066b64b0c2363d388023df6e7e0e3b4d8
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Tori y Lokita (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:2f0aab324261e4fa54bdccb372441ae7e3ab4d56
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Tori y Lokita (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:208b9a440cfc91b17e3809ad5c81df0e569b8eef
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Tori y Lokita (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:28566812970cb8c6014befa373321c32417afb49
 #EXTINF:-1 group-title="Tour de Francia En el corazon del peloton" tvg-id="" tvg-logo="" ,Tour de Francia En el corazon del peloton (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:8a79e4005d5007537ded5cfef90dd2f70eb8ad26
 #EXTINF:-1 group-title="Tour de Francia En el corazon del peloton" tvg-id="" tvg-logo="" ,Tour de Francia En el corazon del peloton (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:4fb111b92b1869330b8a82d79690ffc59d938fe3
 #EXTINF:-1 group-title="Tour de Francia En el corazon del peloton" tvg-id="" tvg-logo="" ,Tour de Francia En el corazon del peloton (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:9f9372e497b294c6d6e9a423acd3f65f6fa0cf53
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [4K]
-magnet:?xt=urn:btih:d01a8b8894070510162e664c19eaabdbcfff1f7e
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [FHD]
-magnet:?xt=urn:btih:4cbfbcab12c0ba4255def7b6e9b8043cdfdcd159
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [SD]
-magnet:?xt=urn:btih:1d0532b2faea7e789a2b039100a72c54a1e402f1
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [HD]
-magnet:?xt=urn:btih:3493322fe383567c4780f3fee889b6026b4bbfdf
 #EXTINF:-1 group-title="True Lies" tvg-id="" tvg-logo="" ,True Lies (Cap 113) [HDTV] [FHD]
 magnet:?xt=urn:btih:97f267fcfc0976945917ae3deed2df571e865469
 #EXTINF:-1 group-title="True Lies" tvg-id="" tvg-logo="" ,True Lies (Cap 113) [HDTV] [SD]
@@ -3407,10 +2889,6 @@ magnet:?xt=urn:btih:559899fd746aa46684436248e6e1baf3302d663a
 magnet:?xt=urn:btih:4edf67b23cb636b32f960ed8ab88f3bb2ba13dfb
 #EXTINF:-1 group-title="Ultima llamada El asesino en serie de la nueva York Queer" tvg-id="" tvg-logo="" ,Ultima llamada El asesino en serie de la nueva York Queer (Cap 104) [HDTV] [FHD]
 magnet:?xt=urn:btih:ba41661c173bbb699e5803e90b9f02404edf68ab
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un cabaret en la campina (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:6edc673f194a2172fda255a46466f448be0c4ebd
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un cabaret en la campina (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:6aaa08e8c47b260036b879490f6cad9fcf374cf8
 #EXTINF:-1 group-title="Un Cuento Perfecto" tvg-id="" tvg-logo="" ,Un Cuento Perfecto (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:bfef2ae3d2bfa68d9634f35a5e2cb7a52ce08e18
 #EXTINF:-1 group-title="Un Cuento Perfecto" tvg-id="" tvg-logo="" ,Un Cuento Perfecto (Cap 102) [HDTV] [FHD]
@@ -3441,28 +2919,10 @@ magnet:?xt=urn:btih:de1de2f77eb29313e9e8247f02d16b1130881e53
 magnet:?xt=urn:btih:863f174b315be7c9a6ff80bb57c4a9c82d2a72b5
 #EXTINF:-1 group-title="Un Cuento Perfecto" tvg-id="" tvg-logo="" ,Un Cuento Perfecto (Cap 105) [HDTV] [HD]
 magnet:?xt=urn:btih:d9889fff3b032c11ec350580296f7de0d7dfb4fa
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un lugar por el que luchar (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:e2a2d2976b38b7d1d333cee5485857ed642ec7d9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un lugar por el que luchar (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:d1cff4fd4c4b5abbfaa05f32e8f4cd6c55854c79
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un paseo con Madeleine (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:7c58c13ed48b2d7c5bdbf68e444f7916c4ec5502
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un paseo con Madeleine (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:92849746854629ba4a415c107f7729a1c95d8566
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un sueno  (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:5000f2ebec7d889293d93c8a572a9849e7f59833
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un sueno  (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:edef98514dfe76aefa590551c6b07c7e519287fe
 #EXTINF:-1 group-title="Unicornio Los guerreros eternos" tvg-id="" tvg-logo="" ,Unicornio Los guerreros eternos (Cap 110) [HDTV] [SD]
 magnet:?xt=urn:btih:5edadc80857d999e377716e3740bb2a9dc81696a
 #EXTINF:-1 group-title="Unicornio Los guerreros eternos" tvg-id="" tvg-logo="" ,Unicornio Los guerreros eternos (Cap 110) [HDTV] [HD]
 magnet:?xt=urn:btih:b2766fc98517581ed91c8c1f88778b3aa29f0a4b
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Unos suegros de armas tomar [Bluray] [SD]
-magnet:?xt=urn:btih:d6cf9e6ab51da2a47e669ef9c08954b32f7fe6ad
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Unos suegros de armas tomar [Bluray] [HD]
-magnet:?xt=urn:btih:a01cabaf976707b404765af2a2396f4f0d1f9118
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,UnSu3n1o [FHD]
-magnet:?xt=urn:btih:d686b3598efe34e6eafefa6d554e78aad64a1479
 #EXTINF:-1 group-title="Vienna Blood" tvg-id="" tvg-logo="" ,Vienna Blood (Cap 301) [HDTV] [FHD]
 magnet:?xt=urn:btih:46c52edabfd870eb3b3c54addd11956ca5aff650
 #EXTINF:-1 group-title="Vienna Blood" tvg-id="" tvg-logo="" ,Vienna Blood (Cap 302) [HDTV] [FHD]
@@ -3515,14 +2975,6 @@ magnet:?xt=urn:btih:af7e3095a78a4bbb33c3fa58778c60d4111eb73d
 magnet:?xt=urn:btih:a6d72c5ffc73bb0e83356c6fad044c45fc288ebf
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 103) [HDTV] [HD]
 magnet:?xt=urn:btih:ad24f5580ae2aea2ff5ac7e220c869c6d1a5539b
-#EXTINF:-1 group-title="2032" tvg-id="" tvg-logo="" ,Violeta el hada traviesa (2032) [Bluray] [SD]
-magnet:?xt=urn:btih:c994ecd21eecd665efee3a9b45a72251a5472dfb
-#EXTINF:-1 group-title="2032" tvg-id="" tvg-logo="" ,Violeta el hada traviesa (2032) [Bluray] [HD]
-magnet:?xt=urn:btih:f5569903f014c0b8ac1b8e5242c97b85340c97b9
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Volpina (2021) [Bluray] [SD]
-magnet:?xt=urn:btih:237f311cb7edf928f75953dace0919336c551c5d
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Volpina (2021) [Bluray] [HD]
-magnet:?xt=urn:btih:6a2d96a3303e649c45f5daf1af4532d55fddb4f6
 #EXTINF:-1 group-title="Walker" tvg-id="" tvg-logo="" ,Walker (Cap 301) [HDTV] [SD]
 magnet:?xt=urn:btih:df74dca06a0cc78fe8a128dfe6a0bfff357636f0
 #EXTINF:-1 group-title="Walker" tvg-id="" tvg-logo="" ,Walker (Cap 302) [HDTV] [SD]
@@ -3613,18 +3065,6 @@ magnet:?xt=urn:btih:2d0b698403112aa761003e454e6381571737f5de
 magnet:?xt=urn:btih:32a1f23745dcfc30d1f4233d489eac9092c9db1a
 #EXTINF:-1 group-title="Weekend Family" tvg-id="" tvg-logo="" ,Weekend Family (Cap 208) [HDTV] [HD]
 magnet:?xt=urn:btih:3d8db0b9cee29b386b85889c6d4582ec3ace9d5a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor (2022) [4K]
-magnet:?xt=urn:btih:877f1509c22720f0e268798fc3011ef59e64ec6f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor (2022) [Bluray] [FHD]
-magnet:?xt=urn:btih:b2a865091ce4f478375da5a0312aa15ff25aa66c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor (2022) [Bluray] [SD]
-magnet:?xt=urn:btih:89c7f40db02fbbf587625f58cd7714b29be96b0e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor (2022) [Bluray] [HD]
-magnet:?xt=urn:btih:81ee93ed17a86bb9d3c1393bc54f714bf73f232c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Zodi and Tehu aventuras en el desierto (2023) [Bluray] [SD]
-magnet:?xt=urn:btih:f0e659b1cedf3241b0a95665e561bee68089b6ce
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Zodi and Tehu aventuras en el desierto (2023) [Bluray] [HD]
-magnet:?xt=urn:btih:8605123c7df9479829503622e5760ac546f51621
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:fb44224018ad0a776e24ec646cdd73bf3a4fd74f
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 102) [HDTV] [SD]
