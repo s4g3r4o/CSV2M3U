@@ -757,6 +757,8 @@ magnet:?xt=urn:btih:4cbfbcab12c0ba4255def7b6e9b8043cdfdcd159
 magnet:?xt=urn:btih:1d0532b2faea7e789a2b039100a72c54a1e402f1
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [HD]
 magnet:?xt=urn:btih:3493322fe383567c4780f3fee889b6026b4bbfdf
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Tubular Bells 50 aniversario (2022) [Bluray] [FHD]
+magnet:?xt=urn:btih:c63c3a60f2bc584edf9c340386407b8ed13f08c3
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Umberto Eco la biblioteca del mundo [Bluray] [FHD]
 magnet:?xt=urn:btih:44093a2f7b77b990190b6246549045899fed9ad7
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un cabaret en la campina (2022) [Bluray] [SD]
