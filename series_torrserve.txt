@@ -11,6 +11,52 @@ magnet:?xt=urn:btih:c6e702530b08aff96b7f225be1dd7fd35884922d
 magnet:?xt=urn:btih:00c6821163fdc18630649c58ab12676efc683b1c
 #EXTINF:-1 group-title="911" tvg-id="" tvg-logo="" ,911 (Cap 618) [HDTV] [HD]
 magnet:?xt=urn:btih:fdb7da3e6e5e7645d02bc1130a8335be16dcda7c
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:55ce22916d801d51f82c0af9858ce75fec88d15a
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:a9dd5154ff6f6940009a7b109ff1478a06da01a8
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:f0663912c29a680e4e079f240997af8ecc3ce9fc
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:d8df68ba1eb6f186081015e331ec214e17fd2911
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:5689ccd75e2153ba1f1281c3e96de5df616ac5b0
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:d5b01b802a456d5e2a904b421f07c4e1dfff7559
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:f22cb15705ceb0bf43c8ebc1dc54086dc63a8ac5
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 108) [HDTV] [FHD]
+magnet:?xt=urn:btih:f8069ada4ccb0a819107b9e24ae122e06f8ae6ad
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 109) [HDTV] [FHD]
+magnet:?xt=urn:btih:1fbf40a19d569f69fc6164a79a9130a6675b125b
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 110) [HDTV] [FHD]
+magnet:?xt=urn:btih:a93380c8b2e82d08f032522b60b85b20f59ebd74
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 101) [HDTV] [SD]
+magnet:?xt=urn:btih:0d696129bbe74cccf6fb0718361d325b50ead8f0
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 102) [HDTV] [SD]
+magnet:?xt=urn:btih:85715b0c7f2ffe10a7056fb5b212e16a7ad1b6db
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 103) [HDTV] [SD]
+magnet:?xt=urn:btih:e93f719b63a7d945e5b5e40c7554dc7b604108ad
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:13d3608aee40192706bc0986605b3f7f955bdbf7
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:3b57557c60358c93c51aa06c0d6454c327426236
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:0886cb9e87877d526760d192bf758469b253f586
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:44a23e6356e2731f5ff88bb87113accd1b7aae21
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:7e2fc30d19e52cc36dc1aa2969ccca5aecedc135
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:e560a5f091569d837550dcf0a49ddb8b770a7449
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 107) [HDTV] [HD]
+magnet:?xt=urn:btih:3ae0d5ceca8a1e1501f410341b1e68578f036d21
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 108) [HDTV] [HD]
+magnet:?xt=urn:btih:347079de584c4e355ac8cfbec90d799f5bb02112
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 109) [HDTV] [HD]
+magnet:?xt=urn:btih:f682f661bc11eb532cc28e0c137112ffcd064adc
+#EXTINF:-1 group-title="A Traves Del Armario" tvg-id="" tvg-logo="" ,A Traves Del Armario (Cap 110) [HDTV] [HD]
+magnet:?xt=urn:btih:87db59e9837d8ee22eb75f509d67270517513bad
 #EXTINF:-1 group-title="Accused" tvg-id="" tvg-logo="" ,Accused (Cap 115) [HDTV] [FHD]
 magnet:?xt=urn:btih:d396da1f56ced661935cc7330820c9d4a5b2b9fe
 #EXTINF:-1 group-title="Accused" tvg-id="" tvg-logo="" ,Accused (Cap 115) [HDTV] [SD]
@@ -27,6 +73,10 @@ magnet:?xt=urn:btih:78acc0850d85b26ada4d5d062340317e07fac100
 magnet:?xt=urn:btih:5fff1d7d9ee5a76d8bb8839185d8eb26ed10f3ba
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 305) [HDTV] [FHD]
 magnet:?xt=urn:btih:c9f69a2fb916d24bcb480b46e6fafb9488a388e2
+#EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 307) [HDTV] [FHD]
+magnet:?xt=urn:btih:3ffe831b5d42885bf28e73896ae957bbff5a6fe2
+#EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 308) [HDTV] [FHD]
+magnet:?xt=urn:btih:4655cd50ceb594dc3ec39442601169b711d7da34
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 301) [HDTV] [SD]
 magnet:?xt=urn:btih:387e84dab691740d6e6916d08208a222a626c729
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 302) [HDTV] [SD]
@@ -37,6 +87,10 @@ magnet:?xt=urn:btih:987979d005dbe19e3544f5464b39983821e4115a
 magnet:?xt=urn:btih:75c224a029903d0232f5aad852f10e0043d79760
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 305) [HDTV] [SD]
 magnet:?xt=urn:btih:6edb7a620f9b5b15c95636ac8f732449b32587ca
+#EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 307) [HDTV] [SD]
+magnet:?xt=urn:btih:3e4f6f0e2fb8afae1272c3bcb27b0cf0aebf449c
+#EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 308) [HDTV] [SD]
+magnet:?xt=urn:btih:1001cd60e8c13047f45a844285632961825a0da8
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 301) [HDTV] [HD]
 magnet:?xt=urn:btih:263d063f3d212f7ebd65eef77d6ee4dc81e90e59
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 302) [HDTV] [HD]
@@ -47,6 +101,10 @@ magnet:?xt=urn:btih:cccad37998d8199b4fe6a3e164c5be0337b51a27
 magnet:?xt=urn:btih:dee8f35ed0dcdaaef20cd87a7938b63661a632eb
 #EXTINF:-1 group-title="ACI Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,ACI Alta Capacidad Intelectual (Cap 305) [HDTV] [HD]
 magnet:?xt=urn:btih:ed632aae2664b806307fc5fa540ffc527bce8273
+#EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 307) [HDTV] [HD]
+magnet:?xt=urn:btih:572ca60ff4c3a4af5637208c252b450a0d3a5164
+#EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 308) [HDTV] [HD]
+magnet:?xt=urn:btih:c4eeb2cdc66e9fe9baa3c1ea8f477c6ab871d5e5
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 203) [HDTV] [FHD]
 magnet:?xt=urn:btih:018b84e99c0ed3a99c531edefb75dc6be185a280
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 204) [HDTV] [FHD]
@@ -57,6 +115,8 @@ magnet:?xt=urn:btih:a53292931f0efe622465c482cf2a3241e9b6ab02
 magnet:?xt=urn:btih:7fbba55570c2c4d97be33c830cb6901389a18271
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 207) [HDTV] [FHD]
 magnet:?xt=urn:btih:6edab605900eab74425ccd6047f034c4a46ef172
+#EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 209) [HDTV] [FHD]
+magnet:?xt=urn:btih:a2f14601cb0595204453d94c2618f2de44361c0a
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 203) [HDTV] [SD]
 magnet:?xt=urn:btih:1cebf604a7f81cf3a4177e2b5279289779384289
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 204) [HDTV] [SD]
@@ -67,6 +127,10 @@ magnet:?xt=urn:btih:83d5f978e3dc62add4d7c42d6d9ad0ede2e46dd0
 magnet:?xt=urn:btih:83d0dc72b37028386a5cee8698b4e752be3b09e5
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 207) [HDTV] [SD]
 magnet:?xt=urn:btih:9d98b441b8fe7eae2ed9bfa66aa1df3ab28a333a
+#EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 209) [HDTV] [SD]
+magnet:?xt=urn:btih:400cc01812f3e863889fcad3274086e47657a169
+#EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 210) [HDTV] [SD]
+magnet:?xt=urn:btih:570a211a7bc5c39d8a945bd40a3edae74611b0c7
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 203) [HDTV] [HD]
 magnet:?xt=urn:btih:853dc4114dcb6d5b65b18c30346d3ba6479bc4a8
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 204) [HDTV] [HD]
@@ -77,6 +141,8 @@ magnet:?xt=urn:btih:e8d1bff98c429b05f5cbfc16f830dd3b65edd78c
 magnet:?xt=urn:btih:d8e61d8f600d5d08b893c91def9130aff8e5bd50
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 207) [HDTV] [HD]
 magnet:?xt=urn:btih:f7e925c7a841721c69cfff96a451401b597a4dd9
+#EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 209) [HDTV] [HD]
+magnet:?xt=urn:btih:428da1b34fc2b37b7a72651058fc906d5b3054d8
 #EXTINF:-1 group-title="Arnold" tvg-id="" tvg-logo="" ,Arnold (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:a43a3fbf5152bdd8f0748c039e89b0d4972a32a9
 #EXTINF:-1 group-title="Arnold" tvg-id="" tvg-logo="" ,Arnold (Cap 102) [HDTV] [FHD]
@@ -135,6 +201,14 @@ magnet:?xt=urn:btih:711aa711cda721adcc8aac8bcb7bc5bf60d08704
 magnet:?xt=urn:btih:befdef2f177168253c6ce5419f355a7b86f046f1
 #EXTINF:-1 group-title="Baraja La firma del asesino" tvg-id="" tvg-logo="" ,Baraja La firma del asesino (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:2f88fd6e6919ca97d676344bc294d1a626d86306
+#EXTINF:-1 group-title="Billions" tvg-id="" tvg-logo="" ,Billions (Cap 701) [4K]
+magnet:?xt=urn:btih:6c3d9c01ee64869375c1d552cbf7b79a9500b925
+#EXTINF:-1 group-title="Billions" tvg-id="" tvg-logo="" ,Billions (Cap 701) [HDTV] [FHD]
+magnet:?xt=urn:btih:e30fd86f2b61eb1a109bf9d7a8e3b5844e5921f6
+#EXTINF:-1 group-title="Billions" tvg-id="" tvg-logo="" ,Billions (Cap 701) [HDTV] [SD]
+magnet:?xt=urn:btih:8c45fdb7c4bbfffc18b3cefe32e76b2ca753319d
+#EXTINF:-1 group-title="Billions" tvg-id="" tvg-logo="" ,Billions (Cap 701) [HDTV] [HD]
+magnet:?xt=urn:btih:928272ba1c6c1dcfaa2d885f1b887c6b9d4fa870
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:5cab3022d69b4981b9246e8d2d342eddfa55b9d2
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 102) [HDTV] [FHD]
@@ -143,6 +217,10 @@ magnet:?xt=urn:btih:1c5c94f0e9d20f311de409cc9aec88ff1461b97e
 magnet:?xt=urn:btih:60ace4c03763095beec49c97fd03a735c7bc0397
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 104) [HDTV] [FHD]
 magnet:?xt=urn:btih:d20f81ad6899cafdc4f1fd4f4a8e6eed47f85df1
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:a076be0150932654384a910292f26811107a8d51
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:3bd55da29ff4beb02a3242b1a666c73e90cd0c07
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:cf6354daf0b5b05a9fc24d4ebcf458173aae7143
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 102) [HDTV] [SD]
@@ -151,6 +229,10 @@ magnet:?xt=urn:btih:9e15033104da9346035f0455710fcb8c1fb5ea51
 magnet:?xt=urn:btih:e629c8c094915388241f2047a938a61467896729
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 104) [HDTV] [SD]
 magnet:?xt=urn:btih:5b7487a6c581ed8015302bfe4fc87f884f4d8741
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 106) [HDTV] [SD]
+magnet:?xt=urn:btih:c5dc29490ea70e41032ebfbcef5070e1193e549c
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 107) [HDTV] [SD]
+magnet:?xt=urn:btih:f12bf7b7392ed00319fc28c449ade0178a0f80c5
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 101) [HDTV] [HD]
 magnet:?xt=urn:btih:c4c9e4fde690678766f1deb7e791a4bbfc93e879
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 102) [HDTV] [HD]
@@ -159,6 +241,10 @@ magnet:?xt=urn:btih:7b61d7942d912c9165f562d7b71ff93d63b72d23
 magnet:?xt=urn:btih:511e5843822332261896295be6d2dfe728a46177
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 104) [HDTV] [HD]
 magnet:?xt=urn:btih:1f098fc437b39983e9db1f623cf2f2a34ba35dc9
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:632c54a5525b954c96018551d74c55ae75b95238
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 107) [HDTV] [HD]
+magnet:?xt=urn:btih:29b2c7891976f132144ccdd13f22bc5b7eb2fe73
 #EXTINF:-1 group-title="Blindspotting" tvg-id="" tvg-logo="" ,Blindspotting (Cap 201) [4K]
 magnet:?xt=urn:btih:4f86ea6c8a7c6849cfc3ab7f3fa9ddc76fa46052
 #EXTINF:-1 group-title="Blindspotting" tvg-id="" tvg-logo="" ,Blindspotting (Cap 202) [4K]
@@ -235,6 +321,72 @@ magnet:?xt=urn:btih:2ff0ba2047c6a3bc55f06dd60706a28c91f4b239
 magnet:?xt=urn:btih:33243a47c1a7c309260549b172b245cdfaf25dd1
 #EXTINF:-1 group-title="Break Point" tvg-id="" tvg-logo="" ,Break Point (Cap 110) [HDTV] [FHD]
 magnet:?xt=urn:btih:5798662fedc4ee3eafd611e85d2addb524bd2b7a
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 103) [4K]
+magnet:?xt=urn:btih:4f0bd06d93b0d94626a117b95de3504a1a74f5a8
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:32946b4364d5da88e7b24667fefa47abeed10198
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:bb8b084d562968e5f691af7deb222800b9cafd09
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 103) [HDTV] [SD]
+magnet:?xt=urn:btih:910c073b9c5ee138ba4c6efec31966c8c11b9240
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 104) [HDTV] [SD]
+magnet:?xt=urn:btih:b9790c571826416c96eaf2fbcf6d5ae2193f7ce2
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:8cca34f67c220f4c79bf748094016a7c469e9328
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:cbd618a2ad78215ae0b3f8550a29ce25428cd759
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 101) [4K]
+magnet:?xt=urn:btih:daf447aa86cb9229c1789f353a33fe91df5f943d
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 102) [4K]
+magnet:?xt=urn:btih:46105665e9751474e6af4fbb7799af06c9b2d500
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 103) [4K]
+magnet:?xt=urn:btih:236d75b4218f33e066eef0f8b0949840f911d5b2
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 104) [4K]
+magnet:?xt=urn:btih:137072fafc7b69c65455c9daf279781fb0f097c7
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 105) [4K]
+magnet:?xt=urn:btih:94832b6ad1bd785e212c88717797b2246e5cd032
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 106) [4K]
+magnet:?xt=urn:btih:7dc88905a7ee275dacb9d21a8dab366e2c085f50
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 107) [4K]
+magnet:?xt=urn:btih:bb71503bdaf1f55c4e8c766422dcee0be170fd6e
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 108) [4K]
+magnet:?xt=urn:btih:bbe36fda8ba0e2a688fabc64caf62c5758391313
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:bf56eccd7521d6dab1be13c90c6b7c7bd47e2a76
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:c8d8452f917e8bd20c20427f925a4ec3e9a70a6c
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:871119027dcbe990372533806970dd3f07943706
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:c8fdf9c4bebcf58a91aa802b74043d449e214126
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:278bd5b82676ef8ffd8a4c282918676193219f56
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:ada6fc5829ee9a8e97f1c02c2862379d51d235fe
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:ff07d8579a1eed3f582b01a17def97e035201940
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 108) [HDTV] [FHD]
+magnet:?xt=urn:btih:6d1f50009aaebac62cdb76c3873792acbaf170ee
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 101) [HDTV] [SD]
+magnet:?xt=urn:btih:51a73ccceb19218829c22117d31851b4f9d22c82
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 102) [HDTV] [SD]
+magnet:?xt=urn:btih:e13f12fbf77236bf58efaf43de5e0b2267f8e92b
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:ba837def69d6d56ad2d50e69596792d7ca9eb751
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:72291ee516421520639f9d84305f8671c2f9927c
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:b842ebb6d2640233980dc7f431476de3e2372f83
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:297da7eb3ad417e1568b0abe3f4721a670abeb5a
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:2a2a57ad2bde48f1c0c192269683aba6768fb5d9
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:94abd9873507a32e170dad60a4ed6bda2a4069ad
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 107) [HDTV] [HD]
+magnet:?xt=urn:btih:421ada7969dd63bdd1bbd82f5156cd3ddb7d6b6f
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 108) [HDTV] [HD]
+magnet:?xt=urn:btih:08a086d86c1d4d167cf0f514455ea528f3a7816b
 #EXTINF:-1 group-title="Castigo" tvg-id="" tvg-logo="" ,Castigo (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:1706b90055841d5a9e717a9824ccee109452028f
 #EXTINF:-1 group-title="Castigo" tvg-id="" tvg-logo="" ,Castigo (Cap 102) [HDTV] [FHD]
@@ -435,6 +587,8 @@ magnet:?xt=urn:btih:0eaef00582eb84a078c7ae12cfa548c97698218f
 magnet:?xt=urn:btih:65c22ef933c5256715897eb63dd70a0ca875587e
 #EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1205) [HDTV] [SD]
 magnet:?xt=urn:btih:65b9024163fcbc808b30374a07747f8e1d591c6f
+#EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1206) [HDTV] [SD]
+magnet:?xt=urn:btih:384b97730eaf0499c81656e751e6338d49c4af58
 #EXTINF:-1 group-title="Crimen en el paraiso" tvg-id="" tvg-logo="" ,Crimen en el paraiso (Cap 1201) [HDTV] [HD]
 magnet:?xt=urn:btih:2b39c3b4f7ae29153dae457b1c16a72484ab5f16
 #EXTINF:-1 group-title="Crimen en el paraiso" tvg-id="" tvg-logo="" ,Crimen en el paraiso (Cap 1202) [HDTV] [HD]
@@ -443,6 +597,86 @@ magnet:?xt=urn:btih:3958733072532d74e15ede45dcbd48b9dbbc9972
 magnet:?xt=urn:btih:6f9e71f692be0c228a132cfd3a89f4abb1abba9b
 #EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1205) [HDTV] [HD]
 magnet:?xt=urn:btih:e6333e4eba100cc48a8dcab513adf23bc07cb863
+#EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1206) [HDTV] [HD]
+magnet:?xt=urn:btih:b9c6b8180396e2a26394e97fbe90ee51d237e9d6
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 201) [4K]
+magnet:?xt=urn:btih:b8a47796d6b978e8deb26d8138f0ed84a3aebe7d
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 202) [4K]
+magnet:?xt=urn:btih:308ffc4350d0c79b857f7d1444465477bbb8e52c
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 203) [4K]
+magnet:?xt=urn:btih:111f8d2e8b0823965fe7dfaa6db299618a58f612
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 204) [4K]
+magnet:?xt=urn:btih:d4c40d4845a3adf7d8dc467dadd9e856423cd40b
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 205) [4K]
+magnet:?xt=urn:btih:7b2a34f74377a51d4a401ad6b6bc64da486267d0
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 206) [4K]
+magnet:?xt=urn:btih:4086ae7db3b34183fad9f8a59de1b3c2d6a5b580
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 207) [4K]
+magnet:?xt=urn:btih:cd75f0d9596d6f5f8c0f68841a83008b0de3aec6
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 208) [4K]
+magnet:?xt=urn:btih:ad9aa6346ea7cfb0a13e03dd580c897152123fd6
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 209) [4K]
+magnet:?xt=urn:btih:8e90774cb875bfd1e723944fedc81049582ba7f0
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 210) [4K]
+magnet:?xt=urn:btih:2bf42214ba2198bd9cf6d4ae67caf8f6d7e59380
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 201) [HDTV] [FHD]
+magnet:?xt=urn:btih:095ed2c109e4acf7105b8ecf8488fd04f37704ef
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 202) [HDTV] [FHD]
+magnet:?xt=urn:btih:543bc4ca267503420341dde693dfa6b3f8280936
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 203) [HDTV] [FHD]
+magnet:?xt=urn:btih:357b8d2b43abcfe1c87b2a9668e55d1a7436b118
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 204) [HDTV] [FHD]
+magnet:?xt=urn:btih:c814aaff8119e931a503f5a6a92981bcc1371af3
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 205) [HDTV] [FHD]
+magnet:?xt=urn:btih:cbd464cf2cfbd53b61b26173983e609d503c6c65
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 206) [HDTV] [FHD]
+magnet:?xt=urn:btih:e91dd91d86b798486ad2eda2ba6db6ff79346269
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 207) [HDTV] [FHD]
+magnet:?xt=urn:btih:71def70a4b831d064a636fedcd772d034ee58024
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 208) [HDTV] [FHD]
+magnet:?xt=urn:btih:350694a3847114e17bf002aa7ff241b73b1e1fc0
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 209) [HDTV] [FHD]
+magnet:?xt=urn:btih:ca181be2156eb30f05b221e07b18285d31ad0f4f
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 210) [HDTV] [FHD]
+magnet:?xt=urn:btih:ae2af52cb408ca183d80010e071630c3577a4abb
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 201) [HDTV] [SD]
+magnet:?xt=urn:btih:0c3184e76696aea4fedf0f4686f966c7a665e076
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 202) [HDTV] [SD]
+magnet:?xt=urn:btih:5e55206e229c5aee81a95d8b0629ba66b3cf4b23
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 203) [HDTV] [SD]
+magnet:?xt=urn:btih:4804588db83e0664c93c18296ed3055e274425ae
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 204) [HDTV] [SD]
+magnet:?xt=urn:btih:f2d028e4e694ceff4701ce9409a65f24c4886718
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 205) [HDTV] [SD]
+magnet:?xt=urn:btih:215749f1248171f2fde7f33d75d91e61ab7a1cf9
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 206) [HDTV] [SD]
+magnet:?xt=urn:btih:7aea1f77235f44e451ba5ad6a9f3ac83ec909bbd
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 207) [HDTV] [SD]
+magnet:?xt=urn:btih:126b83bb6837c885abef1a91ff68f28391c486ae
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 208) [HDTV] [SD]
+magnet:?xt=urn:btih:f584559af2a708450bf0e12d750d40fe54c95a86
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 209) [HDTV] [SD]
+magnet:?xt=urn:btih:e0de571c75adb49839b650c1c90e84e09ad91550
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 201) [HDTV] [HD]
+magnet:?xt=urn:btih:42c291359f6cdd09c1ef3727edaf73b8ad09d27a
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 202) [HDTV] [HD]
+magnet:?xt=urn:btih:bbb31babaf5cb34dec99886218806af62fda16cb
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 203) [HDTV] [HD]
+magnet:?xt=urn:btih:c557c0d3972c0e484a154de5b9fab71ae9e264f9
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 204) [HDTV] [HD]
+magnet:?xt=urn:btih:61a7fe7b90551b4fc6ea1cf5d6f33b9b7895dd24
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 205) [HDTV] [HD]
+magnet:?xt=urn:btih:3bd1e2d190482bf9020dda8ed1eb45a40eeadffd
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 206) [HDTV] [HD]
+magnet:?xt=urn:btih:76333e9cf339e8fc70732d6c0a970061d676b013
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 207) [HDTV] [HD]
+magnet:?xt=urn:btih:26370dc2fb361ef153831d6a3b34637a2e44cfe8
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 208) [HDTV] [HD]
+magnet:?xt=urn:btih:1a8b43625d9cf7cfafd1d29c1fb96b6ea4642cff
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 209) [HDTV] [HD]
+magnet:?xt=urn:btih:b09bc19aeefdfbfdefdfd3a88ed24d23c7c9fc96
+#EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 210) [HDTV] [HD]
+magnet:?xt=urn:btih:965648f4617ff6e51205b0f073cb7f7fd81a4f8c
 #EXTINF:-1 group-title="D P   El cazadesertores" tvg-id="" tvg-logo="" ,D P   El cazadesertores (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:743a5ace2bdcbb35c171e7820df30eed431b293b
 #EXTINF:-1 group-title="D P   El cazadesertores" tvg-id="" tvg-logo="" ,D P   El cazadesertores (Cap 202) [HDTV] [SD]
@@ -477,6 +711,12 @@ magnet:?xt=urn:btih:f26c4a400a04f112b59177f6af8499e0a3a6f78c
 magnet:?xt=urn:btih:feabbb91ea89227bea878b637daad6371224358d
 #EXTINF:-1 group-title="De Caperucita a loba" tvg-id="" tvg-logo="" ,De Caperucita a loba (Cap ) [Bluray] [HD]
 magnet:?xt=urn:btih:148f9340de827776919ad02511e6588dcf8430f8
+#EXTINF:-1 group-title="De vs Heard" tvg-id="" tvg-logo="" ,De vs Heard (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:093b19d88e1bc67715e0185573706323fe54faea
+#EXTINF:-1 group-title="De vs Heard" tvg-id="" tvg-logo="" ,De vs Heard (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:24e7600e1ea7e649e068a94a512a4743d227d531
+#EXTINF:-1 group-title="De vs Heard" tvg-id="" tvg-logo="" ,De vs Heard (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:9c01a787c571f87b671ae3fd5c8bcdbf15d44f37
 #EXTINF:-1 group-title="De Vuelta a Los 15" tvg-id="" tvg-logo="" ,De Vuelta a Los 15 (Cap 201) [HDTV] [FHD]
 magnet:?xt=urn:btih:30748e0961b43a89cd2da861b2fe1391f16f658f
 #EXTINF:-1 group-title="De Vuelta a Los 15" tvg-id="" tvg-logo="" ,De Vuelta a Los 15 (Cap 202) [HDTV] [FHD]
@@ -591,6 +831,8 @@ magnet:?xt=urn:btih:66fbe9db3c070c8f102e36f082853e3ed9414cd7
 magnet:?xt=urn:btih:2c5cd9136db0be3096dd72afaaa3b65629e5fcbd
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 106) [4K]
 magnet:?xt=urn:btih:2fd988f16c6ad1f48be7d5b9ff4a6609e08bce44
+#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 107) [4K]
+magnet:?xt=urn:btih:bb94f4e5cf4a60e7b36fc3d38ba4ea6c87f19ef9
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:2848c4fda7bc6b1ee873380433c0539df06e7765
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 104) [HDTV] [FHD]
@@ -599,6 +841,8 @@ magnet:?xt=urn:btih:d24f122c6bf43843f050b486d0e96f0ea36540b6
 magnet:?xt=urn:btih:8bf2cbc5aaa47a0ded2f9b889330f1980d25d162
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 106) [HDTV] [FHD]
 magnet:?xt=urn:btih:bed8f8cc00c759a96ab0207596081992bd78e478
+#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:63b5da3a929fd437fe07e683fc3e545396ae576d
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:9f6468748b2f305da03574442b258cec4ef88825
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 102) [HDTV] [SD]
@@ -611,6 +855,8 @@ magnet:?xt=urn:btih:e895f66854570feebf57cb10eb219482189400e2
 magnet:?xt=urn:btih:e025064efdc0c4ff81518f0839fbf91230a1a982
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 106) [HDTV] [SD]
 magnet:?xt=urn:btih:bc98d3ec73e49dae47b68f685a82edf5432d6a7c
+#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 107) [HDTV] [SD]
+magnet:?xt=urn:btih:a3f367bf14edce8239a6d9dcc23c79b27731f3bf
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 101) [HDTV] [HD]
 magnet:?xt=urn:btih:f7521b83a424b03bd89e3d98617ad5f7d47a9783
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 102) [HDTV] [HD]
@@ -621,6 +867,8 @@ magnet:?xt=urn:btih:a4b2236c9982d04f9556a1190ef73a484b5b818e
 magnet:?xt=urn:btih:994a8121d0f39e6dcb4045d9e82551f221b08e2f
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 106) [HDTV] [HD]
 magnet:?xt=urn:btih:2e092eef7767955fcf43962baa1d465c8c1be756
+#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 107) [HDTV] [HD]
+magnet:?xt=urn:btih:514987bfee26c43d07e0fc527c7226f578e31a58
 #EXTINF:-1 group-title="Dulces Magnolias" tvg-id="" tvg-logo="" ,Dulces Magnolias (Cap 301) [HDTV] [FHD]
 magnet:?xt=urn:btih:63c02abff1a94d066a656c2c2f7bdb373c3f0cdb
 #EXTINF:-1 group-title="Dulces Magnolias" tvg-id="" tvg-logo="" ,Dulces Magnolias (Cap 302) [HDTV] [FHD]
@@ -711,18 +959,50 @@ magnet:?xt=urn:btih:04b78ebfde7a225755563d7f23d9962bd54ade39
 magnet:?xt=urn:btih:de6784ef99efdf453031601208241142593138d7
 #EXTINF:-1 group-title="El Abogado Del Lincoln" tvg-id="" tvg-logo="" ,El Abogado Del Lincoln (Cap 205) [HDTV] [HD]
 magnet:?xt=urn:btih:480114efa3353e537258dbd2795b7010643dfb61
+#EXTINF:-1 group-title="El bocazas" tvg-id="" tvg-logo="" ,El bocazas (Cap 115) [HDTV] [SD]
+magnet:?xt=urn:btih:6c0b6ff325001779e54dcb45958154454bba7da7
+#EXTINF:-1 group-title="El bocazas" tvg-id="" tvg-logo="" ,El bocazas (Cap 116) [HDTV] [SD]
+magnet:?xt=urn:btih:a20a7e96d14589d5c49799e3a55598cfd902bd87
+#EXTINF:-1 group-title="El bocazas" tvg-id="" tvg-logo="" ,El bocazas (Cap 115) [HDTV] [HD]
+magnet:?xt=urn:btih:52c1946d4a1da19102e932a9a5e8e1bdbbdd62d8
+#EXTINF:-1 group-title="El bocazas" tvg-id="" tvg-logo="" ,El bocazas (Cap 116) [HDTV] [HD]
+magnet:?xt=urn:btih:ba44d4b7d6ec37b14e26f50604d6737cf77a28d0
 #EXTINF:-1 group-title="El castillo de Takeshi" tvg-id="" tvg-logo="" ,El castillo de Takeshi (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:0def11383598da83d74f90e0e4e7fb273f8b1348
 #EXTINF:-1 group-title="El castillo de Takeshi" tvg-id="" tvg-logo="" ,El castillo de Takeshi (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:db5ab478f476e442c94547a61cb935e8b60491b2
 #EXTINF:-1 group-title="El castillo de Takeshi" tvg-id="" tvg-logo="" ,El castillo de Takeshi (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:613a5176e8ace08b6f3b322430fc81bb36e12a01
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:c6121b6dc545cabd3f59639b625654c015ebfca2
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:13826e0db744b8b8124f936b0d2047e832ea86f8
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:a291d460a6799d117beb6543d8382e218b9633af
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 101) [HDTV] [SD]
+magnet:?xt=urn:btih:70a701b5e450b45d447546d451b504b631f16dbe
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 102) [HDTV] [SD]
+magnet:?xt=urn:btih:b6b4137ba16b87cd8f15cf9fecea9a0ee3f468c4
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 103) [HDTV] [SD]
+magnet:?xt=urn:btih:aab90b6c39aa5082a4cce4ba49beb8505b30d2e0
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 104) [HDTV] [SD]
+magnet:?xt=urn:btih:1d2f39a91bd3c6c0ad8f4bea297941e075ab10b7
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:45a57e647fa53dad0acfc14b6803d40b5527f2b9
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:cb0740b445d1bb6cc7166aaec18882595fcc5f2c
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:355bf26c849cef0f7000e3b5aa23c2524454f71e
+#EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:cda882ca592a0b554f8f7b66e83d7badd49ed65c
 #EXTINF:-1 group-title="El Garaje del Futuro de Robert Downey Jr" tvg-id="" tvg-logo="" ,El Garaje del Futuro de Robert Downey Jr (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:3b3db92f58ae15ecc57492f43864e31eff089b5e
 #EXTINF:-1 group-title="El Garaje del Futuro de Robert Downey Jr" tvg-id="" tvg-logo="" ,El Garaje del Futuro de Robert Downey Jr (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:2a90ef416bb198e50bb8d10cbb95760346939425
 #EXTINF:-1 group-title="El Garaje del Futuro de Robert Downey Jr" tvg-id="" tvg-logo="" ,El Garaje del Futuro de Robert Downey Jr (Cap 106) [HDTV] [FHD]
 magnet:?xt=urn:btih:e7b9e93964bb46b5fcbafef9abb63c7af318ec4f
+#EXTINF:-1 group-title="El imperio de los chimpances" tvg-id="" tvg-logo="" ,El imperio de los chimpances (Cap 104) [4K]
+magnet:?xt=urn:btih:a472f41d217b3fe7e6ae555d0f35e0f94ecf9fdc
 #EXTINF:-1 group-title="El principe que nunca reino" tvg-id="" tvg-logo="" ,El principe que nunca reino (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:04e6a54754c1a93eb1366a2d9512dbb703edc159
 #EXTINF:-1 group-title="El principe que nunca reino" tvg-id="" tvg-logo="" ,El principe que nunca reino (Cap 103) [HDTV] [FHD]
@@ -825,6 +1105,10 @@ magnet:?xt=urn:btih:101c3052f4438fd13c94f6bec6ad7f3a788a6987
 magnet:?xt=urn:btih:f9e341312314b041c6badf561aeb847a83dfcb11
 #EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 205) [4K]
 magnet:?xt=urn:btih:da1f8da4b1dc517dde47bcf202b1e6765cbf9ea7
+#EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 207) [4K]
+magnet:?xt=urn:btih:88f68f4b6189aab32763e30738cb82c73659bdd1
+#EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 208) [4K]
+magnet:?xt=urn:btih:eed2eec0d4e76adc8f85e24ce382a5ff724d3102
 #EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 201) [HDTV] [FHD]
 magnet:?xt=urn:btih:8d63cc6cbdef288ca86c761d0cc018c9567bf7d8
 #EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 202) [HDTV] [FHD]
@@ -835,6 +1119,10 @@ magnet:?xt=urn:btih:f83f723219c3fd58e7c00f45f82f609c66040c4f
 magnet:?xt=urn:btih:ac221488f4dc62dc9e4429a487b100b1b3e15a2b
 #EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 205) [HDTV] [FHD]
 magnet:?xt=urn:btih:79c7f6d48f8a54e1d92afc386f63971da658cfea
+#EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 207) [HDTV] [FHD]
+magnet:?xt=urn:btih:93d8df42d56b7dbab1008e8bb5f25b256fb922b3
+#EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 208) [HDTV] [FHD]
+magnet:?xt=urn:btih:8c5cba6de4ea3d1fc8e00f1e61839173f381965a
 #EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:0cfeac967f9481eb38946aa763a9d211247f11b9
 #EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 202) [HDTV] [SD]
@@ -845,6 +1133,10 @@ magnet:?xt=urn:btih:9ad307d847467dd8160aafda762e84e593cb84fe
 magnet:?xt=urn:btih:ddfdbdb8631532a9a90485aa0b7e6f6ba18d44ab
 #EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 205) [HDTV] [SD]
 magnet:?xt=urn:btih:0c17745782d923c124118a00f307022af98d1bb2
+#EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 207) [HDTV] [SD]
+magnet:?xt=urn:btih:ab107801c6d1938ea01fd0f771f9d706d5296bb1
+#EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 208) [HDTV] [SD]
+magnet:?xt=urn:btih:f474a67639b938a5dd3fec1b6b0b905b9adff29b
 #EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 201) [HDTV] [HD]
 magnet:?xt=urn:btih:5b6f6abf895cf76db086999c141bc1207149c18c
 #EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 202) [HDTV] [HD]
@@ -855,6 +1147,16 @@ magnet:?xt=urn:btih:3e356c27a7228df4c32677177b34b050efd9dca2
 magnet:?xt=urn:btih:d0b0438501d17bb20f27aa4a91c1d27548a5139d
 #EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 205) [HDTV] [HD]
 magnet:?xt=urn:btih:d06640928a212e3d6550e3318c478c4c0f04d568
+#EXTINF:-1 group-title="El Verano en Que Me Enamore" tvg-id="" tvg-logo="" ,El Verano en Que Me Enamore (Cap 207) [HDTV] [HD]
+magnet:?xt=urn:btih:98e354f75aebfe32af95204e756864983a99b0ff
+#EXTINF:-1 group-title="El verano en que me enamore" tvg-id="" tvg-logo="" ,El verano en que me enamore (Cap 208) [HDTV] [HD]
+magnet:?xt=urn:btih:f1e191ac43549b855fea72e902a0807e864fc9c8
+#EXTINF:-1 group-title="En casa de los Fury" tvg-id="" tvg-logo="" ,En casa de los Fury (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:e52b1ed7e0f4120013b212f3fd129a576567ee64
+#EXTINF:-1 group-title="En casa de los Fury" tvg-id="" tvg-logo="" ,En casa de los Fury (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:3c9529b879429146c554c5e86ed5341aab75c44f
+#EXTINF:-1 group-title="En casa de los Fury" tvg-id="" tvg-logo="" ,En casa de los Fury (Cap 109) [HDTV] [FHD]
+magnet:?xt=urn:btih:eaa6a6d68338e3a7d4abe0ae33e6d14bc0a224e0
 #EXTINF:-1 group-title="From" tvg-id="" tvg-logo="" ,From (Cap 210) [HDTV] [FHD]
 magnet:?xt=urn:btih:d607b25f2b06ac287286a8bf6981902b9cd3ab1d
 #EXTINF:-1 group-title="From" tvg-id="" tvg-logo="" ,From (Cap 210) [HDTV] [SD]
@@ -887,24 +1189,48 @@ magnet:?xt=urn:btih:302bcd429c611246cc9ccc858b0a9feb6ddf9c13
 magnet:?xt=urn:btih:e970b46f14c877f1c790c01a43ee9d1e1137736c
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 203) [4K]
 magnet:?xt=urn:btih:100679a266422f1c5f06aa0194653f66696d8290
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 205) [4K]
+magnet:?xt=urn:btih:72d66606fd68102f829f1a02932db3f75d8e514b
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 206) [4K]
+magnet:?xt=urn:btih:5ef609698b231023f4b0a5afce49b2e9a73bf626
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap ) [HDTV] [FHD]
 magnet:?xt=urn:btih:35d498a0a0744a3f3629966ae47927cea28eadc3
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 202) [HDTV] [FHD]
 magnet:?xt=urn:btih:b1101e7b65f7d8a60c526f95d66be868064547ce
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 203) [HDTV] [FHD]
 magnet:?xt=urn:btih:393bfa86ec3997e32456536fa1aed814befc500c
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 205) [HDTV] [FHD]
+magnet:?xt=urn:btih:4a928fdfe6a9845249504736077882b0adaddb2e
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 206) [HDTV] [FHD]
+magnet:?xt=urn:btih:01dd200d287056ce0930f46d22c3a4c76ec9b7b9
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:07c4e57c66d3bd39890f373b51300f551260d279
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 202) [HDTV] [SD]
 magnet:?xt=urn:btih:86588ae4e3a0950027754c6dc76c90c8cb8068db
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 203) [HDTV] [SD]
 magnet:?xt=urn:btih:3e8d024d326d12855ab99b454e584f74bd61ee0e
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 205) [HDTV] [SD]
+magnet:?xt=urn:btih:e0d8ed99369dbaea637b28a6bb7a828e8d58eb9e
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 206) [HDTV] [SD]
+magnet:?xt=urn:btih:85b59ed5ab05d9bff40b37ddda9761de2afde001
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap ) [HDTV] [HD]
 magnet:?xt=urn:btih:25d74623bc1db62d5940583314b8ab1c18d5f5d8
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 202) [HDTV] [HD]
 magnet:?xt=urn:btih:cac41f845b16fbb0dd7b7706518932f153c1056f
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 203) [HDTV] [HD]
 magnet:?xt=urn:btih:0779e47df499ddd82377dd147cab79276655d226
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 205) [HDTV] [HD]
+magnet:?xt=urn:btih:e963a4aec968f9e90c15d195a9b2c58af85a0de4
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 206) [HDTV] [HD]
+magnet:?xt=urn:btih:0ffc9aeba10d9713a8f7ea5e5ce3634d93b36d0d
+#EXTINF:-1 group-title="Futurama" tvg-id="" tvg-logo="" ,Futurama (Cap 1101) [HDTV] [HD]
+magnet:?xt=urn:btih:9d3d2706ad778657addec4d8bffccc8997610888
+#EXTINF:-1 group-title="Futurama" tvg-id="" tvg-logo="" ,Futurama (Cap 1102) [HDTV] [HD]
+magnet:?xt=urn:btih:88525aa47680d28edfa0872967eb96602f7c2a5e
+#EXTINF:-1 group-title="Futurama" tvg-id="" tvg-logo="" ,Futurama (Cap 1103) [HDTV] [HD]
+magnet:?xt=urn:btih:26f5122e3d1848fa53d61ab6c98f21e343428b18
+#EXTINF:-1 group-title="Futurama" tvg-id="" tvg-logo="" ,Futurama (Cap 1104) [HDTV] [HD]
+magnet:?xt=urn:btih:61ab5a6279814c67d90bc8afd0eee1403a744c94
 #EXTINF:-1 group-title="Ghosts Of Beirut" tvg-id="" tvg-logo="" ,Ghosts Of Beirut (Cap 101) [4K]
 magnet:?xt=urn:btih:949c2b516fea867a6e29d7eeaecdbb8c2388abff
 #EXTINF:-1 group-title="Ghosts Of Beirut" tvg-id="" tvg-logo="" ,Ghosts Of Beirut (Cap 102) [4K]
@@ -995,10 +1321,76 @@ magnet:?xt=urn:btih:3e2c85c584d34d447e2bf97d7afdecd73e3fa331
 magnet:?xt=urn:btih:db702c41975a531d7feb295fbb8d0651811d06a1
 #EXTINF:-1 group-title="Gotham Knights" tvg-id="" tvg-logo="" ,Gotham Knights (Cap 113) [HDTV] [HD]
 magnet:?xt=urn:btih:e61494f11e31abc10e8010881d61220d953be6fa
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 202) [4K]
+magnet:?xt=urn:btih:e6109f2c8c9bda1369573a72c093108bd2d7114a
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 203) [4K]
+magnet:?xt=urn:btih:bdb00eaa471269e20c7c735693e712cedc5f855b
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 202) [HDTV] [FHD]
+magnet:?xt=urn:btih:ad49bdcb5cb97465e44198bebfe391ee0fcd4108
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 203) [HDTV] [FHD]
+magnet:?xt=urn:btih:a34f4c1a8763f1d6db635a8437d2e0b4e0077e66
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 202) [HDTV] [SD]
+magnet:?xt=urn:btih:0961871312174bdc62db3f5ae5862d721cf07993
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 203) [HDTV] [SD]
+magnet:?xt=urn:btih:dfc763df98e5890eaec54da00a379c751fb76484
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 203) [HDTV] [HD]
+magnet:?xt=urn:btih:eabbac536d6fd9d66f8dc56165e400cb654ca9b2
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 401) [HDTV] [FHD]
+magnet:?xt=urn:btih:565a0bde99933b8a17bc0999e08ace6dc22fbdb8
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 402) [HDTV] [FHD]
+magnet:?xt=urn:btih:74235fb755e02eb7366e0e76517db2b04ef645a6
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 403) [HDTV] [FHD]
+magnet:?xt=urn:btih:239fbe3f82b3c2148ab7850c5208b1fad066e569
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 404) [HDTV] [FHD]
+magnet:?xt=urn:btih:877165210e2e9c364603c6c7d92bd349d0228d06
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 405) [HDTV] [FHD]
+magnet:?xt=urn:btih:f9bf8c44898cc1c7914869d3772c18be02290c56
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 406) [HDTV] [FHD]
+magnet:?xt=urn:btih:3dec03ef94290061c20786449c78ca0d2ee6a926
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 407) [HDTV] [FHD]
+magnet:?xt=urn:btih:510bdbb051164e5e59a04e3487d7009930e8eab0
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 408) [HDTV] [FHD]
+magnet:?xt=urn:btih:9f9ed856fe8ce309ce712ca2d081adaae0452a32
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 401) [HDTV] [SD]
+magnet:?xt=urn:btih:a1d605ea78e9e6cd41b676b5b8f74eaece07f021
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 402) [HDTV] [SD]
+magnet:?xt=urn:btih:ca2cad5b64c53fed466403f04ce460a91dfce130
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 403) [HDTV] [SD]
+magnet:?xt=urn:btih:593f9cde9018eb4dffe921bc9570c009dbd38021
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 404) [HDTV] [SD]
+magnet:?xt=urn:btih:6c84d8a5a27e7c4b91d4e24c9a555668301471bc
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 405) [HDTV] [SD]
+magnet:?xt=urn:btih:5e2ae808a95f20c992635a71b49d769a5736330c
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 406) [HDTV] [SD]
+magnet:?xt=urn:btih:75b9bae0ec025d6c9e2f43203d0e4081782af8de
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 407) [HDTV] [SD]
+magnet:?xt=urn:btih:f9660f6184521870a899fa028ae26adf2cfd7cf1
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 408) [HDTV] [SD]
+magnet:?xt=urn:btih:d1c3adcb8969b9716d4eec875c5fe68bca819c13
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 401) [HDTV] [HD]
+magnet:?xt=urn:btih:401698d11ca6f21f326e2118478574382c167fd9
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 402) [HDTV] [HD]
+magnet:?xt=urn:btih:383a57407bc5fcf20832b4c240ad01b47a4ff6e6
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 403) [HDTV] [HD]
+magnet:?xt=urn:btih:8b14d78208bb5396aa3697bd47561f0e6316e2a8
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 404) [HDTV] [HD]
+magnet:?xt=urn:btih:398f95e0917366f811bf8d3f6294fc115b91327f
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 405) [HDTV] [HD]
+magnet:?xt=urn:btih:2a0d6c4c5dd686a0d2b517a7b1e925b32da2fb7c
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 406) [HDTV] [HD]
+magnet:?xt=urn:btih:b40b3590616384d3b5a33e4d1747721aae3ac2b2
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 407) [HDTV] [HD]
+magnet:?xt=urn:btih:ce001eddc1727634ecbbdc3744a94b1623c59580
+#EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 408) [HDTV] [HD]
+magnet:?xt=urn:btih:692ff15e8360d7b7277c125dfae8b44a13e73c9a
+#EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 103) [HDTV] [SD]
+magnet:?xt=urn:btih:ba81d6bac173aaa6c8860fc02b8870122d3b432a
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap ) [HDTV] [HD]
 magnet:?xt=urn:btih:a97a88664c912548541925813d0d1c566e41a6bb
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 102) [HDTV] [HD]
 magnet:?xt=urn:btih:7d4a3fbf3e011ca73211494302a508a520e2b9bf
+#EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:ec62bd5714e76f2f713b229634df039bf79559b1
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 101) [HDTV]
 magnet:?xt=urn:btih:363f2a8d868850a90dd98d9cd11d516cc356a3ff
 #EXTINF:-1 group-title="Hotel El Balneario" tvg-id="" tvg-logo="" ,Hotel El Balneario (Cap 601) [HDTV] [FHD]
@@ -1037,6 +1429,54 @@ magnet:?xt=urn:btih:56c2bb2535eab4080391a6227dd28a99078f739f
 magnet:?xt=urn:btih:9d02f2dd0ca4223efd85e922d36742ddfb90ca93
 #EXTINF:-1 group-title="Hotel El Balneario" tvg-id="" tvg-logo="" ,Hotel El Balneario (Cap 606) [HDTV] [HD]
 magnet:?xt=urn:btih:9f5b727768e3dcb37d89975a46f9e3f91effb03f
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:e7c5791bd32afb539ea2658a11a0b647510331db
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:db340dc42054deb770f91b5de7a84354b5d6ff6c
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:533299890ddf7b70f8d627bc28ec73b7c8edabcc
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:e52fb5c1bf765017cf8710cfd904f5a097e7e1e2
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:38da8073e1118540033fb7f2bc760b7b22fb07db
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:5546f72e80f243eda4f105deecec7a6f9ff310ef
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:cde019fe68b9bc61962fb04d25b158b290a5090c
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 108) [HDTV] [FHD]
+magnet:?xt=urn:btih:6cc929c18c94b5dce4f038a79e23a75e9cfeb2ce
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 101) [HDTV] [SD]
+magnet:?xt=urn:btih:22ddfe7b4f65fa254a0712b015954fa2b916d925
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 102) [HDTV] [SD]
+magnet:?xt=urn:btih:4f298b7f9ed9450ee1041114f6bfbeed0620d62a
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 103) [HDTV] [SD]
+magnet:?xt=urn:btih:88cb6c6e22558355fe3eb935ba16df645cddf30f
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 104) [HDTV] [SD]
+magnet:?xt=urn:btih:bdbe545405ac710c7d52477a4330688380942e58
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 105) [HDTV] [SD]
+magnet:?xt=urn:btih:ea32720a827cbac4d3bf089ad7d59bc5e4ba7a99
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 106) [HDTV] [SD]
+magnet:?xt=urn:btih:af867f3863c0534bd1cc3bf837a45098cef67803
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 107) [HDTV] [SD]
+magnet:?xt=urn:btih:b48ae5e7db64ee87bc088255bbff5e8491f247a1
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 108) [HDTV] [SD]
+magnet:?xt=urn:btih:963a7674e26638ab26586fac2316b5ac5884c8b2
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:a9f697795e6c9de0cff44d5f77b3060fc65d7094
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:871717810561092df8653c0e3c35cb8431bdcaf9
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:2b283fd205e2b1a393c75783413f5a481a5af04f
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:fe66eaee70b6e83dc6c27509ec7dc8f598a1fee8
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:1d6135614394df15c96ba077e95194782c5c8c6a
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:164678566c74fb131b5d2956fa16b9ea6d450471
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 107) [HDTV] [HD]
+magnet:?xt=urn:btih:c53230a454c10707b91b8da10bd0987db2ea6119
+#EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 108) [HDTV] [HD]
+magnet:?xt=urn:btih:0d6fa2e2adae1bb6bac8c7caf99fb08e914179d0
 #EXTINF:-1 group-title="Invasion Secreta" tvg-id="" tvg-logo="" ,Invasion Secreta (Cap 102) [4K]
 magnet:?xt=urn:btih:7835a0f54c4872257cdbbe65588a33a1bad20005
 #EXTINF:-1 group-title="Invasion Secreta" tvg-id="" tvg-logo="" ,Invasion Secreta (Cap 103) [4K]
@@ -1133,28 +1573,42 @@ magnet:?xt=urn:btih:67299884498fa2be3bb83aff1c5ecd089a96df48
 magnet:?xt=urn:btih:b0ffcc9234a39a98652a219aab7cd005ab2429dc
 #EXTINF:-1 group-title="Juan Carlos La caida del rey putero" tvg-id="" tvg-logo="" ,Juan Carlos La caida del rey putero (Cap 104) [HDTV] [SD]
 magnet:?xt=urn:btih:0ca6df2092467d57961cd6cd2f7b6c673a54609c
+#EXTINF:-1 group-title="Justified City Primeval" tvg-id="" tvg-logo="" ,Justified City Primeval (Cap 106) [4K]
+magnet:?xt=urn:btih:39356fd920b259eaf505e19b9d45ae3adc8d5840
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 101) [4K]
 magnet:?xt=urn:btih:3b19a2ac9630404304b8ab62c9f9c5fc2ea97552
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 102) [4K]
 magnet:?xt=urn:btih:c173a48fba71fbfaa16abb2c087e201f106a8564
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 106) [4K]
+magnet:?xt=urn:btih:0b9e888e2b8433c8f6dcad9854e9bf683337dc8e
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:82108fa350e56085f5d689aff7149f6b6db96bcf
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 102) [HDTV] [FHD]
 magnet:?xt=urn:btih:803fef4621a61ed0328b6e57794ad536bd842173
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:90108fba21c01f233b09e7a1b084551713312cc9
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:4dcfba41cf8a40730accf43b81c12b7d6f3e2604
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:9bf0a5f011d2cfdc9c128dff9acb592d08e7784f
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:d58f8ad478e3754ff75d95f4788993681a5f9767
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 102) [HDTV] [SD]
 magnet:?xt=urn:btih:817f4c73e977460ec83a019b6b515b234c2a0afe
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 103) [HDTV] [SD]
 magnet:?xt=urn:btih:5df6a9e93dc277419763b2bf267f6d552c04f728
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 105) [HDTV] [SD]
+magnet:?xt=urn:btih:96cfa601e1ab28ca6cad000340fdc05f9a617b21
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 106) [HDTV] [SD]
+magnet:?xt=urn:btih:5836cb0a11e839b5f28f92cc5f7480d8a132835c
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 101) [HDTV] [HD]
 magnet:?xt=urn:btih:9949bb181cd58d2d8414f6372b3e8c0bae76b750
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 102) [HDTV] [HD]
 magnet:?xt=urn:btih:cff835743dac576cc28ff2e79eb19878f52569df
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 103) [HDTV] [HD]
 magnet:?xt=urn:btih:8fabee1fa1246ee8ee149d07d4dbcd2a3018d929
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:cc32d33afa02c811c404f7eddf3130af72c92308
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:20225f64ee0659c68b74d9e35d702cdb9b68a5af
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 102) [HDTV] [FHD]
@@ -1203,6 +1657,86 @@ magnet:?xt=urn:btih:72632910b06b65153fab50696eb518663cd06f54
 magnet:?xt=urn:btih:cc06242b39a147bc12bd86febdfc36fb14216adf
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 108) [HDTV] [HD]
 magnet:?xt=urn:btih:81033a0442ed7a469b39367564870de4c83ce487
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:025c5bff63a40949a146814f795b68b7cad92bd4
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:60f0afaef6b2670aab543e35b9f624afaee1d9be
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:af90511fcf18c4b7f331ad392dffc812aa21a52a
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:9d4254c7ee343911f07270d97475cfef15e1c9b9
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:3fca904f949f67d5ef9a3039667fcb8c3baa9303
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:40e13d18d150a9e20f45289a2a0427ba2180363b
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:d603ec51074ef6973af402c801d43c915945b6a1
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 101) [HDTV] [SD]
+magnet:?xt=urn:btih:f9dd124aeb6a5fd6c40717436233458c25c71530
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 102) [HDTV] [SD]
+magnet:?xt=urn:btih:3b2b6af99c9e9d0a0b69a033f7c4c4e98cf576bf
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:b2feb7dcaeb91728dca43fb7bacbeca80d7a4e5a
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:6418e032d4b994587d96f93c76784b96accc28b8
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:ac4d6432900d764bfd170ff19c49915d99927e8c
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:d568e49afb4104512eda7a5ec60b52d0284f9b7c
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:ac1f83e10f0c18e27e32928b44d4043e2f55d024
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:bacfa05556e40691fc8f832bcbcc7edfc1f91870
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 107) [HDTV] [HD]
+magnet:?xt=urn:btih:5981f054839a338738474ed7f82f64fcd9b45d59
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 201) [HDTV] [FHD]
+magnet:?xt=urn:btih:b3503f054733e7e64cedf427c11ceae0c15708d6
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 202) [HDTV] [FHD]
+magnet:?xt=urn:btih:a015a943f9b9a0ab57de33476db0fb554248418a
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 203) [HDTV] [FHD]
+magnet:?xt=urn:btih:5c11cd1e79c9a00484a0628ac94f50dfde554f53
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 204) [HDTV] [FHD]
+magnet:?xt=urn:btih:ea71aada43e82132645c07ebcc99629abe3fe9c6
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 205) [HDTV] [FHD]
+magnet:?xt=urn:btih:a8804cfdcdff438ad98f4cc9316eee7dc8abf458
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 206) [HDTV] [FHD]
+magnet:?xt=urn:btih:d99ae0c7c48f2d89c2f1da1b01a5237d396e67a8
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 207) [HDTV] [FHD]
+magnet:?xt=urn:btih:a0d23406b39277a32b0f4dce13a3b1894709fb60
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 208) [HDTV] [FHD]
+magnet:?xt=urn:btih:943af27392e917f3c950e383a217e7cbc7882892
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 201) [HDTV] [SD]
+magnet:?xt=urn:btih:176fa19c34b90d4c71805e347744e7c8f476cc02
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 202) [HDTV] [SD]
+magnet:?xt=urn:btih:6201ce90e08bf3b2d01aee30935fb2a7d5f07366
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 203) [HDTV] [SD]
+magnet:?xt=urn:btih:9c7ff4cb91f259c97e9d38a56960d8a8a12720d6
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 204) [HDTV] [SD]
+magnet:?xt=urn:btih:f489550476ba524123230a4eba3d819f428cebae
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 205) [HDTV] [SD]
+magnet:?xt=urn:btih:353439066315faf21965ad0190510469c488b710
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 206) [HDTV] [SD]
+magnet:?xt=urn:btih:4bb8c5e9342d49706846e827749aa1d8d321838a
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 207) [HDTV] [SD]
+magnet:?xt=urn:btih:14096594df533f10a110400575d3c12c79887ee5
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 208) [HDTV] [SD]
+magnet:?xt=urn:btih:a095b031945dfe74710e38b6805f4529dcd3967e
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 201) [HDTV] [HD]
+magnet:?xt=urn:btih:bb3fb33af2b96fa63651a288211d35b8b6da20ed
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 202) [HDTV] [HD]
+magnet:?xt=urn:btih:09de93ab510785cadf33d0c159f349c2b7d38e30
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 203) [HDTV] [HD]
+magnet:?xt=urn:btih:9278152542a4277f346d1e030e4065d802506849
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 204) [HDTV] [HD]
+magnet:?xt=urn:btih:200df5f9292fe39b561d4f0de61f0771452de1d2
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 205) [HDTV] [HD]
+magnet:?xt=urn:btih:7a09084a32fe3c3769fba0ecba8bd0f8d4ba7d79
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 206) [HDTV] [HD]
+magnet:?xt=urn:btih:4311011884309335a93011004ce20bee78d577a1
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 207) [HDTV] [HD]
+magnet:?xt=urn:btih:8d650c6c92c8d25b1a5d61dd631ad234fb9cdbb4
+#EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 208) [HDTV] [HD]
+magnet:?xt=urn:btih:1d3a52b0f34a2b17dc74a01e4ec5b3dbae4403f3
 #EXTINF:-1 group-title="La noche que Logan desperto" tvg-id="" tvg-logo="" ,La noche que Logan desperto (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:ad0aea8f92291d7abf75c7f6f2d2b9b6c95137af
 #EXTINF:-1 group-title="La noche que Logan desperto" tvg-id="" tvg-logo="" ,La noche que Logan desperto (Cap 102) [HDTV] [FHD]
@@ -1351,6 +1885,28 @@ magnet:?xt=urn:btih:6f5fd0165b17ae4cc3b47bd51ea68e2aa10e5146
 magnet:?xt=urn:btih:393693011aaee599a97070f2476da19feb1474a5
 #EXTINF:-1 group-title="Las cinco primeras" tvg-id="" tvg-logo="" ,Las cinco primeras (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:437fcd522c16799a715276c41dc9387472713cf1
+#EXTINF:-1 group-title="Las damas primero Mujeres en el hiphop" tvg-id="" tvg-logo="" ,Las damas primero Mujeres en el hiphop (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:985ce4fb96858d3d83d613e7603e3cf71769860d
+#EXTINF:-1 group-title="Las damas primero Mujeres en el hiphop" tvg-id="" tvg-logo="" ,Las damas primero Mujeres en el hiphop (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:6c8cb5d84c2830d4abb11852c8172c7ba52aa49f
+#EXTINF:-1 group-title="Las damas primero Mujeres en el hiphop" tvg-id="" tvg-logo="" ,Las damas primero Mujeres en el hiphop (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:e17d2eed7bb701731082bfdc57d9473fed87b5ef
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 104) [FHD]
+magnet:?xt=urn:btih:310168d520167570cddaa3920cabc2833d6a273b
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 104) [4K]
+magnet:?xt=urn:btih:1960cbc0391c23d8798caa58c9e2af66004485d8
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 105) [4K]
+magnet:?xt=urn:btih:141af858f320fca492c9e22d355efb4ea9fa78c7
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 104) [HD]
+magnet:?xt=urn:btih:69377fa83a66ca297c87261e9b9fbbd95b2d0953
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:5488836b77e4252f58cc665f82b77a525abe1d08
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 104) [HDTV] [SD]
+magnet:?xt=urn:btih:aee7bbc0c2d9a6104f917f8c0e522078d3cf23c7
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 105) [HDTV] [SD]
+magnet:?xt=urn:btih:73e5b063a56f287bbf519c1b0fb4ee808b1f923b
+#EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:dea4702c8ebc773486e107d27fc58c5facf3fe1c
 #EXTINF:-1 group-title="Las invisibles" tvg-id="" tvg-logo="" ,Las invisibles (Cap 104) [HDTV] [FHD]
 magnet:?xt=urn:btih:18706d729af42592f1f11c81a242772936dcbe99
 #EXTINF:-1 group-title="Las invisibles" tvg-id="" tvg-logo="" ,Las invisibles (Cap 105) [HDTV] [FHD]
@@ -1697,6 +2253,42 @@ magnet:?xt=urn:btih:8ab18e803de0f7738b1b8133e3b4fe97dd867f53
 magnet:?xt=urn:btih:45ee57b27d7a8ff7525235e4d4889a139d08d740
 #EXTINF:-1 group-title="Mayans MC" tvg-id="" tvg-logo="" ,Mayans MC (Cap 508) [HDTV] [HD]
 magnet:?xt=urn:btih:076b0121e0ff93a6c20a9f9409dbe8b79a2030a7
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:c1eb39330d01913cf142279a60fcbe877808df22
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:7ad8eae0c68ac21794550e3c8ada39dd4f03371b
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:c9b647ffd6783f331729c03e095af8fe5d62bc51
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:567999c0b1d558632504aaaadec146b420de06c2
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 105) [HDTV] [FHD]
+magnet:?xt=urn:btih:46137d3fb087692dae103e80e9e40dd98c69113a
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:561a495a78825b3b35a92ec1b814142cfb2ff357
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:4656baa32bae0ee8acb0bec1cd5d8cc5ee813552
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:e3991c975fd29a732f9bdae6ef0be8b1158d5c67
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:2ed9655e3ff071e7b43d877909d1313d5112f027
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 104) [HDTV] [HD]
+magnet:?xt=urn:btih:77d1de94ec49661017df8387074211603d300175
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 105) [HDTV] [HD]
+magnet:?xt=urn:btih:4e8011f4eab9da3c4d250098b3e5b46e043836a6
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:3e8f11c5af6dfab717914a7a09af4f50eb8a18c7
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 101)
+magnet:?xt=urn:btih:cefc10c0af626a7abe9f26a45c357de1ddce57d4
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 102)
+magnet:?xt=urn:btih:be7e379ad1636c0b3988df09215fb9ba614222ba
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 103)
+magnet:?xt=urn:btih:5ea29914e73f9164163294447788b2d2a51316e9
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 104)
+magnet:?xt=urn:btih:2cf98234a1a41aef4f2fcff08fab64386067ecf4
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 105)
+magnet:?xt=urn:btih:5b224b903f17ba583ae6b9145a64ec807ff0bf11
+#EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 106)
+magnet:?xt=urn:btih:97874ac98efcf514872128d18e26935540057128
 #EXTINF:-1 group-title="Miss Jerusalen" tvg-id="" tvg-logo="" ,Miss Jerusalen (Cap 211) [HDTV] [SD]
 magnet:?xt=urn:btih:8355c500bb97d30b9eda7d68f13cef75f6ce81f9
 #EXTINF:-1 group-title="Miss Jerusalen" tvg-id="" tvg-logo="" ,Miss Jerusalen (Cap 212) [HDTV] [SD]
@@ -1831,6 +2423,10 @@ magnet:?xt=urn:btih:e42aad521189f75d88f5eb5d9a883d2ab43efd96
 magnet:?xt=urn:btih:fae6f086d53bb8bd6854d526c19a07aa04bdbc92
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 409) [HDTV] [FHD]
 magnet:?xt=urn:btih:2f8575e443c8046cedf151c3cb7786a5c7eed7a8
+#EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 411) [HDTV] [FHD]
+magnet:?xt=urn:btih:86eb4001c273a252af93f6a4e986b3fecaf8658b
+#EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 412) [HDTV] [FHD]
+magnet:?xt=urn:btih:9b7fca8d292a1dd197ef38ed1f744288f1978730
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 405) [HDTV] [SD]
 magnet:?xt=urn:btih:061c9b6f764ad384ce7573020010c23f2b1120d1
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 406) [HDTV] [SD]
@@ -1841,6 +2437,10 @@ magnet:?xt=urn:btih:492cc0a01e8228cd65f7c6adceaa090bc405c0b0
 magnet:?xt=urn:btih:25ec4b03a9ed04f47a0573cb747a895eddf35aa4
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 409) [HDTV] [SD]
 magnet:?xt=urn:btih:5d8e48c24fbc06acfcb6dc07365d24d26f9e380a
+#EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 411) [HDTV] [SD]
+magnet:?xt=urn:btih:2c92f1f819f86b363efa6b6348e99da0f869e6d1
+#EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 412) [HDTV] [SD]
+magnet:?xt=urn:btih:ca38dd4534954fd3daae6a83dbb1f84eeb24a241
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 405) [HDTV] [HD]
 magnet:?xt=urn:btih:c841e6afe66b0c4cd5aa8aa1471b05277f58f6c0
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 406) [HDTV] [HD]
@@ -1851,6 +2451,10 @@ magnet:?xt=urn:btih:994c996716c612cd785ea0035c52a090657b3838
 magnet:?xt=urn:btih:2ebf1240fa2e027ca924796caef55e7a101bdc56
 #EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 409) [HDTV] [HD]
 magnet:?xt=urn:btih:7744ebbe7136e30405e96b4d8c0dc6c03eb3148a
+#EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 411) [HDTV] [HD]
+magnet:?xt=urn:btih:dc34af2d4ac2f3edd53c54d257e10436d8b1f900
+#EXTINF:-1 group-title="Nancy Drew" tvg-id="" tvg-logo="" ,Nancy Drew (Cap 412) [HDTV] [HD]
+magnet:?xt=urn:btih:bf4323cb19c2d0556cfb4198278184b775043b79
 #EXTINF:-1 group-title="Narcas" tvg-id="" tvg-logo="" ,Narcas (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:e2f0235c55232785c993ce13ee3a33d172f2526a
 #EXTINF:-1 group-title="Narcas" tvg-id="" tvg-logo="" ,Narcas (Cap 102) [HDTV] [FHD]
@@ -1887,6 +2491,10 @@ magnet:?xt=urn:btih:ff0b5c866e5de902446c2f9128e7695afd0b9d5a
 magnet:?xt=urn:btih:7386d23ff065a1f859d70a1581167835f2ff8d6e
 #EXTINF:-1 group-title="Nuestro planeta" tvg-id="" tvg-logo="" ,Nuestro planeta (Cap 204) [HDTV] [FHD]
 magnet:?xt=urn:btih:3f3211f4dbcb0b3e4d51937d38510eac9c2b476f
+#EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 706) [HDTV] [SD]
+magnet:?xt=urn:btih:9d1272755f347868d80bf615ebce635777ed430f
+#EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 706) [HDTV] [HD]
+magnet:?xt=urn:btih:68fc91b99454051675b8747921e8e83539084c79
 #EXTINF:-1 group-title="Outlander - Temporada 5" tvg-id="" tvg-logo="" ,Outlander - Temporada 5 (Cap 507) [HDTV] [HD]
 magnet:?xt=urn:btih:1a61a84a7e231c46ff5693a4a00cf3e2be4ac846
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 507) [HDTV] [FHD]
@@ -1895,8 +2503,12 @@ magnet:?xt=urn:btih:0a28f078f785444ef476642eb750945a31f100c5
 magnet:?xt=urn:btih:538c79df98f8c33ff79fc6b504169f9befcd7436
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 704) [HDTV] [FHD]
 magnet:?xt=urn:btih:d4ed44a39e2c4939929c252a5369f5fdf01780ab
+#EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 706) [HDTV] [FHD]
+magnet:?xt=urn:btih:6a4d253b8bc63e9f998a6304be01714c467c6e33
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 707) [HDTV] [FHD]
 magnet:?xt=urn:btih:5c6ac5518f6e50d7202ee92582fc442683727e9a
+#EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 708) [HDTV] [FHD]
+magnet:?xt=urn:btih:d04efe93e9dc181dba084ed894c4c1db93e17d9a
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 507) [HDTV] [SD]
 magnet:?xt=urn:btih:f3770f912fab4fa72ab7afa008fbbe4846f72067
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 703) [HDTV] [SD]
@@ -1905,6 +2517,8 @@ magnet:?xt=urn:btih:2f2ba2ee55bc954838646d6e987a3d27a2505958
 magnet:?xt=urn:btih:291dd58b8d29382e5383c397fe30830d9a787489
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 707) [HDTV] [SD]
 magnet:?xt=urn:btih:9faa7ba084bbf4f41d3d707a3b9248d73c4eece8
+#EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 708) [HDTV] [SD]
+magnet:?xt=urn:btih:171b20e0667f09d223aa92dabb2f331432e8f7bc
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 507) [HDTV] [HD]
 magnet:?xt=urn:btih:fcb1417e72515a620db3c91836b4808239aa21f9
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 703) [HDTV] [HD]
@@ -1913,18 +2527,32 @@ magnet:?xt=urn:btih:885b02f445ec6d5abea621e2bd98992e7bc72151
 magnet:?xt=urn:btih:b3544661c306d53a3c6fa6c17130a97cbeb96c5e
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 707) [HDTV] [HD]
 magnet:?xt=urn:btih:8233a1883524e4447a4bddac629963e9a8487fdc
+#EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 708) [HDTV] [HD]
+magnet:?xt=urn:btih:9daf3fe4b40e027d38d443928097ada119da3605
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 301) [4K]
 magnet:?xt=urn:btih:bcdf158eb8fbc55c5a0e51f148cbf51bdea3af9e
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 302) [4K]
 magnet:?xt=urn:btih:9a5b7cb99906815f109740fabfd6e8e8fccd91b2
+#EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 304) [4K]
+magnet:?xt=urn:btih:f69581b60208e473fbe00743d832ad9ca3b4aa57
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 301) [HDTV] [FHD]
 magnet:?xt=urn:btih:0949d92822eff78f84fb9ba2f990a793c2d4982c
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 302) [HDTV] [FHD]
 magnet:?xt=urn:btih:0fef08cf8b1c840a631c76608913d40dce819b45
+#EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 303) [HDTV] [FHD]
+magnet:?xt=urn:btih:66d56d863c5b4645305982abf4d078870cdf56a1
+#EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 304) [HDTV] [FHD]
+magnet:?xt=urn:btih:3d523b5f959c668fa875c15d9fc3b5098c663735
+#EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 303) [HDTV] [SD]
+magnet:?xt=urn:btih:ffc3f3dab809cd28d863f39dbf223afdd2f5e605
+#EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 304) [HDTV] [SD]
+magnet:?xt=urn:btih:3b03ef1b4bda518b884f3a745811b0fdc2b4fabc
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 301) [HDTV] [HD]
 magnet:?xt=urn:btih:9ba865e5dc064f3fc49d6464fb203e92dd4539af
 #EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 302) [HDTV] [HD]
 magnet:?xt=urn:btih:8d1ac32e2626ba33132e4cb0599e00ffc48773b4
+#EXTINF:-1 group-title="Physical" tvg-id="" tvg-logo="" ,Physical (Cap 303) [HDTV] [HD]
+magnet:?xt=urn:btih:7bf23000b727a622bfba129427d69ad4e2aeabab
 #EXTINF:-1 group-title="Platonico" tvg-id="" tvg-logo="" ,Platonico (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:ec0321226d26b94c2c7e125b10792c44cdc522c5
 #EXTINF:-1 group-title="Platonico" tvg-id="" tvg-logo="" ,Platonico (Cap 109) [HDTV] [FHD]
@@ -2111,6 +2739,10 @@ magnet:?xt=urn:btih:7aa326018412fefc13b375a23242fe8573939cd1
 magnet:?xt=urn:btih:e0cd8c6c7d71a6ef53c617a778cc44c7411aaa39
 #EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 104) [HDTV] [FHD]
 magnet:?xt=urn:btih:055796b0b587446694cb0d093b5089700e11c201
+#EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 106) [HDTV] [FHD]
+magnet:?xt=urn:btih:0026f289b21f2b9c2405edc06427eec0dfd88c3a
+#EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 107) [HDTV] [FHD]
+magnet:?xt=urn:btih:7074b439fa3521cc6faf9d635c0267ffc088e1a2
 #EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:407cc249e75bd72d9bef8b96c404f35e61c44a2e
 #EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 102) [HDTV] [SD]
@@ -2151,6 +2783,26 @@ magnet:?xt=urn:btih:82c4390261d1cacc441f9d44b13248b959bd9001
 magnet:?xt=urn:btih:022ec09b2e2e4064a585a95e3d2e279304271ac0
 #EXTINF:-1 group-title="Quarterback" tvg-id="" tvg-logo="" ,Quarterback (Cap 108) [HDTV] [FHD]
 magnet:?xt=urn:btih:aaae61513b532d0409818d963dd2e95185a24dbe
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 101) [4K]
+magnet:?xt=urn:btih:79532e5550c7a6c951552380ea516eeafd62e3e4
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 102) [4K]
+magnet:?xt=urn:btih:8008676b870b98d800b286e5b96c7bf131c3b64f
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 103) [4K]
+magnet:?xt=urn:btih:41fcaffcfa842c0e02068c94370dc98b1dd0ab63
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:1ae63508879b020feaa60ec4835bf5226f4614c0
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:f0bba9dd75885a59e1e68b5fae1415c49ad961a8
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 101) [HDTV] [SD]
+magnet:?xt=urn:btih:4185397b21dff7784bb6219ada7a2791cbbb1e23
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 102) [HDTV] [SD]
+magnet:?xt=urn:btih:3d5115e1ba6f2c35704c8392cdd7d27854572518
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 101) [HDTV] [HD]
+magnet:?xt=urn:btih:6bf203411cfaadb92160b08b3120ddba3735fe37
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 102) [HDTV] [HD]
+magnet:?xt=urn:btih:6382355c3f3f4962a761f76daf215499a2485595
+#EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 103) [HDTV] [HD]
+magnet:?xt=urn:btih:1174593bbd66ffd81515d2a948ddc4c1023851f8
 #EXTINF:-1 group-title="Royal Crackers" tvg-id="" tvg-logo="" ,Royal Crackers (Cap 110) [HDTV] [HD]
 magnet:?xt=urn:btih:0302d992796a6066ffd3f33d6cd9d52ce35cf5d5
 #EXTINF:-1 group-title="Run the World" tvg-id="" tvg-logo="" ,Run the World (Cap 206) [HDTV] [SD]
@@ -2299,6 +2951,10 @@ magnet:?xt=urn:btih:1f6d96d7a45798b8eb56db68e26ec8d43d57f6b7
 magnet:?xt=urn:btih:5ef3c1db2c6eec98ffdfbe7c5f9e1fbeb4bc5794
 #EXTINF:-1 group-title="Sisi" tvg-id="" tvg-logo="" ,Sisi (Cap 206) [HDTV] [HD]
 magnet:?xt=urn:btih:5e2756d3d9b28e0fc50edb809ec9cfc7666522fa
+#EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 208) [FHD]
+magnet:?xt=urn:btih:0623d2ca523d59713f300a6729c30876e014c1b4
+#EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 208) [HD]
+magnet:?xt=urn:btih:0af6cde3ef8a25fa90af6151bb345683610d0639
 #EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 202) [HDTV] [FHD]
 magnet:?xt=urn:btih:fbe2bae6da81ac41e4511d2307ac144db5f1a90f
 #EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 203) [HDTV] [FHD]
@@ -2323,6 +2979,8 @@ magnet:?xt=urn:btih:c2455a137500e3eb89f0ad7bffdda742ea4e8a82
 magnet:?xt=urn:btih:cff7da449ecd0f2162ed2a3f9938510ee73be1dd
 #EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 207) [HDTV] [SD]
 magnet:?xt=urn:btih:5603e6402d50c56554adddc8caf0d1b0ed4cfda4
+#EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 208) [HDTV] [SD]
+magnet:?xt=urn:btih:84bda7d594db99717ea088a9a651c97efddebe8f
 #EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 202) [HDTV] [HD]
 magnet:?xt=urn:btih:430e69406bda6a1fb76e288a5691467fd82e7b5f
 #EXTINF:-1 group-title="Sister Boniface Mysteries" tvg-id="" tvg-logo="" ,Sister Boniface Mysteries (Cap 203) [HDTV] [HD]
@@ -2337,6 +2995,54 @@ magnet:?xt=urn:btih:0f3f3f72381b19b3673326367f2f0c74c11fb14e
 magnet:?xt=urn:btih:e9890d4c5f3607e628a4c5f8d05f22d615ff21ea
 #EXTINF:-1 group-title="Sofia y la vida Real" tvg-id="" tvg-logo="" ,Sofia y la vida Real (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:256324150c020f1c1099c10dde67b5dac2ccf56a
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 301) [HDTV] [HD]
+magnet:?xt=urn:btih:7e7d07aca901590744120f8dfdbc74ee88edaa4d
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 302) [HDTV] [HD]
+magnet:?xt=urn:btih:26a1c5387df5854a1c8ead84a2ff957322b66c8b
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 303) [HDTV] [HD]
+magnet:?xt=urn:btih:6d7399b495e1be7294a47154cc44e50a537797e0
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 304) [HDTV] [HD]
+magnet:?xt=urn:btih:fc783bfc0e882ba97eb0ed64b335594ee197de34
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 305) [HDTV] [HD]
+magnet:?xt=urn:btih:d098db4f89014777ee958a20fca715f746dd9dc2
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 306) [HDTV] [HD]
+magnet:?xt=urn:btih:6448a4b78ac587e29e6c28d4c6cfc0cdd63c9afb
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 307) [HDTV] [HD]
+magnet:?xt=urn:btih:9fe7eed8839c6e5832c58d135f4a7d2bb22194d4
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 308) [HDTV] [HD]
+magnet:?xt=urn:btih:320f76970d9411ecf1fab4fbeb9a1eb54b910b71
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 309) [HDTV] [HD]
+magnet:?xt=urn:btih:0dac05ed5d1936d258a34ef51ed7c92202d1bc32
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 310) [HDTV] [HD]
+magnet:?xt=urn:btih:011bc1ffbc58f22be7acfc16f36504eea90f33a1
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 311) [HDTV] [HD]
+magnet:?xt=urn:btih:2bea45f695c2291ab4691e93bfacb614f0452c40
+#EXTINF:-1 group-title="Solar Oosites" tvg-id="" tvg-logo="" ,Solar Oosites (Cap 312) [HDTV] [HD]
+magnet:?xt=urn:btih:8ed8a1dc25bcba491c374ab5ee3555182354bafb
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 301) [4K]
+magnet:?xt=urn:btih:b9a19c17a200cb0eb5f63a61532f636e44828794
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 302) [4K]
+magnet:?xt=urn:btih:904352cd3acefa59fa521d9da3bd77ac1315054a
+#EXTINF:-1 group-title="Solo Asesinatos en el Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos en el Edificio (Cap 303) [4K]
+magnet:?xt=urn:btih:1283180417dd7207053f8d6ddbd5b40c7285fe5b
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 301) [HDTV] [FHD]
+magnet:?xt=urn:btih:c5318f81b8b4822aa67aa48748e20fbe4b3c50d1
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 302) [HDTV] [FHD]
+magnet:?xt=urn:btih:98927ab439cbe3bd6cec47da6d9ae4434a8b242c
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 303) [HDTV] [FHD]
+magnet:?xt=urn:btih:d0f02069c34708bd56fee506873dc4c79c1793b7
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 301) [HDTV] [SD]
+magnet:?xt=urn:btih:4f76a91fb06384fe97f2173c8eef13fd827d43cc
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 302) [HDTV] [SD]
+magnet:?xt=urn:btih:b3f872c11e5bc9981bd491d1518f83b78f4c9a3d
+#EXTINF:-1 group-title="Solo Asesinatos en el Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos en el Edificio (Cap 303) [HDTV] [SD]
+magnet:?xt=urn:btih:8a7fe67278c39201c796068d945d407b844f89da
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 301) [HDTV] [HD]
+magnet:?xt=urn:btih:ebf6953e9f230f7ae0caaca8d21e5ad20fb06373
+#EXTINF:-1 group-title="Solo Asesinatos En El Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos En El Edificio (Cap 302) [HDTV] [HD]
+magnet:?xt=urn:btih:1072dc3442e55d7ca9ac973e84fde6e37a08748d
+#EXTINF:-1 group-title="Solo Asesinatos en el Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos en el Edificio (Cap 303) [HDTV] [HD]
+magnet:?xt=urn:btih:33770a43dadd5f5ff90a73ebc15100f12720bf78
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 203) [4K]
 magnet:?xt=urn:btih:378258c67ea857a7b0fed27740bfc13050ec2ae7
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 204) [4K]
@@ -2349,6 +3055,8 @@ magnet:?xt=urn:btih:f515784f7b2bd17679b5f78a09aca7d551ab56cb
 magnet:?xt=urn:btih:436df667cab3e8b1e37a536a27b1ca4c19ab70d0
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 208) [4K]
 magnet:?xt=urn:btih:270a5acacaac7e26b632bad25b71bd643479e68f
+#EXTINF:-1 group-title="Star trek strange new worlds" tvg-id="" tvg-logo="" ,Star trek strange new worlds (Cap 210) [4K]
+magnet:?xt=urn:btih:2084e38a4b91c79da776af192e221bb3fdabfc2b
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 203) [HDTV] [FHD]
 magnet:?xt=urn:btih:0104fb1d8478d2699722146a9c3be3b5e4716853
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 204) [HDTV] [FHD]
@@ -2361,6 +3069,8 @@ magnet:?xt=urn:btih:1b18e0e2c421333913b12c6b73b2ce7d99ab82db
 magnet:?xt=urn:btih:1c03e0b8a87180d499d49d14db304b14635cd0dc
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 208) [HDTV] [FHD]
 magnet:?xt=urn:btih:550d2b02924c66fc317241a2a9b5fc550064f2f1
+#EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 210) [HDTV] [FHD]
+magnet:?xt=urn:btih:79bbc683f1eefea0ecb4e1da7cd1f8bd897bafb2
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 203) [HDTV] [SD]
 magnet:?xt=urn:btih:bc2d8f6dc9280d5f7a537d7099bd6d57225b256f
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 204) [HDTV] [SD]
@@ -2373,6 +3083,8 @@ magnet:?xt=urn:btih:969f486df32d6a49b4b9d0d469694054e75b54ea
 magnet:?xt=urn:btih:a71623df7070d2d9fbf363a4e555d8d07de1b017
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 208) [HDTV] [SD]
 magnet:?xt=urn:btih:29c2d51a9b41b6d65ad8ef7b659216c79d57d74f
+#EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 210) [HDTV] [SD]
+magnet:?xt=urn:btih:0e4fea58681b2861a10144af5f51ebc3bd75a7ac
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 203) [HDTV] [HD]
 magnet:?xt=urn:btih:f090b97fc63e615f0175ceb2dfff706192d097ce
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 204) [HDTV] [HD]
@@ -2385,6 +3097,8 @@ magnet:?xt=urn:btih:d970da1a72f4104cc6c243ab959f605cf94c785e
 magnet:?xt=urn:btih:e8a9e6ac791911b415408e0361743e545794e60e
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 208) [HDTV] [HD]
 magnet:?xt=urn:btih:46fee1516bd5d1a8474be2fa6dd356baff0da7d3
+#EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 210) [HDTV] [HD]
+magnet:?xt=urn:btih:7d15434db0c1d4606d565b6f5cf27c8f58c6b32d
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 103) [HDTV] [FHD]
 magnet:?xt=urn:btih:a3218a7950de878aa0e1242587efeec432715e79
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 104) [HDTV] [FHD]
@@ -2399,6 +3113,8 @@ magnet:?xt=urn:btih:13c8b436235aa92bbb95bba18ff07c50f1171b95
 magnet:?xt=urn:btih:0b6c748dff5507898bcc6dcead3aed2362885fd0
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 109) [HDTV] [FHD]
 magnet:?xt=urn:btih:92a7a3e9e2a8d1d39e07734e21f5ce03ea76b7eb
+#EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 110) [HDTV] [FHD]
+magnet:?xt=urn:btih:fe688fb37b62869e040eba61d9eaeb4c8c82776a
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 103) [HDTV] [SD]
 magnet:?xt=urn:btih:7150163efef46fbe1526f9c1764aac63981742b0
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 104) [HDTV] [SD]
@@ -2411,6 +3127,8 @@ magnet:?xt=urn:btih:52e6dcdcee78809ec7433d84958d63dd07af355e
 magnet:?xt=urn:btih:b3a8d573ac1248fead8c745c353d3814e957792e
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 109) [HDTV] [SD]
 magnet:?xt=urn:btih:c0c9671acf771e7fce92d6d8fea7459fefcfb7fa
+#EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 110) [HDTV] [SD]
+magnet:?xt=urn:btih:122ff4c22a6470d9247ce2abc4c083f2f67a6e6a
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 103) [HDTV] [HD]
 magnet:?xt=urn:btih:639a23facb4496006165692b3c2a5d11b7a65ebf
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 104) [HDTV] [HD]
@@ -2423,6 +3141,8 @@ magnet:?xt=urn:btih:ee8b1f9c4eb2da2170b0a0bb8fdd7088c99996b6
 magnet:?xt=urn:btih:ea711955b876a98a8dc6e94e7b59b97b8fb2a1d3
 #EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 109) [HDTV] [HD]
 magnet:?xt=urn:btih:570aba1985ae9b94c058bf6ea16f6d8996d9ead7
+#EXTINF:-1 group-title="Still Here" tvg-id="" tvg-logo="" ,Still Here (Cap 110) [HDTV] [HD]
+magnet:?xt=urn:btih:2f2455f3d745136cc01be5ade8152c162f74b9c5
 #EXTINF:-1 group-title="Supergarcia" tvg-id="" tvg-logo="" ,Supergarcia (Cap 101) [HDTV] [FHD]
 magnet:?xt=urn:btih:e5f733495ecc0d6cbeb18ebdb3df1701e2ec0998
 #EXTINF:-1 group-title="Supergarcia" tvg-id="" tvg-logo="" ,Supergarcia (Cap 102) [HDTV] [FHD]
@@ -2461,6 +3181,8 @@ magnet:?xt=urn:btih:87377268ee8114a914f4dd4f63c2070355fed5b3
 magnet:?xt=urn:btih:95f71f7c69df6ec53225e5f2aba8f389c1b9d166
 #EXTINF:-1 group-title="Swagger" tvg-id="" tvg-logo="" ,Swagger (Cap 206) [HDTV] [SD]
 magnet:?xt=urn:btih:0c318b8f5ce8f970c14fd15191703ba8bd46d78a
+#EXTINF:-1 group-title="Swagger" tvg-id="" tvg-logo="" ,Swagger (Cap 207) [HDTV] [SD]
+magnet:?xt=urn:btih:5880665e559635cdade4b77332b7358f7d42842c
 #EXTINF:-1 group-title="Swagger" tvg-id="" tvg-logo="" ,Swagger (Cap 202) [HDTV] [HD]
 magnet:?xt=urn:btih:22d1f8a7c66d8da5ca9c5e45c6d4579c001a2e46
 #EXTINF:-1 group-title="Swagger" tvg-id="" tvg-logo="" ,Swagger (Cap 203) [HDTV] [HD]
@@ -2471,6 +3193,8 @@ magnet:?xt=urn:btih:62c356d900a712569899350baca4895b2d80b15b
 magnet:?xt=urn:btih:3dee5114b220d2f7e3661f57be28bfd70a5a9b1a
 #EXTINF:-1 group-title="Swagger" tvg-id="" tvg-logo="" ,Swagger (Cap 206) [HDTV] [HD]
 magnet:?xt=urn:btih:ace8d2cc711829b3b542d8a528a5fef9382f9560
+#EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 701) [HDTV] [FHD]
+magnet:?xt=urn:btih:22d0647f21142383320fbdeb2688316113959ad4
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 705) [HDTV] [FHD]
 magnet:?xt=urn:btih:456783d5fdf5b3d3ec6096dddfbf9a28d2b91f4f
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 706) [HDTV] [FHD]
@@ -2483,6 +3207,8 @@ magnet:?xt=urn:btih:fde609b769d9e1d7dc4e37640363e6c2f242b1e3
 magnet:?xt=urn:btih:093ae62252965defe746e17f51d61d0286d03a01
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 710) [HDTV] [FHD]
 magnet:?xt=urn:btih:26a2cd4583a3d6f4bafb2a5d64da162530bf33b4
+#EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 701) [HDTV] [SD]
+magnet:?xt=urn:btih:b471cf7c80be79a7b6bcd6633d9cc504ca79d361
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 705) [HDTV] [SD]
 magnet:?xt=urn:btih:a232edfc9d6453668d69a1086381892001aab20e
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 706) [HDTV] [SD]
@@ -2493,6 +3219,8 @@ magnet:?xt=urn:btih:9ca96a54691f966992073325c49e61a77494948f
 magnet:?xt=urn:btih:f9d468dfff15a3e02594097ece7b11a240324bef
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 710) [HDTV] [SD]
 magnet:?xt=urn:btih:df2e555031003ef6333477e6258f13ab2b7c6c1f
+#EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 701) [HDTV] [HD]
+magnet:?xt=urn:btih:134ff1452e4aadfb9d7894a54b5c1e69611bca0a
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 705) [HDTV] [HD]
 magnet:?xt=urn:btih:f7624d5d89248493a8e09e5130acaee59f45ccac
 #EXTINF:-1 group-title="Tandem" tvg-id="" tvg-logo="" ,Tandem (Cap 706) [HDTV] [HD]
@@ -2515,6 +3243,10 @@ magnet:?xt=urn:btih:a086e2778c6f692aac952d464807e2fed603e6f4
 magnet:?xt=urn:btih:7bceece658aae6e48dc2c727d9c338f1dbbe4e3a
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 204) [4K]
 magnet:?xt=urn:btih:3a4316cd5a98724b6121ebdf41a42d94763087c6
+#EXTINF:-1 group-title="The afterparty" tvg-id="" tvg-logo="" ,The afterparty (Cap 206) [4K]
+magnet:?xt=urn:btih:5149768f9f631a59f111751a0e481c37debacef3
+#EXTINF:-1 group-title="The afterparty" tvg-id="" tvg-logo="" ,The afterparty (Cap 207) [4K]
+magnet:?xt=urn:btih:0bd13eaaa7313c102fd74809263eb7d089cc4ce6
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 201) [HDTV] [4K]
 magnet:?xt=urn:btih:1317dbd5b9f24d624a6d3f52c12f36afa841e82b
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 202) [HDTV] [4K]
@@ -2527,12 +3259,20 @@ magnet:?xt=urn:btih:78e286c30b8da0b135930728e9f0531d8ecfbeb9
 magnet:?xt=urn:btih:e04fd1f59ef9ab92fab9c2b79659d48e11c43587
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 204) [HDTV] [FHD]
 magnet:?xt=urn:btih:d2299e9196bb9c5594c277350c8330c8287481ee
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 206) [HDTV] [FHD]
+magnet:?xt=urn:btih:9f165a86b5aece6e20fcb1ec032438470cbaf7d4
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 207) [HDTV] [FHD]
+magnet:?xt=urn:btih:da837896f56f70e97541e91de9c0d23b944329dd
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 202) [HDTV] [SD]
 magnet:?xt=urn:btih:0a6acfe3d88a52a1206ef7e9e8bf8821d4dc008c
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 203) [HDTV] [SD]
 magnet:?xt=urn:btih:abc84b400ca31bc88f77902b7479f6330e9770a8
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 204) [HDTV] [SD]
 magnet:?xt=urn:btih:f890b4e45c05bbebb38bbde72532b94619387271
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 206) [HDTV] [SD]
+magnet:?xt=urn:btih:c3690e043ba9c10837f1a100b378491c0d86a460
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 207) [HDTV] [SD]
+magnet:?xt=urn:btih:018cc9e275ae5acef1e0f9f95894b3270080b3fb
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 201) [HDTV] [HD]
 magnet:?xt=urn:btih:8498ae07698082f0eca73fb4b8d6fd837f368dd4
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 202) [HDTV] [HD]
@@ -2541,6 +3281,10 @@ magnet:?xt=urn:btih:542e93eaa3003dc0f1fc61835f5b11eb304b57eb
 magnet:?xt=urn:btih:c6082add1f482d83f43eeafd268bd3df79e11a76
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 204) [HDTV] [HD]
 magnet:?xt=urn:btih:e42240b2a89f4d787cb9e86fa47d806fd42fdcd3
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 206) [HDTV] [HD]
+magnet:?xt=urn:btih:3ad8c5c1ca7ce51caf85ab0d706432e403ba12e4
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 207) [HDTV] [HD]
+magnet:?xt=urn:btih:11e094ae79c8aeab4da103165ad4ed90a7e87361
 #EXTINF:-1 group-title="The Architect" tvg-id="" tvg-logo="" ,The Architect (Cap 101) [HDTV] [SD]
 magnet:?xt=urn:btih:f7d789371e06701ea8f1d6727e53cc8573f9cd42
 #EXTINF:-1 group-title="The Architect" tvg-id="" tvg-logo="" ,The Architect (Cap 102) [HDTV] [SD]
@@ -2579,6 +3323,10 @@ magnet:?xt=urn:btih:5d7213f6c0da31f871e56df36991331b5142660a
 magnet:?xt=urn:btih:a67b607a26757e9644a2ac29b69f62f3ccb8d111
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 205) [4K]
 magnet:?xt=urn:btih:7ed90c785cb8f6b21b9303f581ab1c0178588ae1
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 209) [4K]
+magnet:?xt=urn:btih:42208c2010600c5e7eb9c9441334726b94681b4c
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 210) [4K]
+magnet:?xt=urn:btih:cb06a7dd51a462164833439d2ff6156db638362a
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 201) [HDTV] [FHD]
 magnet:?xt=urn:btih:a72094c1332c81c9554fb78d75e9010783802208
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 203) [HDTV] [FHD]
@@ -2587,6 +3335,10 @@ magnet:?xt=urn:btih:f589f19fff26abbcad5c6ef79f7c293bb3f07236
 magnet:?xt=urn:btih:71368be9093d66e5aac6bde889aa1b36c1ca209b
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 205) [HDTV] [FHD]
 magnet:?xt=urn:btih:997d371491a72c4ad76a422421aba463f6250286
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 209) [HDTV] [FHD]
+magnet:?xt=urn:btih:6d921a38b669ae32f84115e01abfa126f958e980
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 210) [HDTV] [FHD]
+magnet:?xt=urn:btih:e1b7c019537a591e9dd7064a4dd1cfeff955f52a
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:3d16348f1569c4daef5a3daf60feac54d1b26f00
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 203) [HDTV] [SD]
@@ -2595,12 +3347,28 @@ magnet:?xt=urn:btih:cf9eca77423d1c03cc67a6baffd35ac8f04812cb
 magnet:?xt=urn:btih:3ef78ec0eaf9d3a8bc9250cc580bea1a2c3c202f
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 205) [HDTV] [SD]
 magnet:?xt=urn:btih:b74478f3fcd88ee1b5306d769493df0535ed1e3a
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 209) [HDTV] [SD]
+magnet:?xt=urn:btih:f1435d57cb5e73bb87b8c8c62c9b53c979cb5ac7
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 210) [HDTV] [SD]
+magnet:?xt=urn:btih:2a0d517dea4e34ab033f13252144a13717aceb1c
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 201) [HDTV] [HD]
 magnet:?xt=urn:btih:d467c5ac183d75af41e06dbed9f217473b9bf01e
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 204) [HDTV] [HD]
 magnet:?xt=urn:btih:8b46fd9cd191a19bb1db3bf28d1e9a0da9e31b1d
 #EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 205) [HDTV] [HD]
 magnet:?xt=urn:btih:7b9fc5b88e3dfaf012e328eeea29e07eaa9da763
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 209) [HDTV] [HD]
+magnet:?xt=urn:btih:4ccebfcf0faa908c6b08782063ae0c075c1a63ba
+#EXTINF:-1 group-title="The Bear" tvg-id="" tvg-logo="" ,The Bear (Cap 210) [HDTV] [HD]
+magnet:?xt=urn:btih:b4b2259799901e3ceb25d260c91837aac49e7ee2
+#EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1011) [HDTV] [FHD]
+magnet:?xt=urn:btih:47adbf1f2d5f3d76d8755363fe7cf1dae28b9b00
+#EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1011) [HDTV] [SD]
+magnet:?xt=urn:btih:34741b4afbb3015c347d7bbba36cc03cf901ff1c
+#EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1011) [HDTV] [HD]
+magnet:?xt=urn:btih:a14c1e724e3ebba4ad0a56520740fe89c082189d
+#EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1016) [HDTV] [FHD]
+magnet:?xt=urn:btih:0bec6a5e03515512591963132c90c786e25aa26b
 #EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1018) [HDTV] [FHD]
 magnet:?xt=urn:btih:5492343ec86cd0d8671d70399f2dfbe8252b7c81
 #EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1019) [HDTV] [FHD]
@@ -2611,6 +3379,8 @@ magnet:?xt=urn:btih:1c3f8af46f4b57e9198877414b4463238ad6ca71
 magnet:?xt=urn:btih:4cef8e5fa6e83ee954ff0b15bbba65a0cb06b5b0
 #EXTINF:-1 group-title="The blacklist" tvg-id="" tvg-logo="" ,The blacklist (Cap 1022) [HDTV] [FHD]
 magnet:?xt=urn:btih:67d7be64a05ac818350c65cfe266a229b564596a
+#EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1016) [HDTV] [SD]
+magnet:?xt=urn:btih:237c18ab8a578bd568b40771936dfb062e68318b
 #EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1018) [HDTV] [SD]
 magnet:?xt=urn:btih:7a57c751768fbb87a037e1ade1df1a8ae263eb3b
 #EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1019) [HDTV] [SD]
@@ -2621,6 +3391,8 @@ magnet:?xt=urn:btih:3a59eefee814ef6fec136c707d0dcab2d067dfe1
 magnet:?xt=urn:btih:f948410de37472156af5e2666856f5940561af2a
 #EXTINF:-1 group-title="The blacklist" tvg-id="" tvg-logo="" ,The blacklist (Cap 1022) [HDTV] [SD]
 magnet:?xt=urn:btih:a404f65b5815d60ccde1e6f1e3e64995d99184c8
+#EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1016) [HDTV] [HD]
+magnet:?xt=urn:btih:4b8e25f440d4be1c7149d4f446f9739edb66bf25
 #EXTINF:-1 group-title="The Blacklist" tvg-id="" tvg-logo="" ,The Blacklist (Cap 1018) [HDTV] [HD]
 magnet:?xt=urn:btih:674608f5b13fe6b74f37c90ffc7f365cf32ce25c
 #EXTINF:-1 group-title="The blacklist" tvg-id="" tvg-logo="" ,The blacklist (Cap 1020) [HDTV] [HD]
@@ -2691,10 +3463,16 @@ magnet:?xt=urn:btih:8351bd6670689349a6e32bd6363b91f97e700ce7
 magnet:?xt=urn:btih:abccb4c907b77a279f178c4b470e2c45709cb8de
 #EXTINF:-1 group-title="The Chosen" tvg-id="" tvg-logo="" ,The Chosen (Cap 301) [HDTV] [FHD]
 magnet:?xt=urn:btih:33d3653d0efc39b742d81c7879bc6b4617ba7123
+#EXTINF:-1 group-title="The Chosen" tvg-id="" tvg-logo="" ,The Chosen (Cap 303) [HDTV] [FHD]
+magnet:?xt=urn:btih:09510efd1ac94bdb241cccbb63f6f2f29a9685b1
 #EXTINF:-1 group-title="The Chosen" tvg-id="" tvg-logo="" ,The Chosen (Cap 301) [HDTV] [SD]
 magnet:?xt=urn:btih:46702322ca234630c33e953efdcf657f482700ce
+#EXTINF:-1 group-title="The Chosen" tvg-id="" tvg-logo="" ,The Chosen (Cap 303) [HDTV] [SD]
+magnet:?xt=urn:btih:bf0d02b791ec126316198aab66c6d7259e2987c9
 #EXTINF:-1 group-title="The Chosen" tvg-id="" tvg-logo="" ,The Chosen (Cap 301) [HDTV] [HD]
 magnet:?xt=urn:btih:06b625065b7e7387a1e5eb88c208a864f9cdcf35
+#EXTINF:-1 group-title="The Chosen" tvg-id="" tvg-logo="" ,The Chosen (Cap 303) [HDTV] [HD]
+magnet:?xt=urn:btih:86131b6721aa8ed733f324c88af24a863849e57d
 #EXTINF:-1 group-title="The Crash" tvg-id="" tvg-logo="" ,The Crash (Cap 104) [HDTV] [SD]
 magnet:?xt=urn:btih:9728c7571a79a61d65f3da31dfdb5b7ca3c67385
 #EXTINF:-1 group-title="The Crash" tvg-id="" tvg-logo="" ,The Crash (Cap 105) [HDTV] [SD]
@@ -2891,6 +3669,14 @@ magnet:?xt=urn:btih:b6cc56dcb24c5e112d3cf17479fbb6134bcf096d
 magnet:?xt=urn:btih:401ef9d5a9e443d7344cf66c639c507b1273ddc1
 #EXTINF:-1 group-title="Tiempo de victoria La dinastia de Los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinastia de Los Lakers (Cap 106) [4K]
 magnet:?xt=urn:btih:89827b7f1567d550205dfe083205118d438f85dc
+#EXTINF:-1 group-title="Tiempo de victoria La dinast�a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast�a de los Lakers (Cap 202) [4K]
+magnet:?xt=urn:btih:eeb5112766ff1303fef881c648d4bfecf438958c
+#EXTINF:-1 group-title="Tiempo de victoria La dinast�a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast�a de los Lakers (Cap 202) [HDTV] [FHD]
+magnet:?xt=urn:btih:bca5ce3af1b7a5d1d9225d3108ac81238c73d399
+#EXTINF:-1 group-title="Tiempo de victoria La dinast�a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast�a de los Lakers (Cap 202) [HDTV] [SD]
+magnet:?xt=urn:btih:f59c8441c11b819ffb2b874fb33fb3504aabc324
+#EXTINF:-1 group-title="Tiempo de victoria La dinast�a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast�a de los Lakers (Cap 202) [HDTV] [HD]
+magnet:?xt=urn:btih:27f57c793efa0a2eee292799168044c3f60afc12
 #EXTINF:-1 group-title="Titans" tvg-id="" tvg-logo="" ,Titans (Cap 403) [4K]
 magnet:?xt=urn:btih:768a9654bf3f99a5b6e7b53450a02efff988bbf3
 #EXTINF:-1 group-title="Titans" tvg-id="" tvg-logo="" ,Titans (Cap 404) [4K]
@@ -2957,6 +3743,14 @@ magnet:?xt=urn:btih:de1de2f77eb29313e9e8247f02d16b1130881e53
 magnet:?xt=urn:btih:863f174b315be7c9a6ff80bb57c4a9c82d2a72b5
 #EXTINF:-1 group-title="Un Cuento Perfecto" tvg-id="" tvg-logo="" ,Un Cuento Perfecto (Cap 105) [HDTV] [HD]
 magnet:?xt=urn:btih:d9889fff3b032c11ec350580296f7de0d7dfb4fa
+#EXTINF:-1 group-title="Un planeta extrano" tvg-id="" tvg-logo="" ,Un planeta extrano (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:d7b6a441d7af1e3aad8b1b751303cd9ebaffff37
+#EXTINF:-1 group-title="Un planeta extrano" tvg-id="" tvg-logo="" ,Un planeta extrano (Cap 102) [HDTV] [FHD]
+magnet:?xt=urn:btih:b319d7c8ebc996f620fe8e39d6ba9737bb01a7a5
+#EXTINF:-1 group-title="Un planeta extrano" tvg-id="" tvg-logo="" ,Un planeta extrano (Cap 103) [HDTV] [FHD]
+magnet:?xt=urn:btih:2c321079a00cae5a81a361df1f8b31282efc7514
+#EXTINF:-1 group-title="Un planeta extrano" tvg-id="" tvg-logo="" ,Un planeta extrano (Cap 104) [HDTV] [FHD]
+magnet:?xt=urn:btih:4a6fdb864001ae1d3e69c85004b7c92427d6091d
 #EXTINF:-1 group-title="Unicornio Los guerreros eternos" tvg-id="" tvg-logo="" ,Unicornio Los guerreros eternos (Cap 110) [HDTV] [SD]
 magnet:?xt=urn:btih:5edadc80857d999e377716e3740bb2a9dc81696a
 #EXTINF:-1 group-title="Unicornio Los guerreros eternos" tvg-id="" tvg-logo="" ,Unicornio Los guerreros eternos (Cap 110) [HDTV] [HD]
@@ -3007,12 +3801,30 @@ magnet:?xt=urn:btih:a8f2d3014c9558e43b6981e53fe089e8f2a7548f
 magnet:?xt=urn:btih:de395216868d61d56044de31db7717448df6eb50
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 105) [HDTV] [SD]
 magnet:?xt=urn:btih:37e2cccffe34062d94babb88cf810a49cc367a06
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 108) [HDTV] [SD]
+magnet:?xt=urn:btih:1584b44bd4b7e9326e93a06eabcd6d7a9e1a00a4
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 109) [HDTV] [SD]
+magnet:?xt=urn:btih:dd6e38c084cbb92c14856ceebba93e7df4dc6162
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 110) [HDTV] [SD]
+magnet:?xt=urn:btih:469726641457452e0ad57a42d001b68de135f08f
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 111) [HDTV] [SD]
+magnet:?xt=urn:btih:51bebc17784ecb911f07910d6f5b281bd1160b44
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 101) [HDTV] [HD]
 magnet:?xt=urn:btih:af7e3095a78a4bbb33c3fa58778c60d4111eb73d
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 102) [HDTV] [HD]
 magnet:?xt=urn:btih:a6d72c5ffc73bb0e83356c6fad044c45fc288ebf
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 103) [HDTV] [HD]
 magnet:?xt=urn:btih:ad24f5580ae2aea2ff5ac7e220c869c6d1a5539b
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 108) [HDTV] [HD]
+magnet:?xt=urn:btih:44a96a11b0a291730de5f950dc98a8e99ca9be8e
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 109) [HDTV] [HD]
+magnet:?xt=urn:btih:aad47f0bcd683a320488f9232feddbdd07e2cea5
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 110) [HDTV] [HD]
+magnet:?xt=urn:btih:0789e2d659c11335f69c5d0caf055612db28e777
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 111) [HDTV] [HD]
+magnet:?xt=urn:btih:37c2553ee640c3245d4677904d2a82acb537710e
+#EXTINF:-1 group-title="Vuelo JK5022  La tragedia de Spanair" tvg-id="" tvg-logo="" ,Vuelo JK5022  La tragedia de Spanair (Cap 101) [HDTV] [FHD]
+magnet:?xt=urn:btih:4b99b2aad39861da350d8449ffe834d2be1c4b66
 #EXTINF:-1 group-title="Walker" tvg-id="" tvg-logo="" ,Walker (Cap 301) [HDTV] [SD]
 magnet:?xt=urn:btih:df74dca06a0cc78fe8a128dfe6a0bfff357636f0
 #EXTINF:-1 group-title="Walker" tvg-id="" tvg-logo="" ,Walker (Cap 302) [HDTV] [SD]
@@ -3025,6 +3837,8 @@ magnet:?xt=urn:btih:ed6ca92f8d288c3861d87857c41c977f334cb5c7
 magnet:?xt=urn:btih:0cefec1646835f3f86bd774b850417912a27f1ff
 #EXTINF:-1 group-title="Walker" tvg-id="" tvg-logo="" ,Walker (Cap 306) [HDTV] [SD]
 magnet:?xt=urn:btih:db40c0d9d4bd2050c4ac70c25ede3725a0b88163
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 1016) [4K]
+magnet:?xt=urn:btih:f7c47aff96fd336df4af45f22812d8cfb84a68c8
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 204) [4K]
 magnet:?xt=urn:btih:f0e11dc99f52230d36e439778c16902ac35c0893
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 301) [4K]
@@ -3039,6 +3853,8 @@ magnet:?xt=urn:btih:860328a23ae5e435da2bf2cc9e819c81272de3ef
 magnet:?xt=urn:btih:d4edb627140178f1af53841b6f27b8106355a11d
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 307) [4K]
 magnet:?xt=urn:btih:7783b974777e5be63ccf5a8e72f80de45971cf00
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 309) [4K]
+magnet:?xt=urn:btih:fe44d8c8903609445a9fca3ae562917078031d39
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 204) [HDTV] [FHD]
 magnet:?xt=urn:btih:c17762a7df67155fb1620cde8107c6cd8a2c9131
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 301) [HDTV] [FHD]
@@ -3053,6 +3869,10 @@ magnet:?xt=urn:btih:de7c8db509c7b6dce7db85af651f5f14bef46678
 magnet:?xt=urn:btih:6ee82179686dfb1bd9d54e437028ee61aabbd5ee
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 307) [HDTV] [FHD]
 magnet:?xt=urn:btih:15554a70124e4fb7cfa22fcc48fa6885c05282aa
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 309) [HDTV] [FHD]
+magnet:?xt=urn:btih:9810f1075209cd5f8e9f78811d72e5b7040a0e8b
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 310) [HDTV] [FHD]
+magnet:?xt=urn:btih:14c3a99217b18e0d27bc23cd63b97891b1e8c265
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 301) [HDTV] [SD]
 magnet:?xt=urn:btih:a74bc85e962a85a5702cbe60d79b8bb0c7ce3f3c
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 302) [HDTV] [SD]
@@ -3065,6 +3885,10 @@ magnet:?xt=urn:btih:e3df76a15555b736a57ed33eeea367e17250ed65
 magnet:?xt=urn:btih:026722a0ec3d0545af1413a140abe8a0f783aa87
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 307) [HDTV] [SD]
 magnet:?xt=urn:btih:0b6ded45caf088cd777fe1ec722e50852545a110
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 309) [HDTV] [SD]
+magnet:?xt=urn:btih:caf2cbf5a4a3110cea8b2afc875da2b66a423a83
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 310) [HDTV] [SD]
+magnet:?xt=urn:btih:4d702c831c5c7151be80a9df4a35adb5f508e56c
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 301) [HDTV] [HD]
 magnet:?xt=urn:btih:30db6276cae1b2cecb30504bf37542d28f189349
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 302) [HDTV] [HD]
@@ -3077,6 +3901,10 @@ magnet:?xt=urn:btih:70541544770accd1f1da59d25111c36096ad1b43
 magnet:?xt=urn:btih:fcd58e41fc0e7ece80a9d2f8707c2cf6bfaf1ba5
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 307) [HDTV] [HD]
 magnet:?xt=urn:btih:ac76bb7e46045eee5abf247ece24b02ccd55f4cd
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 309) [HDTV] [HD]
+magnet:?xt=urn:btih:e9068fe356956eba4095acdf4fd3c7f95a84c652
+#EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 310) [HDTV] [HD]
+magnet:?xt=urn:btih:f013bae1ddfbcd216a1636d1dd54c606c6da6579
 #EXTINF:-1 group-title="Weekend Family" tvg-id="" tvg-logo="" ,Weekend Family (Cap 201) [HDTV] [SD]
 magnet:?xt=urn:btih:faa3ca41f5f4ea641164d01fe74d1b71b2ae9bbb
 #EXTINF:-1 group-title="Weekend Family" tvg-id="" tvg-logo="" ,Weekend Family (Cap 202) [HDTV] [SD]
@@ -3117,6 +3945,8 @@ magnet:?xt=urn:btih:e43f8db5c8762dfca5c8f189b8faec400a1d3d5b
 magnet:?xt=urn:btih:20f50325a3883a6d70e108c725df9136419e5afd
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 104) [HDTV] [SD]
 magnet:?xt=urn:btih:0f23d5ac33c0b5a5342f0b17ddaf66e72dc10c14
+#EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 106) [HDTV] [SD]
+magnet:?xt=urn:btih:81581697e58c8f0e9f3a91c10c94c2ef6363223a
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 101) [HDTV] [HD]
 magnet:?xt=urn:btih:94652a1540eb9da00cc9b1b30a41ea15b90d6ef9
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 102) [HDTV] [HD]
@@ -3125,3 +3955,5 @@ magnet:?xt=urn:btih:aac9092986089f180ccd176f6b7163e83f3231b9
 magnet:?xt=urn:btih:bf4f2215a7884c814fae907e372a4ed827c35b9b
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 105) [HDTV] [HD]
 magnet:?xt=urn:btih:56cddaffb6430bec8df4fbacaf8101a65d89803e
+#EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 106) [HDTV] [HD]
+magnet:?xt=urn:btih:a3c1fb9d7397acfd2eeaac62c3945f4b29c07de6

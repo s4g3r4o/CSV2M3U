@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,10 dias de un mal hombre [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=97a67cd5c67156fd8939058a118f769f4c56d764
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=4fb6df9b5b23edf22d2d9c62561559a4bc055b00
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo [Bluray] [HD]
@@ -9,12 +11,30 @@ http://127.0.0.1:6878/ace/getstream?id=1fd09802b7b6d1af14ee1142a8ae69e8a2bfa01d
 http://127.0.0.1:6878/ace/getstream?id=9d99660cd08e4f13bc9ed3473c94260faab09cf5
 #EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Abrazame fuerte [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=0c1db01640ed027b6c74974926ba45a2981fe5de
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Agente Stone [4K]
+http://127.0.0.1:6878/ace/getstream?id=9a05582af8af7e14352f7340f2d1c3adddd7e886
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Agente Stone [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=f7b4815227b58258cc2ac7d744fe4d40dfc41563
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Agente Stone [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=0f329ce1c32962046abaab3ccbffd5447c93db7d
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=cc2e7f196d6d5e3374bcb45fd48778f53180acb9
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=86cc6d94704aa8935656d7436dc64c91720cd01d
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=3db83135a54479918c4c204a436b01c02ff5a7b3
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Alguien que cuide de mi [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=cb6d19b2d2f062e8619fde788e1b7caab8bcdebd
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Alguien que cuide de mi [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=03f7edfc3193db29df13174d7357dcd81efa9c74
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Alguien que cuide de mi [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=0662ca8e0a4458645db63ffa056da22afd8ca905
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Alice carino [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=2f26f296ee9d49f34cc7d5f4c2924bc8dba9b952
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Alice carino [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=f731d115568dcc1bf000f59ddfd54162628a1b45
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Alice carino [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=8414fa3701cf3d49911990abba0eaee98fa32a4e
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=5aec6f788b74dc0b2ab7ea5bfb5ab4e13e01c994
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte [Bluray] [HD]
@@ -43,6 +63,12 @@ http://127.0.0.1:6878/ace/getstream?id=f31d88ed2720552e7e8a0e5e1ca773597b7d199b
 http://127.0.0.1:6878/ace/getstream?id=9182fc896c67452a97a296f4ee499834f6519625
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=f81f39c235212106970330cd240842e72ebb9a19
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Barbarians [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=ee329127752eee923ff8285175ba962931fde960
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Barbarians [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=6c5c84f9f8f47cc631d9b2791fa8db3784a84ef4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Barbarians [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=4fc9ef011d517945b1edc4c474bcc58b79a56d57
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Beautiful Disaster 2023 [FHD]
 http://127.0.0.1:6878/ace/getstream?id=b673dcd341a12d5a55509ed1145f6787b4b9efaa
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Beautiful Disaster 2023 [HD]
@@ -73,6 +99,8 @@ http://127.0.0.1:6878/ace/getstream?id=3be2783cfbc275829e8abced1e142cf315c44dd0
 http://127.0.0.1:6878/ace/getstream?id=daf3c8c73d86d69474b4605e4d9cbcd10fd484ea
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=1334fc9934ad26214783e71cf2f1b0df2fcdd0dd
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Thermal [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=eeb8ed54cedf8c482ba66d2f1d10c5b39b2ba067
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=f672b00b4b59895877845cc1cf0b17a1182ce41d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia [Bluray] [SD]
@@ -101,16 +129,36 @@ http://127.0.0.1:6878/ace/getstream?id=76dc47870e3093f1cd6801b5971cf417ebf841fb
 http://127.0.0.1:6878/ace/getstream?id=dfa0d957ad6c8a8b9367c0f82bbe2b1e718527eb
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=f1786513b28e936e5bdb736f1538fdae1326b885
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Coelia [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=a67292f41fcd730c0af00c021cc68ab8c8cc991a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Coelia [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=284928b1148a6e18f353c4653a61ac1c2d20f41c
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Coelia [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=f19d8edab7b715aa680412accd635a0361894316
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Como Dios manda [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=f27acb66f8cc2609ae0a1b8a54c3586af9883781
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Como Dios manda [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=1d665b1b1d6226dd30e9ded6c39968e61346f7bc
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Conspiracion en El Cairo [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=5ca64c6188779646242f9a00e8364ade87b50bbd
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Conspiracion en El Cairo [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=a64ad71500f6ec96c6268a33e7e48264569487a3
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=bbf32fe850c9d24fc6e66bc436c062b309a98698
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=27b32291b025bb269b48e1d846a0bc596ca0fad7
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dampyr [4K]
+http://127.0.0.1:6878/ace/getstream?id=38f3e4f80d56bb2fede1bd8c0cf8561e8458be04
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Death Link [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=a4472d023853e677d6b732ca6258d0d201b91fd4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Death Link [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=9b5a813fe0fa1100bf07993478f1f5306e7dad24
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Death Link [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=2931a5f02ab996325283228e2dd1fe4ece7defd2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Desaparecida El caso Lucie Blackman [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=ebf44149083c61521ef5ede2a660c208e939cc9c
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Dinastia de leon [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=ca98e715279943b96e000a8e81b83aabcb02a40c
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Don Cochecito y los caballeros templarios [HD]
 http://127.0.0.1:6878/ace/getstream?id=03f507681c9901654285a47d42d805dde83299ed
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Don Cochecito y los caballeros templarios [Bluray] [SD]
@@ -135,10 +183,22 @@ http://127.0.0.1:6878/ace/getstream?id=eb23c0cf9242acc179bcedf4b4cbd24bf9e9276e
 http://127.0.0.1:6878/ace/getstream?id=b8b7c62b5c1de5d597b2bfccd69faffce5b5b3e1
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El clon de Tyrone [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=d698dbc59c93234d0ac113682f7232ab873c1cb6
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=b8d41ffc1dbf0dac1d5c79b27f0ae6c4f5bff2e7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=390cdccb46dcc2f91bf727098bda87682cbbfa5a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=49abdcf8704c44db9f63e13015c57681c5018109
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar�a [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=6c70412cfd1e7b96162ff082d3ae0986ca1f008e
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar�a [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=149431999df1d26e688c7e61fbd53e32c92b07b7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=1dcfa94ba759419ea87ded6b47ca86a14f498739
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=cb905f921db0df2dbffee7221efe50929ac880e9
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=5b3845d0cb97027061b1c5ba23edb796ef3d983a
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El impacto de Van Damme [HDTV] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=bd8bc4281ed330285de8c123cd08163dd1b50c08
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente [Bluray] [SD]
@@ -147,10 +207,18 @@ http://127.0.0.1:6878/ace/getstream?id=da8d1dfb590bb0d9263a04873215f9aa3a6cc239
 http://127.0.0.1:6878/ace/getstream?id=679af356f7bdb490d7576b31d964019bb36ec4a5
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente [HDTV] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=fed2e1e768a2fa8713d1f8161ec7b1b6a6fcd61b
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El Mundo De Ayer [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=51ba9d85960698dce31d233c6caa6890cd390a59
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=35fadc203a14f9d37ea595ed1425ab065eba46c6
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=44ca6d8d0a1b07e554294d9dbbe2a6f28a7da931
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El peso de la duda [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=6d3095478a370771025d222b3efa0cac197f7f36
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El peso de la duda [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=d9245c89efe67b4ded55f494f6add1a1a305f88a
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El peso de la duda [HDTV] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=850e7aef67d35b60ed071b0811de7d94ef15016f
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=5ad12f560aaa17c515c299061e5f1410a47d25e8
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo [Bluray] [HD]
@@ -161,10 +229,22 @@ http://127.0.0.1:6878/ace/getstream?id=f6feee53407aeb4037c91ef4d45ceee7efd600ba
 http://127.0.0.1:6878/ace/getstream?id=1efb2d591bb8e3cd5a6fd6af7189cc3a83bf9d60
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=7845d6b80d04e1deae157b903f786a16c8fb5bb5
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El regreso de Manson [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=7d452656e0c76ea8036ad5095d0286dda3de8b76
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El regreso de Manson [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=5b8140ccc58e32da941525c7c65907d50035d03f
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El regreso de Manson [HDTV] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=231aa55f08ffdad80bc1aa430a5b2a42ebbc88a1
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=f08960c2f0822c3737be2fe3df0b607c34d97de2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=0d387fa21c289b34b68bb5b1ce30437fa6dce7d2
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El robo de mil millones de dolares [Bluray]
+http://127.0.0.1:6878/ace/getstream?id=87474bc6a15c8ad04786b8351be9daf93889aa0b
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,En caida libre [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=a57510dedd1c89a4d779dc674d9409faac689635
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,En caida libre [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=64528d9c4b26706172b89bc5b8aa140144f7078a
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Fatum [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=4352dbc223807e3d28a9c1927649f93b3ffaefc1
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fatum [Bluray] [SD]
@@ -181,6 +261,12 @@ http://127.0.0.1:6878/ace/getstream?id=1a8fd1d61908c60fc5e79112f07a3221ece45467
 http://127.0.0.1:6878/ace/getstream?id=87666cf04d5d6af14f955e2db4b6ef81f566a3f0
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Flash [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=8b447a3a46a0d6bf54a93b9bf00a1baa4eb2b0e3
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Foodies [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=0717976a83f238310e1f31ebbce25742ed9aa876
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Foodies [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=7ebbea0eb5245ea46afab9fb79eef972b0d4ece9
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Foodies [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=c4b5132cae80eca33b9271d127bb4f60f2d97e4a
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Fuerza bruta [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=56600fcb06143a6c4927ebee5b090bb4cf11bc2c
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Fuerza bruta [Bluray] [HD]
@@ -215,6 +301,16 @@ http://127.0.0.1:6878/ace/getstream?id=7542862cad91a68be5c9241fb10eb4c30037bbab
 http://127.0.0.1:6878/ace/getstream?id=22efa1e5ba86dc36fb2caf7dc15d8a8a1f0c509b
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=2813d6c72d78914956680d12d532e6d9280315a3
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,H4Z4RD [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=dbb325e0b0d22a5ffb592943bd415c19ae484ba9
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,H4Z4RD [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=44ff9413f09d6b3e1ee008463c651d0300e024fd
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=a1861288cb5902c6bdd633e24df5a476e9b161e8
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=0c779f8113a97856cb4210bdf7b639c15dd3a49c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=2bb593b336a510a2f92620761d69ef7e54f6db20
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Hidden Strike [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=671eae85079815ccc15af8829c4a77c0947236a0
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Hidden Strike.torrent
@@ -235,6 +331,10 @@ http://127.0.0.1:6878/ace/getstream?id=a945804c49fe94181e48536110f5c2c362abd382
 http://127.0.0.1:6878/ace/getstream?id=40120a18de3c8786745e8fc997f0ec820b6e3efe
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Intoxicacion La cruda verdad de nuestra comida [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=559eedd0d583130fcbb37bb3d51bf593a68dca2e
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jagun Jagun [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=55dfdcd192444fd9fcba3592f77ad23370c306e2
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jagun Jagun [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=f927f0f5a47786e2d02a64c96d868bfe1c49a33c
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [4K]
 http://127.0.0.1:6878/ace/getstream?id=192fd1eb4790f9b3e71c96ee1a901f128535620b
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [Bluray] [FHD]
@@ -267,16 +367,34 @@ http://127.0.0.1:6878/ace/getstream?id=9fcde702d85fe325abcdbede95b32eb618c62235
 http://127.0.0.1:6878/ace/getstream?id=629b2e05ddd62e4b5232bc734f9672647dc9322a
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=5792b1470a5cf3c9c2265adca0e5263a56227714
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [4K]
+http://127.0.0.1:6878/ace/getstream?id=48ba0834ed94d8fd082103cc00cf953c409cde9d
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=4b83e9fcad1f79b583b727290ebe5abe77f1246c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=022f5c9ab3b0528b6898c2730df21b92936f26e1
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=4f15c8f9cc71c9394de4e944e6750b60d4442a8c
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=2fb611ccf2ebf15934065e73c654cd3ee428b948
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=e9eb1689dc7cef9b209a58a117e247907c68bbd4
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La inspiracion mas profunda [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=1df0fe94dd7e6ca1152d420b285a3239d47aa5a9
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La mujer de Tchaikovsky [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=804f1bc738f8b081dac83090fa76e0c7ddd062d8
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La mujer de Tchaikovsky [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=033ad5509a3bf82264ea1ad767d8a814ecedde19
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La noche [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=4256a78fa675540f8d3820d4424a7ddb5af1fda5
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La noche [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=efa86c926ffb31b1acc21aa439a4006430785dde
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La novia de rojo [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=9c9b3b0c3b2de7be5b6201722649b2901ef312b0
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La novia de rojo [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=b30f24e44ad3a81311e1ff1e806a6e7991749d31
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La novia de rojo [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=82481c79e35413bf2d21e5979bb9aa7205ffb0b7
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La paradoja de Antares [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=0f10175c6d2ee7e0cdb476158ce4bdb1e1010fe3
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La paradoja de Antares [Bluray] [HD]
@@ -301,6 +419,12 @@ http://127.0.0.1:6878/ace/getstream?id=8d54cd8b2951a12ae772a4bd7c98d4f8debddc0b
 http://127.0.0.1:6878/ace/getstream?id=9c1b4ec17c8adbdce5ec8845dae5d217a4d94e3c
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Las Noches De Tef�a 1x05 Forte Imaginatio [FHD]
 http://127.0.0.1:6878/ace/getstream?id=89bf8a9d89e949e75032734092f854a33f2f670e
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequenas victorias [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=3cc5c8bcf9cec2f9d77a3ca91865fbb53dd91de1
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequenas victorias [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=81b6850662caad7328fc2db65f0114bd91d7d7c4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequexas victorias [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=ee27e0c9fb1691c124079715855c26133a85644a
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Libelula [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=0fdd5f121d2d25ce687026d4c5b71acf5c09a775
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Libelula [Bluray] [HD]
@@ -335,16 +459,36 @@ http://127.0.0.1:6878/ace/getstream?id=139beb711ce603219f114b7683432685c9eb11e8
 http://127.0.0.1:6878/ace/getstream?id=ef4b5ec1dec5821d562786ce2189c49041238477
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maridos [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=fc7c5ed596946854dc1543511865577fd773eae2
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [4K]
+http://127.0.0.1:6878/ace/getstream?id=85704e56f244be04759fd4ed54c5e5ddf96e9353
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [Bluray]
+http://127.0.0.1:6878/ace/getstream?id=340e10af8bd4ee3f24b3ce4308a6a52ca5fede8a
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=4ce3f71c9cd69085e2ad0f4554a3210c381af14c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=ecd86251b6e2e7a85c489c484c855e456ef0f68e
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=450c1ce887b70b63114fbff730360482e3675e6a
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=83ad6fa251613f27d35f782f96197c1cc88d149b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=be493cabd03d526eec3dfd000a125d51c6be69a9
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=12bce8e41aa6494c006af7e48bb16545d25c89cf
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=ea4173f9c632e46141ca9deffe3119e9734b16ea
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=1686be9d542808f658a6bed6072c4e300ab304e3
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=e3d0b40f91a5a39139dbd0f7d4703cf0cd0f2a30
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=3d3c6809b6982496cd33ea6314b50fc2866b07d1
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=b9ad65c5abce19973ae232f0281ae2775128a900
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=bfd89facc2601e64b9d2101a83ed2e884fa4d199
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=3698a7983595092b6415d62d00999d7fe86a98ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nimona [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=a7c6c12d758d476fd4158d808126a1c535631a10
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nimona [Bluray] [HD]
@@ -379,6 +523,10 @@ http://127.0.0.1:6878/ace/getstream?id=30d33d464ad6c8f59615267f4fbd5ce3e3bb64c9
 http://127.0.0.1:6878/ace/getstream?id=adec09ca4704b167a32f96ac645c791789858b40
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Professionals 1x06 [HD]
 http://127.0.0.1:6878/ace/getstream?id=d3f72a0f958b63d1eb83aa8483f0cb57b82a786e
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Remember [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=75a04e96f92546afba6297aa4ee6ef56bc78c979
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Remember [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=00c7371947d3e15d00b9742f3ec158184ce27ffd
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [4K]
 http://127.0.0.1:6878/ace/getstream?id=42ab514af981878d08b4d07d42cc3f50cf321f15
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [Bluray] [FHD]
@@ -387,6 +535,14 @@ http://127.0.0.1:6878/ace/getstream?id=08a80235d56b8d296eb4cc5dc938a5208011c01d
 http://127.0.0.1:6878/ace/getstream?id=a5c0a67ebf00de37121add3ba3dabe2d9d6f8ce2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=17cc1584323e855e70042d90f55cd336fccb322d
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [4K]
+http://127.0.0.1:6878/ace/getstream?id=b8f79eb693e146a93774a0fd0b056b35bbc902ce
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=f16a8c83809e4571f315b9ea04a3adbe27275211
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=66d0892ddec3ae85298352144613c30729a44026
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=a307ae4c14f250b5d52310275985f3f65f316fdb
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Resident Evil Death Island [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=53f8e6aa5f2a189c3d73626ddbd3f1e9f3bb52ba
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Resident Evil Death Island [Bluray] [HD]
@@ -405,6 +561,14 @@ http://127.0.0.1:6878/ace/getstream?id=111cf9ddfd396f07c631609c03d4fe9b197dbcd4
 http://127.0.0.1:6878/ace/getstream?id=8af975b5fa6d2bc1630989a0e0cdd35637f000df
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Robots [4K]
 http://127.0.0.1:6878/ace/getstream?id=4c0a66cff901257948c450b53461dc08cc475dae
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [4K]
+http://127.0.0.1:6878/ace/getstream?id=ef1cf017b0831f757cac3867c43c0721825e004a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=34e4ec150148eded0976d9aee77d05bc25cbc215
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=4b91f0f982ed1441515e7cd104efe296e09112c4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [HDTV] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=b9071d46631465e57563f50440f67dc0fab27b98
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=02453765d00dcb1ce9f4f672eefdc11245a5cb8a
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [SD]
@@ -415,6 +579,12 @@ http://127.0.0.1:6878/ace/getstream?id=7dfbef2e67383ce2a9a026ea961d2bf1830bbff0
 http://127.0.0.1:6878/ace/getstream?id=0e28929d56cfecf9021e7aad68a473db30fbd80f
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Scarlet [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=c50945ead8ea5cb276f047ef476980bc24a850a6
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=9591caae31ab44303140d8b4428a849310361622
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=4980a3ad45ae14a20089a942cae87cadc172f3d3
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [HDTV] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=c19a5511c881c1c40487c67e89352bd81d09f0ad
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si todas las puertas se cierran [Bluray] [SD]
 http://127.0.0.1:6878/ace/getstream?id=761d886d0188973f529cd1f3e69009425186d09c
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si todas las puertas se cierran [Bluray] [HD]
@@ -425,6 +595,18 @@ http://127.0.0.1:6878/ace/getstream?id=f43e7005bce704d23b8ba8e96b4c207d347a8840
 http://127.0.0.1:6878/ace/getstream?id=e9ddc333fb05bd1ee6ff23a0a10709f55064e29b
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=5212690f34b2e72a197de6f3852b2c50c4a5c47f
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [4K]
+http://127.0.0.1:6878/ace/getstream?id=eb5b576fc208b338f5ce00f10493358331fc5bbd
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=ca032021e0ff8d9ada8643ba2fe67cfd86de1d56
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=d8e2b3d8553b8abf3de66c731d3e1c2431dadde7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=1dbc7bb1255b0eb437f150862af76cbba9fac0a4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=08fe3c70b7490efbb34094b8215d1593950c6166
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=fb9476a5562ae1db7ace0bbb5643d7ba855577a2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Stephen Curry Un jugador subestimado [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=d8589eb096457db383402a444bd3fdc814111628
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Suenos y pan [Bluray] [SD]
@@ -439,6 +621,18 @@ http://127.0.0.1:6878/ace/getstream?id=726f91e2b621e2e41baff6c6d9be90eef358bed9
 http://127.0.0.1:6878/ace/getstream?id=1523c608c555118dbc6909d2bf6797f6025a4fe6
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=11a1afbfe1de80790b87066be1edf87492ff5b3b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Donor Party [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=b4cee9485c763c921920b0ff7fd7be751ba1ae79
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Donor Party [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=d6b559c677a6ab22437262478ba36037a25b72dd
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Donor Party [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=a9bfaf03b8ee5f18dd5ea6334a64ccf8ec025689
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Exorcism of God [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=ed477d6123447fa0e81b2a9083bd247e46ff96e4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Exorcism of God [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=46ba8ccf16b96efacad6af245df2e85dcffda6f0
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Exorcism of God [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=f2f6df463d54ca3492217cce55853b67b7959069
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Flash [Bluray] [FHD]
 http://127.0.0.1:6878/ace/getstream?id=16c7a0f80249fcdd75b8e053e9eb29cc09478c17
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [4K]
@@ -487,6 +681,14 @@ http://127.0.0.1:6878/ace/getstream?id=4133ce24670fe7121dfddf949ab0baf3a5e5c583
 http://127.0.0.1:6878/ace/getstream?id=5ceae1cfe5ff988b282030b530aff5becd9159cf
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,UnSu3n1o [FHD]
 http://127.0.0.1:6878/ace/getstream?id=72518e29cf23766e5f534d0b139fa8393e5482d2
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [4K]
+http://127.0.0.1:6878/ace/getstream?id=b00d7f8df5caf565526b23d9c7d949db6fd771f0
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [Bluray] [FHD]
+http://127.0.0.1:6878/ace/getstream?id=f3ec88e01f5c6c0a35ebf7e1e1acf386b444e895
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [Bluray] [SD]
+http://127.0.0.1:6878/ace/getstream?id=8e8c3761623eda1d918963d7a37fb5b5725e6327
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [Bluray] [HD]
+http://127.0.0.1:6878/ace/getstream?id=aaf2a93b8a2e7c115b226f151c212bca2e5d9d6a
 #EXTINF:-1 group-title="2032" tvg-id="" tvg-logo="" ,Violeta el hada traviesa [Bluray] [HD]
 http://127.0.0.1:6878/ace/getstream?id=33c0fffe8cd09d4f8c6850c7fa9aa38f74961478
 #EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Volpina [Bluray] [SD]
