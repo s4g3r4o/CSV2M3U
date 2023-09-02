@@ -1,6 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" , [Bluray] [SD]
+acestream://24f4a503cf857813ee2595fd1bc657757051b9d3
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" , [Bluray] [HD]
+acestream://1a9a7b8a10e599f78ad71114a5411da0d32b914b
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,10 dias de un mal hombre [Bluray] [SD]
 acestream://97a67cd5c67156fd8939058a118f769f4c56d764
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,20 000 especies de abejas [Bluray] [SD]
+acestream://59291a2c05f3d1e6f1c3d78719afbc9f0ab67500
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,20 000 especies de abejas [Bluray] [HD]
+acestream://3546e0aaa175fc3ff22af9fb58ae000f040dbe18
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,97 minutos [Bluray] [FHD]
+acestream://272c7a43320804a730c4d1398e97967aba5527c5
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,97 minutos [Bluray] [SD]
+acestream://350af0a766aba1e68ba96f2c2e4b358e96445d34
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,97 minutos [Bluray] [HD]
+acestream://8953cdd8a0f5621a3bc972c78259f65b30a5decc
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo [Bluray] [SD]
 acestream://4fb6df9b5b23edf22d2d9c62561559a4bc055b00
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo [Bluray] [HD]
@@ -39,6 +53,16 @@ acestream://8414fa3701cf3d49911990abba0eaee98fa32a4e
 acestream://5aec6f788b74dc0b2ab7ea5bfb5ab4e13e01c994
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte [Bluray] [HD]
 acestream://23af8d732053a02a8d14c416de724ceeee7fec52
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos Pasajeros 2 [Bluray] [SD]
+acestream://d24fd03650c3a141355b4df7338e09de9271917b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos Pasajeros 2 [Bluray] [HD]
+acestream://c83b99c8b7e92bc127ffb600ea48d2e4ead7b368
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Amigos Pasajeros 2 [4K]
+acestream://7bcb668de0add35babec3966f06dac9879095281
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amor al cuadrado por siempre [Bluray] [SD]
+acestream://4e6c95d09979bfcd572fc3e64d4bbea4cd7cfaae
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amor al cuadrado por siempre [Bluray] [HD]
+acestream://a9a53c67fb20c349d98b04ec57e2dc5e63642db4
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Asedio [Bluray] [SD]
 acestream://07e0467e99118c96ff371aeeb80e86a9c38a634d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Asedio [Bluray] [HD]
@@ -47,6 +71,12 @@ acestream://964bd31a7f0a786ed463d2591009c6badfb38b1e
 acestream://0e929c968a3b1bf8c0c0adbbcfd4b806e336f6f0
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Asombrosa Elisa [Bluray] [HD]
 acestream://12e108ea854984185b051bd40e5e212961f9bf12
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Assassin [Bluray] [FHD]
+acestream://71810fa57209752a86dac284dd8daaba531703f7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Assassin [Bluray] [SD]
+acestream://a2e629f5aae6acc16583b5735c8ebb97ff3a41c7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Assassin [Bluray] [HD]
+acestream://89112ea1c34696cd32bfde4da195a08bdaf2764e
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Atrapaalmas [Bluray] [SD]
 acestream://2c0248931b42178d825417da5b1ddcafa6ad4c72
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Atrapaalmas [Bluray] [HD]
@@ -119,10 +149,22 @@ acestream://d8e3a5508947d6aec2b1b2773605e552c6ac4556
 acestream://fc422652302a36fa427dc21b6dfb29ce3a3a8383
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz [Bluray] [HD]
 acestream://721c5b70be2b2066ef43d5a24f5567e5910b6326
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Carrera 2 F1 Gran Premio de Holanda 2023 R 1423 [HDTV] [FHD]
+acestream://0c2df8bc221aadf01dcb49d75f16fe50b6fc1659
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Carrera F1 Gran Premio de Holanda 2023 R 1423 [HDTV] [FHD]
+acestream://5c293033245619ae3da37c29e918d3ae0337cab5
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cash [Bluray] [SD]
 acestream://85ebd3f4529a585c7890e4f80f304ceb5ea61e41
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cash [Bluray] [HD]
 acestream://afbcaae8f6f78a1d936775b3ac54c72e15890f83
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cenizas en el cielo [Bluray] [FHD]
+acestream://d9560bf9380ea710f7b663824c1ac767945efe55
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cenizas en el cielo [Bluray] [SD]
+acestream://e5e2c07cbb63c365965f3b4526da20c7bb4b8a9c
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cenizas en el cielo [Bluray] [HD]
+acestream://99a0ddc61711c38e92bec3bd4fbea2829f49b51d
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Clasificacion 2 F1 Gran Premio de Holanda 2023 R 1423 [HDTV] [FHD]
+acestream://09f3be50957b86ac168f98e2afc474b15ed4d3db
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [FHD]
 acestream://76dc47870e3093f1cd6801b5971cf417ebf841fb
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [SD]
@@ -183,15 +225,19 @@ acestream://eb23c0cf9242acc179bcedf4b4cbd24bf9e9276e
 acestream://b8b7c62b5c1de5d597b2bfccd69faffce5b5b3e1
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El clon de Tyrone [Bluray] [HD]
 acestream://d698dbc59c93234d0ac113682f7232ab873c1cb6
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El club de los lectores criminales [Bluray] [SD]
+acestream://93c0d8e0d8d3a36e0dd193821d72aeedc6198c4b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El club de los lectores criminales [Bluray] [HD]
+acestream://58575e05319e7a0f18f1bba8bab531a712b880f0
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [FHD]
 acestream://b8d41ffc1dbf0dac1d5c79b27f0ae6c4f5bff2e7
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [SD]
 acestream://390cdccb46dcc2f91bf727098bda87682cbbfa5a
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [HD]
 acestream://49abdcf8704c44db9f63e13015c57681c5018109
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar�a [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar?a [Bluray] [SD]
 acestream://6c70412cfd1e7b96162ff082d3ae0986ca1f008e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar�a [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar?a [Bluray] [HD]
 acestream://149431999df1d26e688c7e61fbd53e32c92b07b7
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [FHD]
 acestream://1dcfa94ba759419ea87ded6b47ca86a14f498739
@@ -239,12 +285,16 @@ acestream://231aa55f08ffdad80bc1aa430a5b2a42ebbc88a1
 acestream://f08960c2f0822c3737be2fe3df0b607c34d97de2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto [Bluray] [HD]
 acestream://0d387fa21c289b34b68bb5b1ce30437fa6dce7d2
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El Rey Mono [Bluray] [HD]
+acestream://2bb8b6a2b7e8027774f54cb1adf593165373ab8d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El robo de mil millones de dolares [Bluray]
 acestream://87474bc6a15c8ad04786b8351be9daf93889aa0b
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,En caida libre [Bluray] [SD]
 acestream://a57510dedd1c89a4d779dc674d9409faac689635
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,En caida libre [Bluray] [HD]
 acestream://64528d9c4b26706172b89bc5b8aa140144f7078a
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 Gran Premio de Holanda Libres 1 2023 R 1423 [HDTV] [FHD]
+acestream://36d53d1b13dfb34f7db97ec65ac2497b77459583
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Fatum [Bluray] [HD]
 acestream://4352dbc223807e3d28a9c1927649f93b3ffaefc1
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fatum [Bluray] [SD]
@@ -277,6 +327,10 @@ acestream://8d23aa14644ccb2fb65579fdb7a8f0648d54c9d9
 acestream://99a328a080e9e86d41a8840418b73942b623aab2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,G-LOC [Bluray] [HD]
 acestream://d9bf335ddbed178c951eab1f648bc1bb00ecbd1d
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Ganandose el cielo [Bluray] [SD]
+acestream://3376cdbcfcbb801cf80cfd7caa480ea20bee05e0
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Ganandose el cielo [Bluray] [HD]
+acestream://912fd455026c4d8a5eabc57cfa584fdb310af90e
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Gatlo [Bluray] [SD]
 acestream://af39833dc52d34f5ccf8147ec0426496344b6303
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Gatlo [Bluray] [HD]
@@ -305,6 +359,8 @@ acestream://2813d6c72d78914956680d12d532e6d9280315a3
 acestream://dbb325e0b0d22a5ffb592943bd415c19ae484ba9
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,H4Z4RD [Bluray] [HD]
 acestream://44ff9413f09d6b3e1ee008463c651d0300e024fd
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Hanna y los monstruos [Bluray] [HD]
+acestream://450596eae19453c71231306638cab1db840391f0
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [FHD]
 acestream://a1861288cb5902c6bdd633e24df5a476e9b161e8
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [SD]
@@ -323,6 +379,22 @@ acestream://6c7376880e1a60c54f66f3e366d644e0b20dc48a
 acestream://10ab9a0f4b8dedb66609c1ea4654a9478e564955
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,IlBo3mo [FHD]
 acestream://4d0bb99285932e730b4031187b59171b3406478c
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [4K]
+acestream://7bcfcdbdcbf0f729ea56b7f0808f581f99516751
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [Bluray] [FHD]
+acestream://8b4d85ea0b555337d50d62454d5fc07db25d890a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [Bluray] [SD]
+acestream://5dcd5b5f6184b695f97c7cdb4d564ef736d0bdb7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [Bluray] [HD]
+acestream://20f03342c67ee137231256ce3cc37d5c676a49b0
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [4K]
+acestream://4ca43bf6b8fb6fec41f20f55a83c1ab1811ed58a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [Bluray] [FHD]
+acestream://19022c9fece24700af9a595dcdf22d855c130551
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [Bluray] [SD]
+acestream://b69cc392ac6787153c0d1e9c11f80958fd7eaedd
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [Bluray] [HD]
+acestream://186b59d64f1bd569dc02e55bef4acfc3dcbc2d56
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [FHD]
 acestream://3b746119a8f4660337fb0bfdff8051cb255651f7
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [SD]
@@ -335,6 +407,14 @@ acestream://559eedd0d583130fcbb37bb3d51bf593a68dca2e
 acestream://55dfdcd192444fd9fcba3592f77ad23370c306e2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jagun Jagun [Bluray] [HD]
 acestream://f927f0f5a47786e2d02a64c96d868bfe1c49a33c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [4K]
+acestream://60037376409912c680744b350b2a00669b184d2b
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [Bluray] [FHD]
+acestream://48a497b5c8ddec735eb07b23f573fc1e0ee8b9e5
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [Bluray] [SD]
+acestream://bc778739b92d604edbb50375f7d3937f704eca45
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [Bluray] [HD]
+acestream://d3268d8be4cdc6a3a27fed48563e454c6bba62c5
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [4K]
 acestream://192fd1eb4790f9b3e71c96ee1a901f128535620b
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [Bluray] [FHD]
@@ -343,6 +423,10 @@ acestream://a29b2a848083320b100cbb3fcf8fdaab3638b678
 acestream://0e8e3b664825f24e9d28ab04d8fff458c923d37d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [Bluray] [HD]
 acestream://4459fc8000fc28b907f41ac1858dc3ee4a11a697
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Juego de amor [Bluray] [SD]
+acestream://51bceb6a52c4a8506f05fbe3f15b953ab00a090d
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Juego de amor [Bluray] [HD]
+acestream://eeed77aeac9bcf57eeb335ebae3d6017b587922d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode [Bluray] [FHD]
 acestream://076b2d901a7ebff4e7c1efb1108b59047417495c
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode [Bluray] [SD]
@@ -375,6 +459,10 @@ acestream://4b83e9fcad1f79b583b727290ebe5abe77f1246c
 acestream://022f5c9ab3b0528b6898c2730df21b92936f26e1
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [HD]
 acestream://4f15c8f9cc71c9394de4e944e6750b60d4442a8c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La impaciencia del corazon [Bluray] [SD]
+acestream://4e739fca31852c12e4a5a888cc6592e6b2775e31
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La impaciencia del corazon [Bluray] [HD]
+acestream://5156848b1c6ddc7ced5c15dfc3348705e8be953f
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie [Bluray] [SD]
 acestream://2fb611ccf2ebf15934065e73c654cd3ee428b948
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie [Bluray] [HD]
@@ -401,6 +489,12 @@ acestream://0f10175c6d2ee7e0cdb476158ce4bdb1e1010fe3
 acestream://807ee35664fd3645ac958c875449001829d316d5
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La primera purga [4K]
 acestream://8f8ab702fbf062a3d9d2d88d7bf34aa980e94591
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La semilla [Bluray] [FHD]
+acestream://ac17f3397af0c505166d1f6ca229cd830f35bec6
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La semilla [Bluray] [SD]
+acestream://cd821aa7d319943a50041a47db397f8334b8d092
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La semilla [Bluray] [HD]
+acestream://e7dc61158e4240ad2a92ca73ec9ee605795c1685
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita [4K]
 acestream://cb0a69c52ccba4d6ff5f853ae5f103ef88125373
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita [Bluray] [FHD]
@@ -415,10 +509,22 @@ acestream://f24b73e8dbf147a3617bbda2a0a92f89ead703d9
 acestream://30b7337cbd2e7833000fe451769379096b9c0fd9
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen [Bluray] [HD]
 acestream://8d54cd8b2951a12ae772a4bd7c98d4f8debddc0b
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [4K]
+acestream://efda6914afecfa3fb542f4077cd0643bfc75ad51
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [Bluray] [FHD]
+acestream://9606f175a0f9d8ba7423df80b9c4b922a8bf1f07
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [Bluray] [SD]
+acestream://9d4374ef944cedf05d2592217b9b1eca32aa55b9
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [Bluray] [HD]
+acestream://9164e919132e47c11ae46d1bb2bca262ba4d6986
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las estrellas al mediodia [Bluray] [FHD]
 acestream://9c1b4ec17c8adbdce5ec8845dae5d217a4d94e3c
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Las Noches De Tef�a 1x05 Forte Imaginatio [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Las Noches De Tef?a 1x05 Forte Imaginatio [FHD]
 acestream://89bf8a9d89e949e75032734092f854a33f2f670e
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las ocho montanas [Bluray] [SD]
+acestream://4401915c4a9bf9ce998289b9bc821cb002790abe
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las ocho montanas [Bluray] [HD]
+acestream://55838fff2578ce95bf0e88327aba9c3cd65027f9
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequenas victorias [Bluray] [SD]
 acestream://3cc5c8bcf9cec2f9d77a3ca91865fbb53dd91de1
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequenas victorias [Bluray] [HD]
@@ -437,6 +543,12 @@ acestream://4f217d32843bcff9557cff5d2d18ac51ba900c39
 acestream://1113b18a49bb8667900ea40ce3b55182b32a539b
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Loli Tormenta [Bluray] [HD]
 acestream://2781ce5bb9dd331ebbc604f0e3e5cd3d6dddb09f
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los buenos modales [Bluray] [FHD]
+acestream://cdec4c9e84e7eb9fe35493b90f3174fdf5c818b4
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los buenos modales [Bluray] [SD]
+acestream://f7f06df0b50ac3a30cd92960f35c0cd015224334
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los buenos modales [Bluray] [HD]
+acestream://1a6a5ee05503483b727589fdc1afc7f36eb6f8ee
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco [4K]
 acestream://d5e9071dc8247e7b9eea247210c3278a920da829
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco [Bluray] [FHD]
@@ -453,6 +565,12 @@ acestream://fcbc9a35197da72f38bee0a05b758df89fa52175
 acestream://43ce9f136792797ec7324f121a50be7393182a7f
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maravilloso desastre [Bluray] [FHD]
 acestream://0cb7a5b8a75fb3cc2dd8680cc55ac7f4b5a6b948
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marca de vida [HDTV] [FHD]
+acestream://90c5793f3cc666e8e65fec753436a29fade75044
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marca de vida [HDTV] [HD]
+acestream://fc500419fd7cdc72e5cdbf6bb190bc77f429b0b4
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marca de vida [HDTV]
+acestream://eedbcd1c4bad287cf5619efbf4e6241393612f28
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mari [Bluray] [SD]
 acestream://139beb711ce603219f114b7683432685c9eb11e8
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mari [Bluray] [HD]
@@ -471,6 +589,18 @@ acestream://ecd86251b6e2e7a85c489c484c855e456ef0f68e
 acestream://450c1ce887b70b63114fbff730360482e3675e6a
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria [Bluray] [HD]
 acestream://83ad6fa251613f27d35f782f96197c1cc88d149b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Megalodon 2, La Fosa [4K]
+acestream://41e9fbe52a94014c07411949190ce18fd9ddf343
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Megalodon 2, La Fosa [HDTV] [FHD]
+acestream://a316dfb2c5ae09b58a820b354f76a4eca8f03898
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Metal Monsters El Redentor Justiciero [Bluray] [FHD]
+acestream://7ad62a52acc2b04957105d528fb3ddc9df159310
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mi crimen [Bluray] [FHD]
+acestream://3f1debc5ac0d109775f382821b2dfd6eead3ad56
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mi crimen [Bluray] [SD]
+acestream://493bf325ad762efc47a173bd2af8b39705dc803a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mi crimen [Bluray] [HD]
+acestream://0381118b9aa586b59b585062ccde45a604ff116d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [FHD]
 acestream://be493cabd03d526eec3dfd000a125d51c6be69a9
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [SD]
@@ -483,6 +613,18 @@ acestream://1686be9d542808f658a6bed6072c4e300ab304e3
 acestream://e3d0b40f91a5a39139dbd0f7d4703cf0cd0f2a30
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [HD]
 acestream://3d3c6809b6982496cd33ea6314b50fc2866b07d1
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nato 0  El origen del mal [Bluray] [SD]
+acestream://b1db0518dee23c552b5bb52358ec6e5f058b2ad5
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nato 0  El origen del mal [Bluray] [HD]
+acestream://ebe6049f174a0192cec247995306a2aac14dabcb
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Next Exit [Bluray] [SD]
+acestream://794f96127d88b7c372dd13cd7b30a2e6de49891f
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Next Exit [Bluray] [HD]
+acestream://cf55716ca86519f2409e816eb49025edb1e9540b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Ni de cona estas invitada a mi bat mitsva [Bluray] [SD]
+acestream://ec9b595cd3f3021ddac52859572c83183d945004
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Ni de cona estas invitada a mi bat mitsva [Bluray] [HD]
+acestream://a230a8cf2143cd5148b7bc15882b75599ea2d4b7
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [SD]
 acestream://b9ad65c5abce19973ae232f0281ae2775128a900
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [HD]
@@ -513,6 +655,12 @@ acestream://4add22bbfb62e39e774b640f2cc9e3c665aeee19
 acestream://0b4b1736812975366713711cb4a05ad5fcf612ec
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pisicna Infinita [Bluray] [FHD]
 acestream://8e2a2ea55770c3c4948a28fe9baace8960ffa94f
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Plan 75 [Bluray] [FHD]
+acestream://99a0b14e8c565cd79eb3e92f82f38540af4a2669
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Plan 75 [Bluray] [SD]
+acestream://e313b3ac7c98b67dce8a012897fe31dbbf78857e
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Plan 75 [Bluray] [HD]
+acestream://5e1a30bfe34949dc9d6b19f85e850aa60290e18e
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Planeta 5000 [Bluray] [SD]
 acestream://1d30b035e4180181bdb5d85b14ea9474f1635c79
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Planeta 5000 [Bluray] [HD]
@@ -579,6 +727,16 @@ acestream://7dfbef2e67383ce2a9a026ea961d2bf1830bbff0
 acestream://0e28929d56cfecf9021e7aad68a473db30fbd80f
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Scarlet [Bluray] [HD]
 acestream://c50945ead8ea5cb276f047ef476980bc24a850a6
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,She Came from the Woods [Bluray] [SD]
+acestream://6b649689311fe0f6883a0cde62ccd54b54a2a48c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,She Came from the Woods [Bluray] [HD]
+acestream://26899cddebd9179646cd640cf0994adedad2e018
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Shepherd [Bluray] [FHD]
+acestream://c3450b2b9265ff8114af85a39dba9744b12edb20
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Shepherd [Bluray] [SD]
+acestream://855520e279162b73af11d27d142cd43c1b0dcff7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Shepherd [Bluray] [HD]
+acestream://92c789130b6c7af628dba6ac1f66ef56344edd92
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [Bluray] [SD]
 acestream://9591caae31ab44303140d8b4428a849310361622
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [Bluray] [HD]
@@ -603,6 +761,10 @@ acestream://ca032021e0ff8d9ada8643ba2fe67cfd86de1d56
 acestream://d8e2b3d8553b8abf3de66c731d3e1c2431dadde7
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [HD]
 acestream://1dbc7bb1255b0eb437f150862af76cbba9fac0a4
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sin senal [Bluray] [SD]
+acestream://2c56c58062a1babdccce1795e29e828c7e804723
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sin senal [Bluray] [HD]
+acestream://d308bca5bd6774631740fec3670ae26d86a78317
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso [Bluray] [SD]
 acestream://08fe3c70b7490efbb34094b8215d1593950c6166
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso [Bluray] [HD]
@@ -617,6 +779,18 @@ acestream://3ce930155ba2d989cca257d7e44e70e3717728ca
 acestream://763c00614f1039d65723c349d908024f0e12718e
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,The Bear 2x01 Ternera [FHD]
 acestream://726f91e2b621e2e41baff6c6d9be90eef358bed9
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Best Man [Bluray] [FHD]
+acestream://6db5aa83c491755f955ac43837f608bc1f9d5d3a
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Best Man [Bluray] [SD]
+acestream://28a9145ef4ee7c149e4c7dc4664e433c7ee2df61
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Best Man [Bluray] [HD]
+acestream://3c24ec6c8f5b1e50a5803b3bba9e8a5fab497ac6
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Boogeyman [Bluray] [FHD]
+acestream://331319a2a3e12117a44aafb2a5818c60de0f1765
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Boogeyman [Bluray] [SD]
+acestream://5832b244a92f8812ac1a82e3e47dbfb0b0dcc8b1
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Boogeyman [Bluray] [HD]
+acestream://d5b235f8bad676f56c2f131f515eb79dab61cbc5
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy [Bluray] [SD]
 acestream://1523c608c555118dbc6909d2bf6797f6025a4fe6
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy [Bluray] [HD]
@@ -635,6 +809,24 @@ acestream://46ba8ccf16b96efacad6af245df2e85dcffda6f0
 acestream://f2f6df463d54ca3492217cce55853b67b7959069
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Flash [Bluray] [FHD]
 acestream://16c7a0f80249fcdd75b8e053e9eb29cc09478c17
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Ghost Writer [Bluray] [SD]
+acestream://7cf931cdba66e2e9ebf386fe9eeb7009efb67cd7
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Ghost Writer [Bluray] [HD]
+acestream://c043d1bebc2adbc3aba9b02c726a8633caf50245
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Goldsmith [Bluray] [SD]
+acestream://0f94caf07ba18aca3b7fe29772e25e62e452be1f
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Goldsmith [Bluray] [HD]
+acestream://66474f113e75a6b0d9de6b201d209d96ee2fe6f7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The List Rienda suelta [Bluray] [FHD]
+acestream://a6455c34806563ee6b9fbba2b880d89035a4bca8
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The List Rienda suelta [Bluray] [SD]
+acestream://75a344527087a15b3ff7410de8356ff8f8982490
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The List Rienda suelta [Bluray] [HD]
+acestream://cfaf2f311e7023057f7b15a9996f8912fa173151
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Lost King [Bluray] [FHD]
+acestream://4c1310a6cba0495743605e9322bc7ff1663cde9c
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Lost King [Bluray] [SD]
+acestream://f7bc8292ab5e3251a524d350a849de21ce03f4c8
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [4K]
 acestream://5f7026fffa3a7f10446962ea6c563e5438a36c07
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [Bluray] [FHD]
@@ -663,6 +855,10 @@ acestream://799f0d1dc12419c14972966fdcec999124961b7c
 acestream://7c9631cf6b17b88c3aa3749225c8a3aef71a173c
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un cabaret en la campina [Bluray] [HD]
 acestream://f3335495649bfa3dbd9fb4115c34896deb73f45f
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un dia y medio [Bluray] [SD]
+acestream://3e675d99ef093624aabc9ca5104b34c07ff6e2ba
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un dia y medio [Bluray] [HD]
+acestream://5bb54ed283ef7bf76289a31318ccc278f2821639
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un lugar por el que luchar [Bluray] [SD]
 acestream://f07e6aef07e107cb50ba345c40403867dcf579d2
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un lugar por el que luchar [Bluray] [HD]
@@ -695,6 +891,12 @@ acestream://33c0fffe8cd09d4f8c6850c7fa9aa38f74961478
 acestream://de5604f50f499f7935f11b4aae75029fcd9c75ef
 #EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Volpina [Bluray] [HD]
 acestream://dffbf3d215f18f3acbb51b41b671c63418323ab3
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Wildflower [4K]
+acestream://cfa87033192c5459101ec163733ff061a1351a9f
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Wildflower [Bluray] [SD]
+acestream://e16bf9d57a0612f9e6e0342c43f4292d0b7b7d71
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Wildflower [Bluray] [HD]
+acestream://e8f8e7ae8db43073843e7e624b8662006d3800b5
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor [4K]
 acestream://14fe4aa46b84a68dc3f8a816d19431e470202c6f
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor [Bluray] [FHD]

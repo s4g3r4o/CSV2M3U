@@ -45,6 +45,30 @@ plugin://script.module.horus?action=play&id=a9ac5de49550ae1d0f445f516c09930218f8
 plugin://script.module.horus?action=play&id=75ffaf4bddbd366f7dddb3ac8ed25955cf383939
 #EXTINF:-1 group-title="Aci Alta Capacidad Intelectual" tvg-id="" tvg-logo="" ,Aci Alta Capacidad Intelectual (Cap 308) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=9d7c7b8db5046122fa1600c9ed8f56d8956a8d28
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 101) [4K]
+plugin://script.module.horus?action=play&id=a54a36e54aa7097f2bcb36aa12d7a40a9556a223
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 102) [4K]
+plugin://script.module.horus?action=play&id=8c7858c72354eaed4e6254b3d3ade79e82beeea4
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 103) [4K]
+plugin://script.module.horus?action=play&id=c61bc00f67d73d48bc704ce96f899f53e7889bf8
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 101) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=843f4720fdd4dbca741a7f2de1b1c964bc17760a
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 102) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=a7fc0c8c350e19d455aa914b55bbb4ae1bb62c15
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 103) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=9fa7c52fab2f515f23512571450e4ae08b590493
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 101) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=362b491f29172b8c9906695763d92fe0309a6f96
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 102) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=4cf6e0a40cd84acfc40f4abdb17afb84c081493c
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 103) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=8a9c99f62b649b321fd5923e660d962728ebba39
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 101) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=81887b3331b183aee6ea81dffaa174daeb62379e
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 102) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=0e07bd0361cd2e5d151cde165991ac19cca8a9b8
+#EXTINF:-1 group-title="Ahsoka" tvg-id="" tvg-logo="" ,Ahsoka (Cap 103) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=611fbbdaf7c729071115bf95936da9929b6a0336
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 203) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=c46d2049eddc58cca78af5edbe23929eb3189cd3
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 204) [HDTV] [SD]
@@ -59,6 +83,8 @@ plugin://script.module.horus?action=play&id=2b5711aff588f1d46ce3dbff3943aff4ab18
 plugin://script.module.horus?action=play&id=f5e9bdba03020299818c9eead7d38c59b7651907
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 210) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=6420d91e4f2e8172ee690fa2483de5eb08bda681
+#EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 211) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=dc04a125cb42bffd55b4ad471f383d53cf63f271
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 203) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=084e2106de4c3bc3d46229e7ea09f4e4493aeac8
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 204) [HDTV] [HD]
@@ -71,6 +97,8 @@ plugin://script.module.horus?action=play&id=48d7c8b2f081e735b51b7ce022aef76de2fa
 plugin://script.module.horus?action=play&id=1096a9eec56005f679e5a92bf570a8c7d40de3e3
 #EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 209) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=98aa9e66753c06e8e54d0518382e38b19bfba7ab
+#EXTINF:-1 group-title="And Just Like That" tvg-id="" tvg-logo="" ,And Just Like That (Cap 211) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=d349aa98753cbb2443d4cd83a27b2c6b5c1fc30f
 #EXTINF:-1 group-title="Arnold" tvg-id="" tvg-logo="" ,Arnold (Cap 101) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=0bd09bec3840109bc5319d3d95047b827f35c203
 #EXTINF:-1 group-title="Bad Banks" tvg-id="" tvg-logo="" ,Bad Banks (Cap 101) [HDTV] [FHD]
@@ -119,6 +147,8 @@ plugin://script.module.horus?action=play&id=d33c8a0435dc892d415dcac3a3c2104504eb
 plugin://script.module.horus?action=play&id=a028719418b566c4b5eb2f04d908a7d51fb77c50
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 106) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=2537a0fd4bbe5413586185a588f116bce5102594
+#EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 108) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=b1b94750423c5637aa1b645e5f6b7c5603c2458e
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=e1a479b9145f942d82005041317052b65e3d3e64
 #EXTINF:-1 group-title="Blackport" tvg-id="" tvg-logo="" ,Blackport (Cap 106) [HDTV] [HD]
@@ -139,8 +169,22 @@ plugin://script.module.horus?action=play&id=dfd209797f4ba4b9e3ea7d89a71949018a09
 plugin://script.module.horus?action=play&id=b5273c2fdebb6d6d5c3edf2ee527c416ce7f0615
 #EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 104) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=d7278681f3e23322c94a84ac15322f3b54af0322
+#EXTINF:-1 group-title="Bupkis" tvg-id="" tvg-logo="" ,Bupkis (Cap 105) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=aa2f0329703151df3ca626d954509281b210bb9e
+#EXTINF:-1 group-title="Cadetes De Mechas" tvg-id="" tvg-logo="" ,Cadetes De Mechas (Cap 101) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=50042a1cac8f37d0bb09a3237521f55b2cc7c29a
 #EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=e1f2661f3d667796a952fd70b01f29b79b6014db
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 105) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=9fbf206717fe913f1531592d9b0f7b34ec45a9a0
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 106) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=85e626120afce029e56dd7d180dcf05d5eea657e
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 107) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=431fbd18ee323c4e195cb919abb65aafd0b09e3e
+#EXTINF:-1 group-title="Cangaco Novo" tvg-id="" tvg-logo="" ,Cangaco Novo (Cap 108) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=fde3660a7656a853c4bba2ccbc1571569293eb81
+#EXTINF:-1 group-title="Capitan Fall" tvg-id="" tvg-logo="" ,Capitan Fall (Cap 107) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=5935e62bd62cb5dffd066afa5244d65f5a906366
 #EXTINF:-1 group-title="Castigo" tvg-id="" tvg-logo="" ,Castigo (Cap 103) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=175d33c805fad2b3b1e5a9a93bbff280df74c1c8
 #EXTINF:-1 group-title="Castigo" tvg-id="" tvg-logo="" ,Castigo (Cap 101) [HDTV] [SD]
@@ -207,6 +251,8 @@ plugin://script.module.horus?action=play&id=796ed9721d8c8aaa536e4a0726e7a8202dea
 plugin://script.module.horus?action=play&id=7245f99b1db960d0fb7c5dfbfdacc23222ed344e
 #EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1206) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=a75293308ad1700d356c823da75d87c356877faa
+#EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1207) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=1bf34dbd5f3c4b05468614ea9f7fbde9c13ae894
 #EXTINF:-1 group-title="Crimen en el paraiso" tvg-id="" tvg-logo="" ,Crimen en el paraiso (Cap 1201) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=969a1ced5eb9110ec0d40bc43dfe50569ed0e635
 #EXTINF:-1 group-title="Crimen en el paraiso" tvg-id="" tvg-logo="" ,Crimen en el paraiso (Cap 1202) [HDTV] [HD]
@@ -215,6 +261,12 @@ plugin://script.module.horus?action=play&id=b5f3557a84644ae07c8dbde41089d305730a
 plugin://script.module.horus?action=play&id=e552c845209e1edd885044ff6c3cd19da50c0ee9
 #EXTINF:-1 group-title="Crimen En El Paraiso" tvg-id="" tvg-logo="" ,Crimen En El Paraiso (Cap 1206) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=104df91894dcc6a2bb83eff69e9363f38ade3be3
+#EXTINF:-1 group-title="Crimenes en Barcelona" tvg-id="" tvg-logo="" ,Crimenes en Barcelona (Cap 105) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=9108e942c40723ee9a543d76e0c99f04958aaa83
+#EXTINF:-1 group-title="Crimenes en Barcelona" tvg-id="" tvg-logo="" ,Crimenes en Barcelona (Cap 106) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=e92ccbddd9332e4c24e9f93ec042fc53d81d6c74
+#EXTINF:-1 group-title="Crimenes en Barcelona" tvg-id="" tvg-logo="" ,Crimenes en Barcelona (Cap 105) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=0a479bc43577e2ace9edb7b7bd2d387e2fd933e2
 #EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 208) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=f6bde3fd7584f04c68268395810b9f45e1cf765e
 #EXTINF:-1 group-title="Cruel Summer" tvg-id="" tvg-logo="" ,Cruel Summer (Cap 201) [HDTV] [SD]
@@ -239,6 +291,8 @@ plugin://script.module.horus?action=play&id=5867108507df5bebc5fc6a61b745c8dc084c
 plugin://script.module.horus?action=play&id=30490709b576e8f7b8c44869991ead8e52d91f4b
 #EXTINF:-1 group-title="De Caperucita a loba" tvg-id="" tvg-logo="" ,De Caperucita a loba (Cap ) [Bluray] [HD]
 plugin://script.module.horus?action=play&id=195dfba1be3a21f03ddb0065b01deca04380d8fe
+#EXTINF:-1 group-title="De Caperucita a loba" tvg-id="" tvg-logo="" ,De Caperucita a loba (Cap ) [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=535655b283f2713c83e7d0f3237979c8330ef1cb
 #EXTINF:-1 group-title="De Vuelta a Los 15" tvg-id="" tvg-logo="" ,De Vuelta a Los 15 (Cap 201) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=7002ae2c173ceff61f83c2e7d6544d6fb0d55f3c
 #EXTINF:-1 group-title="De Vuelta a Los 15" tvg-id="" tvg-logo="" ,De Vuelta a Los 15 (Cap 202) [HDTV] [SD]
@@ -283,10 +337,12 @@ plugin://script.module.horus?action=play&id=37895c508809277810243bdefd0dc05163c6
 plugin://script.module.horus?action=play&id=c9f11c43dc603e1e6512155f43da2d56dceccb60
 #EXTINF:-1 group-title="Dias Mejores" tvg-id="" tvg-logo="" ,Dias Mejores (Cap 208) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=707005f2e76b4c2edf2dd3ce5ee35eebf6dd06dd
+#EXTINF:-1 group-title="Dioses del tenis" tvg-id="" tvg-logo="" ,Dioses del tenis (Cap 101) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=42d9e525538ddf20f5fc30c6977c0a6082e07b03
+#EXTINF:-1 group-title="Dioses del tenis" tvg-id="" tvg-logo="" ,Dioses del tenis (Cap 103) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=7722b67e26aac1743fc848df45364811b68a77da
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 103) [4K]
 plugin://script.module.horus?action=play&id=7fd3829fac6a29055eb6d86c803a90b0ed0488d0
-#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 105) [HDTV] [FHD]
-plugin://script.module.horus?action=play&id=5d7987539d7ae7e97b8aef75e5c389bc255e0df4
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=75aeb5795cece3e0f25a891ccd64f06353a57707
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 102) [HDTV] [SD]
@@ -295,14 +351,14 @@ plugin://script.module.horus?action=play&id=c2e835d3dd1991c418df94365a4fd19cacb2
 plugin://script.module.horus?action=play&id=50c9f4f67f797f88b0643386fd0ede9586aa0eec
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 104) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=aaeb1ac6d8897df60f74bf83e8e02809139bce58
-#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 105) [HDTV] [SD]
-plugin://script.module.horus?action=play&id=79d76f29d98573acec1577bd3e05fece34642363
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 107) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=04bae9f68ec1cff0883edce87ff43602523cf968
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=b3147eeb009c4104b5c5fc0cb46f8402dbb8ed76
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 102) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=9882a68bea8eccb2f5da01ee6815cf696edd9c89
+#EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 105) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=13526ac34394c6d31e8f5256861852363933cde9
 #EXTINF:-1 group-title="Django" tvg-id="" tvg-logo="" ,Django (Cap 107) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=8ecc85945116fbe582fafb6d140236ef475e080e
 #EXTINF:-1 group-title="Dulces Magnolias" tvg-id="" tvg-logo="" ,Dulces Magnolias (Cap 302) [HDTV] [SD]
@@ -365,6 +421,14 @@ plugin://script.module.horus?action=play&id=ca1fc041c1ae3e0cb7e8af50598dc0805ccc
 plugin://script.module.horus?action=play&id=1ec503364ca16b356ee4f1cad68f776a293d6c91
 #EXTINF:-1 group-title="El fantasma de Canterville" tvg-id="" tvg-logo="" ,El fantasma de Canterville (Cap 104) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=9ef6e95902b1d16db0449336f8ba2b77995397cb
+#EXTINF:-1 group-title="El manipulador" tvg-id="" tvg-logo="" ,El manipulador (Cap 101) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=dede2bc4bbc526f21ae184735ee1bb9cb01dded4
+#EXTINF:-1 group-title="El manipulador" tvg-id="" tvg-logo="" ,El manipulador (Cap 102) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=b915a2bf8a7440481b41746ea9bf3e21644a46ec
+#EXTINF:-1 group-title="El manipulador" tvg-id="" tvg-logo="" ,El manipulador (Cap 103) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=3ef13c904761e6bb02ddd4ea961abf63a7005392
+#EXTINF:-1 group-title="El manipulador" tvg-id="" tvg-logo="" ,El manipulador (Cap 101) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=9104a73fc244b8fcd26fb7a7e35c1f1c912805cf
 #EXTINF:-1 group-title="El Resort" tvg-id="" tvg-logo="" ,El Resort (Cap 101) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=dea818481c9687d421400fa184c821f7027de527
 #EXTINF:-1 group-title="El Resort" tvg-id="" tvg-logo="" ,El Resort (Cap 102) [HDTV] [FHD]
@@ -455,6 +519,8 @@ plugin://script.module.horus?action=play&id=c4b8b4f8f780f50fe1cff2376de1790d96f1
 plugin://script.module.horus?action=play&id=15b22265652374c0f6787bb10422736e41074010
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 205) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=1eb3d934c0604be1129dbf500847812ed6def372
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 207) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=f644b7a313fb41a9b6981b4ec7f4525a0a64d5c1
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 201) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=09f6afd19e9322ad02cf9e01a9422a74548c35ec
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 202) [HDTV] [SD]
@@ -465,6 +531,8 @@ plugin://script.module.horus?action=play&id=036ddd758305489a03980a685e624375a74d
 plugin://script.module.horus?action=play&id=17f7828e33b9c28f31c03bafe910644abe8eca0f
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 206) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=7a81a521af4fcbee52c36077285fa73f3ef68758
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 207) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=67522897e2e011e8ab87396b66505a00027560de
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap ) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=82783929aedd1184855c98f18c8567d0c66ef265
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 202) [HDTV] [HD]
@@ -475,6 +543,10 @@ plugin://script.module.horus?action=play&id=a9cbdc07382bbb0acc67ef8f10204f96d89a
 plugin://script.module.horus?action=play&id=2ab9bc43863921bf9b4464e072e0f5d784e8df5a
 #EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 206) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=0be2636bd14d127c49dc01f40f1839f8fc9be0f4
+#EXTINF:-1 group-title="Fundacion" tvg-id="" tvg-logo="" ,Fundacion (Cap 207) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=ea3b42c679b574d008e4799d322b2d172403e8a0
+#EXTINF:-1 group-title="Futurama" tvg-id="" tvg-logo="" ,Futurama (Cap 806) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=1c769b213dd5c5a12ca4800adebfa2e9fa32be1b
 #EXTINF:-1 group-title="Ghosts Of Beirut" tvg-id="" tvg-logo="" ,Ghosts Of Beirut (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=5ceaca96b89b539bc11d6ece56d4f8607fcc3e13
 #EXTINF:-1 group-title="Ghosts Of Beirut" tvg-id="" tvg-logo="" ,Ghosts Of Beirut (Cap 102) [HDTV] [SD]
@@ -521,6 +593,8 @@ plugin://script.module.horus?action=play&id=7086d979145e3059cc7e5723e82d867429c0
 plugin://script.module.horus?action=play&id=5e7299f9a0762dc3228f296cce3bc28e99e4471c
 #EXTINF:-1 group-title="Gotham Knights" tvg-id="" tvg-logo="" ,Gotham Knights (Cap 113) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=1d0ed2f83bec84f663f1a085b50d7a5e961b497c
+#EXTINF:-1 group-title="Heels" tvg-id="" tvg-logo="" ,Heels (Cap 204) [4K]
+plugin://script.module.horus?action=play&id=34937bd2a304f512a14f82acea72fab22a586c26
 #EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 401) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=0e800dced2c723f707de2e18e1ca27421788b6b9
 #EXTINF:-1 group-title="High School Musical El Musical" tvg-id="" tvg-logo="" ,High School Musical El Musical (Cap 402) [HDTV] [SD]
@@ -535,8 +609,12 @@ plugin://script.module.horus?action=play&id=be9e80d0e9e0d7aafee7b4ce903f866f55d6
 plugin://script.module.horus?action=play&id=79a79a9ad7af37f3969bef519397b23d8891f4cb
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 103) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=345fa945a92f388768c0b8b23d2f64530173bb5a
+#EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 105) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=0d05d07c1646a2667a978a9c5684955e37c10b82
 #EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 103) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=d6e3e19afb302b8abc0e396c4e6e09f265f275bc
+#EXTINF:-1 group-title="Honor" tvg-id="" tvg-logo="" ,Honor (Cap 105) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=6933f38b3debfbf95cb4ed3a8cdc9895658be086
 #EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 102) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=85ed9b3ff849659c529823b8537480579f7e3bcd
 #EXTINF:-1 group-title="I Hate Suzie" tvg-id="" tvg-logo="" ,I Hate Suzie (Cap 103) [HDTV] [SD]
@@ -577,6 +655,20 @@ plugin://script.module.horus?action=play&id=87445bff7128b175ec9a0b7bf211ea9823da
 plugin://script.module.horus?action=play&id=1eea75d9a80c94422e18b4e0c4b4014b8bd903b3
 #EXTINF:-1 group-title="Invasion Secreta" tvg-id="" tvg-logo="" ,Invasion Secreta (Cap 106) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=9b7167ca6c8aca092794c10d8d7293e8c6194596
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 202) [4K]
+plugin://script.module.horus?action=play&id=138499be0054324107320d99b71d2c5197dad780
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 201) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=68b21fc856b1e1c44c5e3439c9d22192476684ce
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 202) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=597420915144052a8d2a1715edfd6aad7fbf94e0
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 201) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=5e03577bcf493b11fc35ab7d6cf494c97dcca1cc
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 202) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=96e0b121190973283927f268667b3d9d4b12828b
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 201) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=30ddd34da7093a9361a338bf7a8b226b7b82f03e
+#EXTINF:-1 group-title="Invasion" tvg-id="" tvg-logo="" ,Invasion (Cap 202) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=1c2547d59f065c8b6313063e4ebe679e2a7fc3c7
 #EXTINF:-1 group-title="Invencible" tvg-id="" tvg-logo="" ,Invencible (Cap 201) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=76abce4ac56c24a37940c4c85ac69d641a50091b
 #EXTINF:-1 group-title="Invencible" tvg-id="" tvg-logo="" ,Invencible (Cap 201) [HDTV] [SD]
@@ -607,6 +699,18 @@ plugin://script.module.horus?action=play&id=e66070486fc7fdcc3d975ec3d809e6725cc8
 plugin://script.module.horus?action=play&id=55055ae84b72f7553365f419bf07eb5f9fdb9c59
 #EXTINF:-1 group-title="Jack Ryan" tvg-id="" tvg-logo="" ,Jack Ryan (Cap 406) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=14ed50c7827eba3f54af90cc8069a4871da6b2c0
+#EXTINF:-1 group-title="Jugando con fuegos" tvg-id="" tvg-logo="" ,Jugando con fuegos (Cap 101) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=fe473a3dafb5aeb90cbefcc8fe62978082fb625c
+#EXTINF:-1 group-title="Jugando con fuegos" tvg-id="" tvg-logo="" ,Jugando con fuegos (Cap 102) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=caed015aaad23be12a471d4a5b1da9066fc60f8c
+#EXTINF:-1 group-title="Jugando con fuegos" tvg-id="" tvg-logo="" ,Jugando con fuegos (Cap 103) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=0acc9c02fd353f22f3e38e8b1a51cad402d941f9
+#EXTINF:-1 group-title="Jugando con fuegos" tvg-id="" tvg-logo="" ,Jugando con fuegos (Cap 101) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=96dc6f58c16a7127217efd71d44c095b25744c7c
+#EXTINF:-1 group-title="Jugando con fuegos" tvg-id="" tvg-logo="" ,Jugando con fuegos (Cap 102) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=abc2b94937eb2b5f8b60c7c34af5f2ab9975f504
+#EXTINF:-1 group-title="Jugando con fuegos" tvg-id="" tvg-logo="" ,Jugando con fuegos (Cap 103) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=5a8b5135346d1d2c374686fd71153e65267d65e9
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 103) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=d11aae686811ab32fde518733a71a0010f0b49c7
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 101) [HDTV] [SD]
@@ -619,6 +723,10 @@ plugin://script.module.horus?action=play&id=25b92402af033f37b68673ab8ecdf3ccab2c
 plugin://script.module.horus?action=play&id=fec0992b4fbd477267b466f99f6247601f1ac720
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 106) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=9ceb9af1093e342f3a39468e59268b45c2033c4b
+#EXTINF:-1 group-title="Justified Ciudad salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad salvaje (Cap 107) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=5e0de2e4d8bdd4b435394bca271cef0e29766675
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 108) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=d0195b55b79290769c9e3dc4d427bfcc78cf0ca0
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=905eb4485ae591e5e1ec32c85dd1181a6fe362c6
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 102) [HDTV] [HD]
@@ -627,6 +735,10 @@ plugin://script.module.horus?action=play&id=48740919130e7e8af5a542e627e1e690fa7f
 plugin://script.module.horus?action=play&id=a8c3879a6ee2950368de4f75e1f37f1bac301370
 #EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 105) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=6176a254722e8cd4b3a07c3df04b3faf26b8eaad
+#EXTINF:-1 group-title="Justified Ciudad salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad salvaje (Cap 107) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=8e28615323500421c744b6df3317206703fbee31
+#EXTINF:-1 group-title="Justified Ciudad Salvaje" tvg-id="" tvg-logo="" ,Justified Ciudad Salvaje (Cap 108) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=7f72da4728a5fa8de28cb3f7e0d6691a650991bd
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=5975c1392c40484c1edf8d9443700a57c5bdb1e3
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 103) [HDTV] [SD]
@@ -639,8 +751,12 @@ plugin://script.module.horus?action=play&id=47199c7844abd91bad8d6a3fe38cad03abbd
 plugin://script.module.horus?action=play&id=26b22db3c8265f735a2fb09bcfd3bc88bc392589
 #EXTINF:-1 group-title="Kids in Crime" tvg-id="" tvg-logo="" ,Kids in Crime (Cap 103) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=72b6db9f2236b2c1a8fa294a5b768f9703134710
+#EXTINF:-1 group-title="Kiff" tvg-id="" tvg-logo="" ,Kiff (Cap 103) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=e3c204d128904eb512baa83a080016abc78cf0b1
 #EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=e7e002285781cdbc1b5faddb05df739bd6525a4a
+#EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 105) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=e008a751afe30657dbaaedb72fb64532defe9904
 #EXTINF:-1 group-title="La Chica Enmascarada" tvg-id="" tvg-logo="" ,La Chica Enmascarada (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=987d374af24b1d0d8f99e0c8ec9db3a7abca7939
 #EXTINF:-1 group-title="La delgada linea azul" tvg-id="" tvg-logo="" ,La delgada linea azul (Cap 202) [HDTV] [SD]
@@ -679,6 +795,8 @@ plugin://script.module.horus?action=play&id=2c3b38afead668ea6b8fc509bbc24e4b22b8
 plugin://script.module.horus?action=play&id=fb154ace0f4ccb20bbbe3bbe2be76b1529312dd8
 #EXTINF:-1 group-title="La noche que Logan desperto" tvg-id="" tvg-logo="" ,La noche que Logan desperto (Cap 105) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=3bd051d916aad474c1b982a4bb0ba1758060a322
+#EXTINF:-1 group-title="La rueda del tiempo" tvg-id="" tvg-logo="" ,La rueda del tiempo (Cap 201) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=9289c0e7394fe88a5dad15874722222e8754c73c
 #EXTINF:-1 group-title="La Supervivencia De Una Chica Con Curvas" tvg-id="" tvg-logo="" ,La Supervivencia De Una Chica Con Curvas (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=2c8f75ac5cd41f5135365fb310192ad614ef5a4c
 #EXTINF:-1 group-title="La Supervivencia De Una Chica Con Curvas" tvg-id="" tvg-logo="" ,La Supervivencia De Una Chica Con Curvas (Cap 102) [HDTV] [SD]
@@ -727,10 +845,14 @@ plugin://script.module.horus?action=play&id=5d3b20e29eca4ab8f85327ded84998114e7c
 plugin://script.module.horus?action=play&id=b2d12eccea5ac56e2c25a0b7955460e4fa2ed56f
 #EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 104) [HD]
 plugin://script.module.horus?action=play&id=99f273b6e2fcb9112cb0c75f422a73dc4a0a23c1
+#EXTINF:-1 group-title="Las flores perdidas de Alice Hart" tvg-id="" tvg-logo="" ,Las flores perdidas de Alice Hart (Cap 107) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=fc6784592de41211d3f31c11e9d24dbbcbe063fa
 #EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 104) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=bb5409608be99783fed105c521aee265f34ad479
 #EXTINF:-1 group-title="Las Flores Perdidas De Alice Hart" tvg-id="" tvg-logo="" ,Las Flores Perdidas De Alice Hart (Cap 105) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=812da558ce40d02096ad84ee855b3d7fee8bb728
+#EXTINF:-1 group-title="Las flores perdidas de Alice Hart" tvg-id="" tvg-logo="" ,Las flores perdidas de Alice Hart (Cap 106) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=ef17abf69085b94eb37af56499a69d9a8f286491
 #EXTINF:-1 group-title="Las invisibles" tvg-id="" tvg-logo="" ,Las invisibles (Cap 104) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=e70e456a6014f617a00586bd169828f3e3180ce9
 #EXTINF:-1 group-title="Las invisibles" tvg-id="" tvg-logo="" ,Las invisibles (Cap 105) [HDTV] [SD]
@@ -923,6 +1045,8 @@ plugin://script.module.horus?action=play&id=414c820a056d9006c0488429f67441a7f73c
 plugin://script.module.horus?action=play&id=625b8645a0445a376f6114e527f95d163b7e506a
 #EXTINF:-1 group-title="Medicina letal" tvg-id="" tvg-logo="" ,Medicina letal (Cap 104)
 plugin://script.module.horus?action=play&id=8d12512305466eb1a2955ed9baeaf673a06d6bf5
+#EXTINF:-1 group-title="Mi Padre El Cazarrecompensas Intergalactico" tvg-id="" tvg-logo="" ,Mi Padre El Cazarrecompensas Intergalactico (Cap 201) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=718658c875ff7d82480ec34897c2bf2dc3c3ef92
 #EXTINF:-1 group-title="Miss Jerusalen" tvg-id="" tvg-logo="" ,Miss Jerusalen (Cap 214) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=e97cf7c48d5e62cf9aa642f5d665ab8334ae225b
 #EXTINF:-1 group-title="Monarch" tvg-id="" tvg-logo="" ,Monarch (Cap 101) [HDTV] [SD]
@@ -1009,6 +1133,12 @@ plugin://script.module.horus?action=play&id=f8e6395180d37b6c746dbd278a2107e659d3
 plugin://script.module.horus?action=play&id=50327af96bf541085d128fca192f87ae4a026117
 #EXTINF:-1 group-title="Nuestro planeta" tvg-id="" tvg-logo="" ,Nuestro planeta (Cap 204) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=d40a52ee23e255488cefefc9b6e11641b31ddddb
+#EXTINF:-1 group-title="One Piece" tvg-id="" tvg-logo="" ,One Piece (Cap 101) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=4fa293c88112d87086a01143131985533f3a7bb3
+#EXTINF:-1 group-title="One Piece" tvg-id="" tvg-logo="" ,One Piece (Cap 102) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=ae991a5811031a3d69868f51d589dbec0cf86cb4
+#EXTINF:-1 group-title="One Piece" tvg-id="" tvg-logo="" ,One Piece (Cap 103) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=c5ad0ed0177525e3edc1117fda44a3bf792c5368
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 706) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=7a13739ae1c8ee2e1ed98ff4757c6fa221d4f233
 #EXTINF:-1 group-title="Outlander" tvg-id="" tvg-logo="" ,Outlander (Cap 706) [HDTV] [HD]
@@ -1143,10 +1273,36 @@ plugin://script.module.horus?action=play&id=89d4eeca940c6a8da0e9b42c7218f66e4df1
 plugin://script.module.horus?action=play&id=9afe047663b86a08bc071976df16da36f1e53532
 #EXTINF:-1 group-title="Professionals" tvg-id="" tvg-logo="" ,Professionals (Cap 110) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=0cae37b771e9cd5bb34366f6b63a1406a4dd6cb8
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 107) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=1034cdcb3a62369bba9103e45b6222406eb8b01e
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 101) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=8b7408ade998110e7d6fce2da853c38384f75aa0
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 102) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=7eee0c870b7b86924d594466d8817109bd913598
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 103) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=ab54d49b1fb0e9b0f376c83876ab3722d10e8102
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 104) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=7669f4fc6b23c25dd885f0e7300d6b66637e2350
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 106) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=1a4bc7e2711c43b09621e4182d0d6911a206647e
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 107) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=cea2f424a03e8310b76b15fa69ee23f006700f32
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 101) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=beda31428c1a62735908e4c34861cf17382d744b
+#EXTINF:-1 group-title="Quien es Erin Carter" tvg-id="" tvg-logo="" ,Quien es Erin Carter (Cap 104) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=b74fc3b5311f829314d8cce6748a1d9102c989ea
+#EXTINF:-1 group-title="Ragnarok" tvg-id="" tvg-logo="" ,Ragnarok (Cap 306) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=a00022ac812d4306dfb1b298655810ae72c1edeb
+#EXTINF:-1 group-title="Refugio" tvg-id="" tvg-logo="" ,Refugio (Cap 105) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=7ee5e6ffa2ab3e238ae59283b1c49efd8fa9c771
 #EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 101) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=6746d4bdc08b71a8781566917efc76bbb5231193
 #EXTINF:-1 group-title="Refugio De Harlan Coben" tvg-id="" tvg-logo="" ,Refugio De Harlan Coben (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=3583e1cc01123a9517a7cbcdc8ad28d6228574a7
+#EXTINF:-1 group-title="Refugio" tvg-id="" tvg-logo="" ,Refugio (Cap 104) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=965372f358a0564a40ce01dd9b4f2ce9a1a8ca6b
+#EXTINF:-1 group-title="Refugio" tvg-id="" tvg-logo="" ,Refugio (Cap 104) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=2e1a18ae7a3d9046606c15b882c495738b5ce22e
 #EXTINF:-1 group-title="Secuestro en el aire" tvg-id="" tvg-logo="" ,Secuestro en el aire (Cap 101) [4K]
 plugin://script.module.horus?action=play&id=266213fac2e38b3866f6df96b72db76cca22fabb
 #EXTINF:-1 group-title="Secuestro en el aire" tvg-id="" tvg-logo="" ,Secuestro en el aire (Cap 102) [4K]
@@ -1213,19 +1369,19 @@ plugin://script.module.horus?action=play&id=44fc84a5a81d9b5dccc8d8c6c7031dc29b9a
 plugin://script.module.horus?action=play&id=1ee3f20a358f700bfbd039b6cc87c2c6933ef9e8
 #EXTINF:-1 group-title="Seduccion fatal" tvg-id="" tvg-logo="" ,Seduccion fatal (Cap 107) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=129d2eb60924a0b821ab4806b2d1bb1a8ace57af
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 101) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=862870fad2bdb9f799091d4a320bee3b0fec481f
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 102) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 102) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=1283b873b28a4cb4747316f3c3807c17d668fc74
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 103) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 103) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=1a47799b7fc8220dc01fb6cda45874de584bfe1d
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 104) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 104) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=8333226bf286a5d5242cf23ad38065e8d72602ae
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 105) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 105) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=f55bb351cf7b98a90f6fab2f9897d9cfe8e73c27
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 106) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 106) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=aef4dbd0b5e1e219e25dbad567bf51e2959df01b
-#EXTINF:-1 group-title="Seducci�n fatal" tvg-id="" tvg-logo="" ,Seducci�n fatal (Cap 107) [HDTV] [SD]
+#EXTINF:-1 group-title="Seducci?n fatal" tvg-id="" tvg-logo="" ,Seducci?n fatal (Cap 107) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=553587d1d685fd2c5b922f0483d3abfa4d642d92
 #EXTINF:-1 group-title="Silo" tvg-id="" tvg-logo="" ,Silo (Cap 110) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=2fc7c18c74123d4296efe4d4c40f3865728623cc
@@ -1265,8 +1421,14 @@ plugin://script.module.horus?action=play&id=e1dd22321c29019aa147a48c8498294d1bba
 plugin://script.module.horus?action=play&id=aa2dfbd4b331509524e7ba85d4ee545f50ba318e
 #EXTINF:-1 group-title="Solo Asesinatos en el Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos en el Edificio (Cap 303) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=fe8980c3d4de7a21c6604578663b7d79d995da1b
+#EXTINF:-1 group-title="Solo asesinatos en el edificio" tvg-id="" tvg-logo="" ,Solo asesinatos en el edificio (Cap 304) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=b66c435b882f91bc8b895c77d1cf706631fc5849
+#EXTINF:-1 group-title="Solo Asesinatos en el Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos en el Edificio (Cap 305) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=62e9085382f6ad91e9a4d968c2d164161f83364e
 #EXTINF:-1 group-title="Solo Asesinatos en el Edificio" tvg-id="" tvg-logo="" ,Solo Asesinatos en el Edificio (Cap 303) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=a136df74e30af9eec2a227204c03a3729bafbb56
+#EXTINF:-1 group-title="Solo asesinatos en el edificio" tvg-id="" tvg-logo="" ,Solo asesinatos en el edificio (Cap 304) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=e63d9e6f90c469b0a9cbd99a1bc42595ccf69cdf
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 206) [4K]
 plugin://script.module.horus?action=play&id=fd0c18f3ae92dd3afb65ff6720179213d7c06a80
 #EXTINF:-1 group-title="Star Trek Strange New Worlds" tvg-id="" tvg-logo="" ,Star Trek Strange New Worlds (Cap 207) [4K]
@@ -1387,6 +1549,8 @@ plugin://script.module.horus?action=play&id=cbc84a484fafeeb5233db887c6eb61cf0813
 plugin://script.module.horus?action=play&id=3dbde2e80985d3b7c15f0504cdf76a513902429d
 #EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 204) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=2b3ebf2f98e42f77c9670a2708d7b6376292d85a
+#EXTINF:-1 group-title="The Afterparty" tvg-id="" tvg-logo="" ,The Afterparty (Cap 209) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=4ee76938f47a9609f441928993c379f2c21d9715
 #EXTINF:-1 group-title="The Architect" tvg-id="" tvg-logo="" ,The Architect (Cap 101) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=8e0abd3b9916696c846820e3550439d119d5f80a
 #EXTINF:-1 group-title="The Architect" tvg-id="" tvg-logo="" ,The Architect (Cap 102) [HDTV] [SD]
@@ -1461,6 +1625,8 @@ plugin://script.module.horus?action=play&id=f04b1332d677ac8da42224566ec6c46f679d
 plugin://script.module.horus?action=play&id=2cd7cb2ea2dfafb3cef3b62483b580d56c4fff4f
 #EXTINF:-1 group-title="The Crash" tvg-id="" tvg-logo="" ,The Crash (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=2ab7633fe11df809998d77ee5cd515ee0200590f
+#EXTINF:-1 group-title="The Curse" tvg-id="" tvg-logo="" ,The Curse (Cap 201) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=96778623d06b0886bddcc19ab1d9e20c7f0297b2
 #EXTINF:-1 group-title="The Great" tvg-id="" tvg-logo="" ,The Great (Cap 803) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=eee330abb6631102c76436ca033de41ffc1b8e56
 #EXTINF:-1 group-title="The Great" tvg-id="" tvg-logo="" ,The Great (Cap 309) [HDTV] [HD]
@@ -1555,9 +1721,9 @@ plugin://script.module.horus?action=play&id=fd162959a6e2fcf28bcac4dd4ded870dc2bc
 plugin://script.module.horus?action=play&id=48874d09321596201ff176ff598438c5873c6148
 #EXTINF:-1 group-title="The Witcher" tvg-id="" tvg-logo="" ,The Witcher (Cap 308) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=b80407142d67925d0d3a63ec9aafeee5c58f1321
-#EXTINF:-1 group-title="Tiempo de victoria La dinast�a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast�a de los Lakers (Cap 202) [HDTV] [SD]
+#EXTINF:-1 group-title="Tiempo de victoria La dinast?a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast?a de los Lakers (Cap 202) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=81877caf9aeeae037d73d57e3892a9c5ac6ccd05
-#EXTINF:-1 group-title="Tiempo de victoria La dinast�a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast�a de los Lakers (Cap 202) [HDTV] [HD]
+#EXTINF:-1 group-title="Tiempo de victoria La dinast?a de los Lakers" tvg-id="" tvg-logo="" ,Tiempo de victoria La dinast?a de los Lakers (Cap 202) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=17fe26b25384cdeb565578a3a28127c918d456b2
 #EXTINF:-1 group-title="Tour de Francia En el corazon del peloton" tvg-id="" tvg-logo="" ,Tour de Francia En el corazon del peloton (Cap 103) [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=5a0e2c12e909f464c3599e7b9d4790a85ae3bfe1
@@ -1635,8 +1801,16 @@ plugin://script.module.horus?action=play&id=e7c3d8c59f605dfd7a614b6858f7cb42fe44
 plugin://script.module.horus?action=play&id=78d6f0e15f761ebfa983677c2abaf4cec6188994
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 111) [HDTV] [SD]
 plugin://script.module.horus?action=play&id=d13ad57a2c01622164c0101892c5e28b2fefab83
+#EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 112) [HDTV] [SD]
+plugin://script.module.horus?action=play&id=39cbfd3bbb3a32f6cdaca6b86172d2ae03a9a90a
 #EXTINF:-1 group-title="Violeta como el mar" tvg-id="" tvg-logo="" ,Violeta como el mar (Cap 101) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=dff59cca09e95761c98d7e1a56622a84ea9040c3
+#EXTINF:-1 group-title="Vivir 100 anos Los secretos de las zonas azules" tvg-id="" tvg-logo="" ,Vivir 100 anos Los secretos de las zonas azules (Cap 101) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=4695d293563fc7072dbe13c401d987095524c674
+#EXTINF:-1 group-title="Vivir 100 anos Los secretos de las zonas azules" tvg-id="" tvg-logo="" ,Vivir 100 anos Los secretos de las zonas azules (Cap 104) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=b9b69aa4146689fbb0b6d5c7222d3ca383f1f354
+#EXTINF:-1 group-title="Vuelo JK5022  La tragedia de Spanair" tvg-id="" tvg-logo="" ,Vuelo JK5022  La tragedia de Spanair (Cap 103) [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=a6a283c3dcec3940d2592b2978cfc2aaa463292c
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 204) [4K]
 plugin://script.module.horus?action=play&id=389f1c49edf551cc3684c4409e86f898f027a0ad
 #EXTINF:-1 group-title="Warrior" tvg-id="" tvg-logo="" ,Warrior (Cap 301) [4K]
@@ -1719,3 +1893,5 @@ plugin://script.module.horus?action=play&id=3fd73f9a6f99eff454f6a509f1f657f1957d
 plugin://script.module.horus?action=play&id=31ae5c7d3fe1df41909831487fcea1e80aa1ee89
 #EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 106) [HDTV] [HD]
 plugin://script.module.horus?action=play&id=5df23097c09864ee13bc7369eb722f69f7c9d89e
+#EXTINF:-1 group-title="Zorras" tvg-id="" tvg-logo="" ,Zorras (Cap 108) [HDTV] [HD]
+plugin://script.module.horus?action=play&id=73bf8c0edc73c73b3207b87668e852d3c635682c

@@ -5,17 +5,15 @@ from colorama import init, Fore, Style
 # Initialize colorama
 init(autoreset=True)
 
-
 def cargar_configuracion(ruta_config):
     with open(ruta_config, 'r') as config_file:
         configuracion = yaml.safe_load(config_file)
     return configuracion
 
-
 def crear_lista_m3u(archivo_csv, nombre_lista_m3u, enlace_formato, condicion, tipo_filtro=None):
-    with open(archivo_csv, 'r', encoding='utf-8') as csv_file:
+    with open(archivo_csv, 'r', encoding='latin-1') as csv_file:
         reader = csv.DictReader(csv_file, delimiter=';')
-        with open(nombre_lista_m3u, 'w', encoding='utf-8') as m3u_file:
+        with open(nombre_lista_m3u, 'w', encoding='latin-1') as m3u_file:
             m3u_file.write('#EXTM3U\n')
             total_generados = 0
             for row in reader:
@@ -50,7 +48,6 @@ def crear_lista_m3u(archivo_csv, nombre_lista_m3u, enlace_formato, condicion, ti
                 print(Fore.RED + f'No se generaron M3U para {nombre_lista_m3u}')
             else:
                 print(Fore.GREEN + f'Se generaron {total_generados} M3U para {nombre_lista_m3u}')
-
 
 # Cargar la configuración desde el archivo config.yaml
 configuracion = cargar_configuracion('config.yaml')
