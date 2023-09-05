@@ -1,175 +1,175 @@
 #EXTM3U
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" , [Bluray] [SD]
-plugin://script.module.horus?action=play&id=24f4a503cf857813ee2595fd1bc657757051b9d3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" , [Bluray] [HD]
-plugin://script.module.horus?action=play&id=1a9a7b8a10e599f78ad71114a5411da0d32b914b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,10 dias de un mal hombre [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" ,10 dias de un mal hombre [Bluray] [SD]
 plugin://script.module.horus?action=play&id=97a67cd5c67156fd8939058a118f769f4c56d764
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,20 000 especies de abejas [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xsmddONe1QoHaMQS8ilyKA9OPtr.jpg" ,20 000 especies de abejas [Bluray] [SD]
 plugin://script.module.horus?action=play&id=59291a2c05f3d1e6f1c3d78719afbc9f0ab67500
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,20 000 especies de abejas [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xsmddONe1QoHaMQS8ilyKA9OPtr.jpg" ,20 000 especies de abejas [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3546e0aaa175fc3ff22af9fb58ae000f040dbe18
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,97 minutos [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/doliwwEowu9RQ79lQYGOf79eJXC.jpg" ,97 minutos [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=272c7a43320804a730c4d1398e97967aba5527c5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,97 minutos [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/doliwwEowu9RQ79lQYGOf79eJXC.jpg" ,97 minutos [Bluray] [SD]
 plugin://script.module.horus?action=play&id=350af0a766aba1e68ba96f2c2e4b358e96445d34
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,97 minutos [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/doliwwEowu9RQ79lQYGOf79eJXC.jpg" ,97 minutos [Bluray] [HD]
 plugin://script.module.horus?action=play&id=8953cdd8a0f5621a3bc972c78259f65b30a5decc
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4fb6df9b5b23edf22d2d9c62561559a4bc055b00
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A Dios pongo por testigo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=eb7b116f378c41ce601b186db0031d83d7793d9f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,A traves del mar [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7uaPJ3dHfWTImkJqzdHssicPwWU.jpg" ,A traves del mar [4K]
 plugin://script.module.horus?action=play&id=1fd09802b7b6d1af14ee1142a8ae69e8a2bfa01d
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Abrazame fuerte [Bluray] [SD]
+#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mbeY6H8IrynvkUndp9BK18fau0h.jpg" ,Abrazame fuerte [Bluray] [SD]
 plugin://script.module.horus?action=play&id=9d99660cd08e4f13bc9ed3473c94260faab09cf5
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Abrazame fuerte [Bluray] [HD]
+#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mbeY6H8IrynvkUndp9BK18fau0h.jpg" ,Abrazame fuerte [Bluray] [HD]
 plugin://script.module.horus?action=play&id=0c1db01640ed027b6c74974926ba45a2981fe5de
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Agente Stone [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3iEjVseteIY8YnryTKWgVB91Uil.jpg" ,Agente Stone [4K]
 plugin://script.module.horus?action=play&id=9a05582af8af7e14352f7340f2d1c3adddd7e886
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Agente Stone [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3iEjVseteIY8YnryTKWgVB91Uil.jpg" ,Agente Stone [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f7b4815227b58258cc2ac7d744fe4d40dfc41563
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Agente Stone [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3iEjVseteIY8YnryTKWgVB91Uil.jpg" ,Agente Stone [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0f329ce1c32962046abaab3ccbffd5447c93db7d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ytfMwDhkckO8ve43oDwbhYqIJ8c.jpg" ,Algo bonito para variar [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=cc2e7f196d6d5e3374bcb45fd48778f53180acb9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ytfMwDhkckO8ve43oDwbhYqIJ8c.jpg" ,Algo bonito para variar [Bluray] [SD]
 plugin://script.module.horus?action=play&id=86cc6d94704aa8935656d7436dc64c91720cd01d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Algo bonito para variar [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ytfMwDhkckO8ve43oDwbhYqIJ8c.jpg" ,Algo bonito para variar [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3db83135a54479918c4c204a436b01c02ff5a7b3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Alguien que cuide de mi [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2DkjqLckutZDNeY87CRrwjvYbd8.jpg" ,Alguien que cuide de mi [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=cb6d19b2d2f062e8619fde788e1b7caab8bcdebd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Alguien que cuide de mi [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2DkjqLckutZDNeY87CRrwjvYbd8.jpg" ,Alguien que cuide de mi [Bluray] [SD]
 plugin://script.module.horus?action=play&id=03f7edfc3193db29df13174d7357dcd81efa9c74
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Alguien que cuide de mi [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2DkjqLckutZDNeY87CRrwjvYbd8.jpg" ,Alguien que cuide de mi [Bluray] [HD]
 plugin://script.module.horus?action=play&id=0662ca8e0a4458645db63ffa056da22afd8ca905
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Alice carino [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/p97LGx6aSEkvuLEeZlndCe6poJ2.jpg" ,Alice carino [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=2f26f296ee9d49f34cc7d5f4c2924bc8dba9b952
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Alice carino [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/p97LGx6aSEkvuLEeZlndCe6poJ2.jpg" ,Alice carino [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f731d115568dcc1bf000f59ddfd54162628a1b45
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Alice carino [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/p97LGx6aSEkvuLEeZlndCe6poJ2.jpg" ,Alice carino [Bluray] [HD]
 plugin://script.module.horus?action=play&id=8414fa3701cf3d49911990abba0eaee98fa32a4e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg" ,Amigos hasta la muerte [Bluray] [SD]
 plugin://script.module.horus?action=play&id=5aec6f788b74dc0b2ab7ea5bfb5ab4e13e01c994
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos hasta la muerte [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg" ,Amigos hasta la muerte [Bluray] [HD]
 plugin://script.module.horus?action=play&id=23af8d732053a02a8d14c416de724ceeee7fec52
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos Pasajeros 2 [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg" ,Amigos Pasajeros 2 [Bluray] [SD]
 plugin://script.module.horus?action=play&id=d24fd03650c3a141355b4df7338e09de9271917b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amigos Pasajeros 2 [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg" ,Amigos Pasajeros 2 [Bluray] [HD]
 plugin://script.module.horus?action=play&id=c83b99c8b7e92bc127ffb600ea48d2e4ead7b368
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Amigos Pasajeros 2 [4K]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg" ,Amigos Pasajeros 2 [4K]
 plugin://script.module.horus?action=play&id=7bcb668de0add35babec3966f06dac9879095281
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amor al cuadrado por siempre [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/svuvnyQSCn4NPPK6bYiZ1WUqjql.jpg" ,Amor al cuadrado por siempre [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4e6c95d09979bfcd572fc3e64d4bbea4cd7cfaae
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Amor al cuadrado por siempre [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/svuvnyQSCn4NPPK6bYiZ1WUqjql.jpg" ,Amor al cuadrado por siempre [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a9a53c67fb20c349d98b04ec57e2dc5e63642db4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Asedio [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/winCd2ODgLjxLZtUSSRfJ0CNE4.jpg" ,And Just Like That [HDTV] [HD]
+plugin://script.module.horus?action=play&id=2465c431ce7ee63299043fef8e06d872fc7099f9
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8rAxc5S0DSXnWbDxuNIsml4OH65.jpg" ,Asedio [Bluray] [SD]
 plugin://script.module.horus?action=play&id=07e0467e99118c96ff371aeeb80e86a9c38a634d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Asedio [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8rAxc5S0DSXnWbDxuNIsml4OH65.jpg" ,Asedio [Bluray] [HD]
 plugin://script.module.horus?action=play&id=964bd31a7f0a786ed463d2591009c6badfb38b1e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Asombrosa Elisa [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" ,Asombrosa Elisa [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0e929c968a3b1bf8c0c0adbbcfd4b806e336f6f0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Asombrosa Elisa [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" ,Asombrosa Elisa [Bluray] [HD]
 plugin://script.module.horus?action=play&id=12e108ea854984185b051bd40e5e212961f9bf12
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Assassin [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" ,Assassin [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=71810fa57209752a86dac284dd8daaba531703f7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Assassin [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" ,Assassin [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a2e629f5aae6acc16583b5735c8ebb97ff3a41c7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Assassin [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" ,Assassin [Bluray] [HD]
 plugin://script.module.horus?action=play&id=89112ea1c34696cd32bfde4da195a08bdaf2764e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Atrapaalmas [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" ,Atrapaalmas [Bluray] [SD]
 plugin://script.module.horus?action=play&id=2c0248931b42178d825417da5b1ddcafa6ad4c72
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Atrapaalmas [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" ,Atrapaalmas [Bluray] [HD]
 plugin://script.module.horus?action=play&id=48ed9dbab5c03a90baa45620541330b8a51b07a7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Baby Assassins [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vRoFcolwHWADt4EvBdjn5ymo91U.jpg" ,Baby Assassins [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a6f4e60eceeb210731a8b3de8ac41b1943b5ebe2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Baby Assassins [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vRoFcolwHWADt4EvBdjn5ymo91U.jpg" ,Baby Assassins [Bluray] [SD]
 plugin://script.module.horus?action=play&id=c36509219228e16b580578a2adb782ed364f691e
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Baby Assassins [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vRoFcolwHWADt4EvBdjn5ymo91U.jpg" ,Baby Assassins [Bluray] [HD]
 plugin://script.module.horus?action=play&id=abf41e079fb1d65e7ce97d8e4890d343e34a0a36
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btWOXgek5QlhhPO2U1Eup8AWCZ7.jpg" ,Bad City [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f31d88ed2720552e7e8a0e5e1ca773597b7d199b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btWOXgek5QlhhPO2U1Eup8AWCZ7.jpg" ,Bad City [Bluray] [SD]
 plugin://script.module.horus?action=play&id=9182fc896c67452a97a296f4ee499834f6519625
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Bad City [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btWOXgek5QlhhPO2U1Eup8AWCZ7.jpg" ,Bad City [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f81f39c235212106970330cd240842e72ebb9a19
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Barbarians [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg" ,Barbarians [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=ee329127752eee923ff8285175ba962931fde960
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Barbarians [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg" ,Barbarians [Bluray] [SD]
 plugin://script.module.horus?action=play&id=6c5c84f9f8f47cc631d9b2791fa8db3784a84ef4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Barbarians [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg" ,Barbarians [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4fc9ef011d517945b1edc4c474bcc58b79a56d57
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Beautiful Disaster 2023 [FHD]
 plugin://script.module.horus?action=play&id=b673dcd341a12d5a55509ed1145f6787b4b9efaa
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Beautiful Disaster 2023 [HD]
 plugin://script.module.horus?action=play&id=979c7deae0be323d3debdcc9dac19562d613aedd
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Belle y Sebastian La nueva generacion [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eFBNAXSvYdxh0ZwHR7D9pxLDq3Z.jpg" ,Belle y Sebastian La nueva generacion [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=d2aff2753784bdbd43f619ad48387c18b1b6520f
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Belle y Sebastian La nueva generacion [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eFBNAXSvYdxh0ZwHR7D9pxLDq3Z.jpg" ,Belle y Sebastian La nueva generacion [Bluray] [SD]
 plugin://script.module.horus?action=play&id=18cd8015391a679a783b8c9cacf574b361c1c267
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Belle y Sebastian La nueva generacion [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eFBNAXSvYdxh0ZwHR7D9pxLDq3Z.jpg" ,Belle y Sebastian La nueva generacion [Bluray] [HD]
 plugin://script.module.horus?action=play&id=907df734e16cd4a488c7f0e90c4a989df8cd1fab
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zEFMzHaMd13T5io3ZAKm2sQVD57.jpg" ,Big George Foreman [4K]
 plugin://script.module.horus?action=play&id=faeb9d2d32b7d1b859a7e2da845142ed034692b6
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zEFMzHaMd13T5io3ZAKm2sQVD57.jpg" ,Big George Foreman [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=4bc5fe172f56a445a35e6accc2ab065ede1cf7c8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zEFMzHaMd13T5io3ZAKm2sQVD57.jpg" ,Big George Foreman [Bluray] [SD]
 plugin://script.module.horus?action=play&id=1b1c2029fa727978060d64ecd13a66d31aa33a97
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Big George Foreman [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zEFMzHaMd13T5io3ZAKm2sQVD57.jpg" ,Big George Foreman [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d56835a17f73e8ed0229f203768edd9f9ab31237
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bird Box Barcelona [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg" ,Bird Box Barcelona [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f68374dbee24d5df2037c71df20bd35fac7c7ec7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bird Box Barcelona [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg" ,Bird Box Barcelona [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b88b818363b54eacf8fbc9fc490d3aeab03d8adb
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bird Box Barcelona [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg" ,Bird Box Barcelona [Bluray] [HD]
 plugin://script.module.horus?action=play&id=38d044f8b1e39c382754b3f813b9ac57caa60af4
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1T6e8WedMWQTTSTASSv6XHXtmUH.jpg" ,Blue Jean [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=3be2783cfbc275829e8abced1e142cf315c44dd0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1T6e8WedMWQTTSTASSv6XHXtmUH.jpg" ,Blue Jean [Bluray] [SD]
 plugin://script.module.horus?action=play&id=daf3c8c73d86d69474b4605e4d9cbcd10fd484ea
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Jean [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1T6e8WedMWQTTSTASSv6XHXtmUH.jpg" ,Blue Jean [Bluray] [HD]
 plugin://script.module.horus?action=play&id=1334fc9934ad26214783e71cf2f1b0df2fcdd0dd
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Blue Thermal [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xUIX9FA9t4S2SgnPpTcGp9LH3Uz.jpg" ,Blue Thermal [Bluray] [HD]
 plugin://script.module.horus?action=play&id=eeb8ed54cedf8c482ba66d2f1d10c5b39b2ba067
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iOteiNet7rjRPwlmgPTNtZdQUDj.jpg" ,Book Club Ahora Italia [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f672b00b4b59895877845cc1cf0b17a1182ce41d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iOteiNet7rjRPwlmgPTNtZdQUDj.jpg" ,Book Club Ahora Italia [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a8ae804167204fff45c4242e561aaf9737bee7a9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Book Club Ahora Italia [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iOteiNet7rjRPwlmgPTNtZdQUDj.jpg" ,Book Club Ahora Italia [Bluray] [HD]
 plugin://script.module.horus?action=play&id=508660e121cc3b2b87fedddfca93a677f2dd44fb
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bukraken [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lnRNJYmaEJoG07XA0TzBnn88bCS.jpg" ,Bukraken [Bluray] [SD]
 plugin://script.module.horus?action=play&id=9fa9ed8ec717ca4f8d336982fcb29a4156af68c1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Bukraken [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lnRNJYmaEJoG07XA0TzBnn88bCS.jpg" ,Bukraken [Bluray] [HD]
 plugin://script.module.horus?action=play&id=cc09d59e8c48930e22f4378f1da35af73fa73310
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,C4ft4nAzl [FHD]
 plugin://script.module.horus?action=play&id=f0d87c0f8fa7aa37aad58399c5fb358f6b00490e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gpLRIDaSAsvPQW2Hfk3UWM36Ygx.jpg" ,Cancion de paz [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=d8e3a5508947d6aec2b1b2773605e552c6ac4556
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gpLRIDaSAsvPQW2Hfk3UWM36Ygx.jpg" ,Cancion de paz [Bluray] [SD]
 plugin://script.module.horus?action=play&id=fc422652302a36fa427dc21b6dfb29ce3a3a8383
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cancion de paz [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gpLRIDaSAsvPQW2Hfk3UWM36Ygx.jpg" ,Cancion de paz [Bluray] [HD]
 plugin://script.module.horus?action=play&id=721c5b70be2b2066ef43d5a24f5567e5910b6326
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Carrera 2 F1 Gran Premio de Holanda 2023 R 1423 [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=0c2df8bc221aadf01dcb49d75f16fe50b6fc1659
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Carrera F1 Gran Premio de Holanda 2023 R 1423 [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=5c293033245619ae3da37c29e918d3ae0337cab5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cash [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1M7CxKuRhu3bRY1VuSp9LFhDryi.jpg" ,Cash [Bluray] [SD]
 plugin://script.module.horus?action=play&id=85ebd3f4529a585c7890e4f80f304ceb5ea61e41
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cash [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1M7CxKuRhu3bRY1VuSp9LFhDryi.jpg" ,Cash [Bluray] [HD]
 plugin://script.module.horus?action=play&id=afbcaae8f6f78a1d936775b3ac54c72e15890f83
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cenizas en el cielo [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/A57wg9wBylZSnapg6k7Cvqyi6wF.jpg" ,Cenizas en el cielo [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=d9560bf9380ea710f7b663824c1ac767945efe55
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cenizas en el cielo [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/A57wg9wBylZSnapg6k7Cvqyi6wF.jpg" ,Cenizas en el cielo [Bluray] [SD]
 plugin://script.module.horus?action=play&id=e5e2c07cbb63c365965f3b4526da20c7bb4b8a9c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Cenizas en el cielo [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/A57wg9wBylZSnapg6k7Cvqyi6wF.jpg" ,Cenizas en el cielo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=99a0ddc61711c38e92bec3bd4fbea2829f49b51d
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Clasificacion 2 F1 Gran Premio de Holanda 2023 R 1423 [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=09f3be50957b86ac168f98e2afc474b15ed4d3db
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Clasificacion F1 Gran Premio de Italia 2023 R 14 23 [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=a848e5f6187d9a5bfebea180289001cbe9c85e1e
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yGCpehozPDlaczL4Fas1d01mfAH.jpg" ,Cocaine Bear [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=76dc47870e3093f1cd6801b5971cf417ebf841fb
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yGCpehozPDlaczL4Fas1d01mfAH.jpg" ,Cocaine Bear [Bluray] [SD]
 plugin://script.module.horus?action=play&id=dfa0d957ad6c8a8b9367c0f82bbe2b1e718527eb
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Cocaine Bear [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yGCpehozPDlaczL4Fas1d01mfAH.jpg" ,Cocaine Bear [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f1786513b28e936e5bdb736f1538fdae1326b885
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Coelia [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a67292f41fcd730c0af00c021cc68ab8c8cc991a
@@ -177,149 +177,173 @@ plugin://script.module.horus?action=play&id=a67292f41fcd730c0af00c021cc68ab8c8cc
 plugin://script.module.horus?action=play&id=284928b1148a6e18f353c4653a61ac1c2d20f41c
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Coelia [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f19d8edab7b715aa680412accd635a0361894316
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Como Dios manda [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg" ,Como Dios manda [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f27acb66f8cc2609ae0a1b8a54c3586af9883781
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Como Dios manda [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg" ,Como Dios manda [Bluray] [HD]
 plugin://script.module.horus?action=play&id=1d665b1b1d6226dd30e9ded6c39968e61346f7bc
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Conspiracion en El Cairo [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qE9luVrvniOZZ63Zf7qoguNARrM.jpg" ,Conspiracion en El Cairo [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=5ca64c6188779646242f9a00e8364ade87b50bbd
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Conspiracion en El Cairo [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qE9luVrvniOZZ63Zf7qoguNARrM.jpg" ,Conspiracion en El Cairo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a64ad71500f6ec96c6268a33e7e48264569487a3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6piyB7y6glrXSgd2o5nB7RdpIxZ.jpg" ,Cuando termines de salvar el mundo [4K]
+plugin://script.module.horus?action=play&id=2c4634e610010cac26d0deae8c96a548d9cf0400
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6piyB7y6glrXSgd2o5nB7RdpIxZ.jpg" ,Cuando termines de salvar el mundo [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=bbf32fe850c9d24fc6e66bc436c062b309a98698
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Cuando termines de salvar el mundo [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6piyB7y6glrXSgd2o5nB7RdpIxZ.jpg" ,Cuando termines de salvar el mundo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=27b32291b025bb269b48e1d846a0bc596ca0fad7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dampyr [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zAWfB7kaEUUrnTX9ZlaeySAAGgM.jpg" ,Dampyr [4K]
 plugin://script.module.horus?action=play&id=38f3e4f80d56bb2fede1bd8c0cf8561e8458be04
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zAWfB7kaEUUrnTX9ZlaeySAAGgM.jpg" ,Dampyr [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=473e697be8d49a8b5821d3064bc229d572449a8f
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zAWfB7kaEUUrnTX9ZlaeySAAGgM.jpg" ,Dampyr [Bluray] [SD]
+plugin://script.module.horus?action=play&id=b1a2cfffa95757f640bf0462ae21b1b18ee03fe5
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zAWfB7kaEUUrnTX9ZlaeySAAGgM.jpg" ,Dampyr [Bluray] [HD]
+plugin://script.module.horus?action=play&id=aa9a1814a2d831a643d2b9876cbf7b1c54daf11d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Death Link [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a4472d023853e677d6b732ca6258d0d201b91fd4
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Death Link [Bluray] [SD]
 plugin://script.module.horus?action=play&id=9b5a813fe0fa1100bf07993478f1f5306e7dad24
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Death Link [Bluray] [HD]
 plugin://script.module.horus?action=play&id=2931a5f02ab996325283228e2dd1fe4ece7defd2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Desaparecida El caso Lucie Blackman [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pZwwXf5AWW1vogb5eLqUoJVCNuu.jpg" ,Desaparecida El caso Lucie Blackman [Bluray] [SD]
 plugin://script.module.horus?action=play&id=ebf44149083c61521ef5ede2a660c208e939cc9c
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Dinastia de leon [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=ca98e715279943b96e000a8e81b83aabcb02a40c
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Don Cochecito y los caballeros templarios [HD]
-plugin://script.module.horus?action=play&id=03f507681c9901654285a47d42d805dde83299ed
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Don Cochecito y los caballeros templarios [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xNWSKYJtFR66zX6CeMSijQC4C0q.jpg" ,Don Cochecito y los caballeros templarios [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a56def5e48bc671c6ab09cda1040287bdd01be5d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dragon Ball Super Super Hero [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xNWSKYJtFR66zX6CeMSijQC4C0q.jpg" ,Don Cochecito y los caballeros templarios [HD]
+plugin://script.module.horus?action=play&id=03f507681c9901654285a47d42d805dde83299ed
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg" ,Dragon Ball Super Super Hero [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=32a41aff453657eb2690ae6aca02eccf23d4d412
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dragon Ball Super Super Hero [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg" ,Dragon Ball Super Super Hero [Bluray] [SD]
 plugin://script.module.horus?action=play&id=ff820fe04383d7185f1e191a07ca71d1f8a1506f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Dragon Ball Super Super Hero [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg" ,Dragon Ball Super Super Hero [Bluray] [HD]
 plugin://script.module.horus?action=play&id=9927fe3ce09b0c59b5dfb95d1e41105da6f033f8
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Eden [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mu0uY65IaNCW9z5AydAUFBAGrcP.jpg" ,Eden [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4c24270b448b24fe8c3ec1bae3413db75299ad5a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Eden [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mu0uY65IaNCW9z5AydAUFBAGrcP.jpg" ,Eden [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3ee3977bf78de93719e4a8f570dd9cf31c0a05c5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,EL Aleteo de las mariposas [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yPXS5accFSSYrRwhHsqsDzdCaEy.jpg" ,EL Aleteo de las mariposas [FHD]
 plugin://script.module.horus?action=play&id=2b075e8f1a45d9c46c5394f4c7cdad70559c5bd9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El caftan azul [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El amor mata [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=f10fecc0525671d4095e79154c4f6c73461997fd
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El amor mata [Bluray] [HD]
+plugin://script.module.horus?action=play&id=73d3d86b8c2cafebd45e1f6844a606b21f879544
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nvEIodsUKbE5wR7WTHJZifMIu1R.jpg" ,El caftan azul [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=18c8d4e855e74eb69624036b003afc2cba800dc3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El caftan azul [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nvEIodsUKbE5wR7WTHJZifMIu1R.jpg" ,El caftan azul [Bluray] [SD]
 plugin://script.module.horus?action=play&id=eb23c0cf9242acc179bcedf4b4cbd24bf9e9276e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El clon de Tyrone [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/38dnJYc0JhXXigsycjZZCU8VsRF.jpg" ,El clon de Tyrone [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b8b7c62b5c1de5d597b2bfccd69faffce5b5b3e1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El clon de Tyrone [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/38dnJYc0JhXXigsycjZZCU8VsRF.jpg" ,El clon de Tyrone [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d698dbc59c93234d0ac113682f7232ab873c1cb6
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El club de los lectores criminales [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" ,El club de los lectores criminales [Bluray] [SD]
 plugin://script.module.horus?action=play&id=93c0d8e0d8d3a36e0dd193821d72aeedc6198c4b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El club de los lectores criminales [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" ,El club de los lectores criminales [Bluray] [HD]
 plugin://script.module.horus?action=play&id=58575e05319e7a0f18f1bba8bab531a712b880f0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2UvgpLrhVMFI5kkGqh6QvLHooZT.jpg" ,El cobrador [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=b8d41ffc1dbf0dac1d5c79b27f0ae6c4f5bff2e7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2UvgpLrhVMFI5kkGqh6QvLHooZT.jpg" ,El cobrador [Bluray] [SD]
 plugin://script.module.horus?action=play&id=390cdccb46dcc2f91bf727098bda87682cbbfa5a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El cobrador [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2UvgpLrhVMFI5kkGqh6QvLHooZT.jpg" ,El cobrador [Bluray] [HD]
 plugin://script.module.horus?action=play&id=49abdcf8704c44db9f63e13015c57681c5018109
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar?a [Bluray] [SD]
 plugin://script.module.horus?action=play&id=6c70412cfd1e7b96162ff082d3ae0986ca1f008e
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El despertar de Mar?a [Bluray] [HD]
 plugin://script.module.horus?action=play&id=149431999df1d26e688c7e61fbd53e32c92b07b7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qgJmAAho5Ghki8dltVfL3S84LNR.jpg" ,El final que quiero [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=1dcfa94ba759419ea87ded6b47ca86a14f498739
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qgJmAAho5Ghki8dltVfL3S84LNR.jpg" ,El final que quiero [Bluray] [SD]
 plugin://script.module.horus?action=play&id=cb905f921db0df2dbffee7221efe50929ac880e9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El final que quiero [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qgJmAAho5Ghki8dltVfL3S84LNR.jpg" ,El final que quiero [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5b3845d0cb97027061b1c5ba23edb796ef3d983a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El impacto de Van Damme [HDTV] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/cVnOq6KT7QSoR61K0XjsMjdhUS.jpg" ,El impacto de Van Damme [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=bd8bc4281ed330285de8c123cd08163dd1b50c08
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xbeGHbIkS2K8kM1ofNSSpg77p1m.jpg" ,El inocente [Bluray] [SD]
 plugin://script.module.horus?action=play&id=da8d1dfb590bb0d9263a04873215f9aa3a6cc239
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xbeGHbIkS2K8kM1ofNSSpg77p1m.jpg" ,El inocente [Bluray] [HD]
 plugin://script.module.horus?action=play&id=679af356f7bdb490d7576b31d964019bb36ec4a5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El inocente [HDTV] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xbeGHbIkS2K8kM1ofNSSpg77p1m.jpg" ,El inocente [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=fed2e1e768a2fa8713d1f8161ec7b1b6a6fcd61b
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El Mundo De Ayer [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4eLkerLsON1u85o3BR5q7mM7laN.jpg" ,El Mundo De Ayer [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=51ba9d85960698dce31d233c6caa6890cd390a59
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4eLkerLsON1u85o3BR5q7mM7laN.jpg" ,El Mundo De Ayer [Bluray] [SD]
+plugin://script.module.horus?action=play&id=bd0bbe9596412466a3bbebd8b6224f8c745232d2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4eLkerLsON1u85o3BR5q7mM7laN.jpg" ,El Mundo De Ayer [Bluray] [HD]
+plugin://script.module.horus?action=play&id=d63522d557f40b35940b75064b4d72d21be66aff
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/13p8DkddbY4ASqHlrwfWDHpvqmi.jpg" ,El pequeno Nicolas [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=35fadc203a14f9d37ea595ed1425ab065eba46c6
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El pequeno Nicolas [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/13p8DkddbY4ASqHlrwfWDHpvqmi.jpg" ,El pequeno Nicolas [Bluray] [HD]
 plugin://script.module.horus?action=play&id=44ca6d8d0a1b07e554294d9dbbe2a6f28a7da931
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El peso de la duda [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eO1oEoJKqksZm6CtnjzSXpQJOyz.jpg" ,El peso de la duda [Bluray] [SD]
 plugin://script.module.horus?action=play&id=6d3095478a370771025d222b3efa0cac197f7f36
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El peso de la duda [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eO1oEoJKqksZm6CtnjzSXpQJOyz.jpg" ,El peso de la duda [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d9245c89efe67b4ded55f494f6add1a1a305f88a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,El peso de la duda [HDTV] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eO1oEoJKqksZm6CtnjzSXpQJOyz.jpg" ,El peso de la duda [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=850e7aef67d35b60ed071b0811de7d94ef15016f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zJpmdUSoowSxDygSsggDaoj8orH.jpg" ,El pico del diablo [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=5ad12f560aaa17c515c299061e5f1410a47d25e8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El pico del diablo [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zJpmdUSoowSxDygSsggDaoj8orH.jpg" ,El pico del diablo [Bluray] [SD]
+plugin://script.module.horus?action=play&id=683cf4d7e8ad8a8a28d87710e84e062dec87dd8c
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zJpmdUSoowSxDygSsggDaoj8orH.jpg" ,El pico del diablo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d3ce4c1194630c2d93e52502005c3e11a8ce038e
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iC1CkyRwsurocvBouJgtMixYyUO.jpg" ,El refugio [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f6feee53407aeb4037c91ef4d45ceee7efd600ba
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iC1CkyRwsurocvBouJgtMixYyUO.jpg" ,El refugio [Bluray] [SD]
 plugin://script.module.horus?action=play&id=1efb2d591bb8e3cd5a6fd6af7189cc3a83bf9d60
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,El refugio [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iC1CkyRwsurocvBouJgtMixYyUO.jpg" ,El refugio [Bluray] [HD]
 plugin://script.module.horus?action=play&id=7845d6b80d04e1deae157b903f786a16c8fb5bb5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El regreso de Manson [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jdkQCHDsPhPH28MDOsJDaSDgg81.jpg" ,El regreso de Manson [Bluray] [SD]
 plugin://script.module.horus?action=play&id=7d452656e0c76ea8036ad5095d0286dda3de8b76
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El regreso de Manson [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jdkQCHDsPhPH28MDOsJDaSDgg81.jpg" ,El regreso de Manson [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5b8140ccc58e32da941525c7c65907d50035d03f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El regreso de Manson [HDTV] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jdkQCHDsPhPH28MDOsJDaSDgg81.jpg" ,El regreso de Manson [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=231aa55f08ffdad80bc1aa430a5b2a42ebbc88a1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2kagV5DoK76Dk98mldw4H8ME3kN.jpg" ,El reino secreto [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f08960c2f0822c3737be2fe3df0b607c34d97de2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El reino secreto [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2kagV5DoK76Dk98mldw4H8ME3kN.jpg" ,El reino secreto [Bluray] [HD]
 plugin://script.module.horus?action=play&id=0d387fa21c289b34b68bb5b1ce30437fa6dce7d2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El Rey Mono [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vJ9MZHG3XQDusXLIbhRAzTlcZ2v.jpg" ,El Rey Mono [Bluray] [HD]
 plugin://script.module.horus?action=play&id=2bb8b6a2b7e8027774f54cb1adf593165373ab8d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,El robo de mil millones de dolares [Bluray]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4PmOINzsZAIqMeUMFWPruQvnYgf.jpg" ,El robo de mil millones de dolares [Bluray]
 plugin://script.module.horus?action=play&id=87474bc6a15c8ad04786b8351be9daf93889aa0b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,En caida libre [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ayZdOkTCx3pdS6FszXvDXicNoaO.jpg" ,En caida libre [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a57510dedd1c89a4d779dc674d9409faac689635
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,En caida libre [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ayZdOkTCx3pdS6FszXvDXicNoaO.jpg" ,En caida libre [Bluray] [HD]
 plugin://script.module.horus?action=play&id=64528d9c4b26706172b89bc5b8aa140144f7078a
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Esos a?os [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=ee5c2ee01681c3975ac0cd74346c89c55f516bd9
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 Gran Premio de Holanda Libres 1 2023 R 1423 [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=36d53d1b13dfb34f7db97ec65ac2497b77459583
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Fatum [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 Gran Premio de Italia Carrera 2023 R 15 23.torrent
+plugin://script.module.horus?action=play&id=59cff9abe8f0d0130d0abb4869abcac7e8190d02
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xzmmJAa3OX302flRxg6fEf18FLL.jpg" ,Fatum [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4352dbc223807e3d28a9c1927649f93b3ffaefc1
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fatum [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xzmmJAa3OX302flRxg6fEf18FLL.jpg" ,Fatum [Bluray] [SD]
 plugin://script.module.horus?action=play&id=2e0c29e055ad8a2417f54da104bf604eb969ab9b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Felicidad para principiantes [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mUfV8e0ub6oHngppOQ4XPtV9QbE.jpg" ,Felicidad para principiantes [Bluray] [SD]
 plugin://script.module.horus?action=play&id=6c30213fbbf6e14a7c60e7286e038c1e90280248
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Figli [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oLOhQCRLeJkHA5InHWrlDf3Daf3.jpg" ,Figli [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=7800d8e6e962bed5b60bbaf6255d04e256dc1cd8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Figli [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oLOhQCRLeJkHA5InHWrlDf3Daf3.jpg" ,Figli [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0c442d86c76d5b0e71b38987baae7b9c337cc29d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Figli [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oLOhQCRLeJkHA5InHWrlDf3Daf3.jpg" ,Figli [Bluray] [HD]
 plugin://script.module.horus?action=play&id=1a8fd1d61908c60fc5e79112f07a3221ece45467
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Flash [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" ,Flash [4K]
+plugin://script.module.horus?action=play&id=931850edb8d9ec3c034ce8b4f128761de215ed34
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" ,Flash [Bluray] [SD]
 plugin://script.module.horus?action=play&id=87666cf04d5d6af14f955e2db4b6ef81f566a3f0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Flash [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" ,Flash [Bluray] [HD]
 plugin://script.module.horus?action=play&id=8b447a3a46a0d6bf54a93b9bf00a1baa4eb2b0e3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Foodies [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/e2cR7HpsBho0OM77Xs1wxF5imBx.jpg" ,Foodies [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=0717976a83f238310e1f31ebbce25742ed9aa876
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Foodies [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/e2cR7HpsBho0OM77Xs1wxF5imBx.jpg" ,Foodies [Bluray] [SD]
 plugin://script.module.horus?action=play&id=7ebbea0eb5245ea46afab9fb79eef972b0d4ece9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Foodies [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/e2cR7HpsBho0OM77Xs1wxF5imBx.jpg" ,Foodies [Bluray] [HD]
 plugin://script.module.horus?action=play&id=c4b5132cae80eca33b9271d127bb4f60f2d97e4a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Fuerza bruta [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kf263PuO1qh6WCMeZ0XZf1GkbaF.jpg" ,Fuerza bruta [Bluray] [SD]
 plugin://script.module.horus?action=play&id=56600fcb06143a6c4927ebee5b090bb4cf11bc2c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Fuerza bruta [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kf263PuO1qh6WCMeZ0XZf1GkbaF.jpg" ,Fuerza bruta [Bluray] [HD]
 plugin://script.module.horus?action=play&id=558bd3e8b0afe221d8d6f80f5c8eea3c9ed6c536
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,G-Loc [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=8d23aa14644ccb2fb65579fdb7a8f0648d54c9d9
@@ -331,101 +355,105 @@ plugin://script.module.horus?action=play&id=d9bf335ddbed178c951eab1f648bc1bb00ec
 plugin://script.module.horus?action=play&id=3376cdbcfcbb801cf80cfd7caa480ea20bee05e0
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Ganandose el cielo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=912fd455026c4d8a5eabc57cfa584fdb310af90e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Gatlo [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/39h84nFtBfYd0iYm3C8Jo8naSII.jpg" ,Gatlo [Bluray] [SD]
 plugin://script.module.horus?action=play&id=af39833dc52d34f5ccf8147ec0426496344b6303
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Gatlo [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/39h84nFtBfYd0iYm3C8Jo8naSII.jpg" ,Gatlo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=1b613f3030afa0cc8d33874a98fbb482d921cf57
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/flvBRXTrbGr5SyGgCk3b3JACutL.jpg" ,Grieta [4K]
+plugin://script.module.horus?action=play&id=1e90b0afa225b9fe08b7da12cc5b9472f8312d1f
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/flvBRXTrbGr5SyGgCk3b3JACutL.jpg" ,Grieta [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=bf39ec1ed514e50423f292775f86bd9647508ff5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/flvBRXTrbGr5SyGgCk3b3JACutL.jpg" ,Grieta [Bluray] [SD]
 plugin://script.module.horus?action=play&id=7f548b3147fbd7874b76210560654b6207427f3d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Grieta [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/flvBRXTrbGr5SyGgCk3b3JACutL.jpg" ,Grieta [Bluray] [HD]
 plugin://script.module.horus?action=play&id=158f23d7ab3fbaefef523c6c26773a8abe1efee2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Gringa [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7K3MPwWgUu2i6VT0P3Kcp6s8yi8.jpg" ,Gringa [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a7a19fda98ec179e515b1ad3ac5e4a6e94deefff
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Gringa [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7K3MPwWgUu2i6VT0P3Kcp6s8yi8.jpg" ,Gringa [Bluray] [SD]
 plugin://script.module.horus?action=play&id=920101e7df2977e51835959e698908ef1e860bcc
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Gringa [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7K3MPwWgUu2i6VT0P3Kcp6s8yi8.jpg" ,Gringa [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d4b30acfd0e5c973afee393ee6766586f9d8c71d
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [4K]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" ,Guardianes de la galaxia Vol 3 [4K]
 plugin://script.module.horus?action=play&id=01f97b1cfc6d1335674b41eb0df929396086c1ea
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" ,Guardianes de la galaxia Vol 3 [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=7542862cad91a68be5c9241fb10eb4c30037bbab
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" ,Guardianes de la galaxia Vol 3 [Bluray] [SD]
 plugin://script.module.horus?action=play&id=22efa1e5ba86dc36fb2caf7dc15d8a8a1f0c509b
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Guardianes de la galaxia Vol  3 [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" ,Guardianes de la galaxia Vol 3 [Bluray] [HD]
 plugin://script.module.horus?action=play&id=2813d6c72d78914956680d12d532e6d9280315a3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,H4Z4RD [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3w0QAYxxlNsAD347hGPv14uYB0G.jpg" ,H4Z4RD [Bluray] [SD]
 plugin://script.module.horus?action=play&id=dbb325e0b0d22a5ffb592943bd415c19ae484ba9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,H4Z4RD [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3w0QAYxxlNsAD347hGPv14uYB0G.jpg" ,H4Z4RD [Bluray] [HD]
 plugin://script.module.horus?action=play&id=44ff9413f09d6b3e1ee008463c651d0300e024fd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Hanna y los monstruos [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/b12vzbJdKWoIzH5qMvDywfZ9al3.jpg" ,Hanna y los monstruos [Bluray] [HD]
 plugin://script.module.horus?action=play&id=450596eae19453c71231306638cab1db840391f0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4DUEJoXjEzRwt6w12SiI3OfOabw.jpg" ,Harka [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a1861288cb5902c6bdd633e24df5a476e9b161e8
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4DUEJoXjEzRwt6w12SiI3OfOabw.jpg" ,Harka [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0c779f8113a97856cb4210bdf7b639c15dd3a49c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Harka [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4DUEJoXjEzRwt6w12SiI3OfOabw.jpg" ,Harka [Bluray] [HD]
 plugin://script.module.horus?action=play&id=2bb593b336a510a2f92620761d69ef7e54f6db20
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Hidden Strike [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" ,Hidden Strike [Bluray] [SD]
 plugin://script.module.horus?action=play&id=671eae85079815ccc15af8829c4a77c0947236a0
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Hidden Strike.torrent
 plugin://script.module.horus?action=play&id=a81d667594aeb3d591e296c3e8d65767b9179db8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Huye conejo huye [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bWPEl0K0t697HGjIPZStNMByjY3.jpg" ,Huye conejo huye [4K]
 plugin://script.module.horus?action=play&id=06196203ea7d0b251cb062834cd2cfd8c8a264df
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Huye conejo huye [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bWPEl0K0t697HGjIPZStNMByjY3.jpg" ,Huye conejo huye [Bluray] [SD]
 plugin://script.module.horus?action=play&id=6c7376880e1a60c54f66f3e366d644e0b20dc48a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Huye conejo huye [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bWPEl0K0t697HGjIPZStNMByjY3.jpg" ,Huye conejo huye [Bluray] [HD]
 plugin://script.module.horus?action=play&id=10ab9a0f4b8dedb66609c1ea4654a9478e564955
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,IlBo3mo [FHD]
 plugin://script.module.horus?action=play&id=4d0bb99285932e730b4031187b59171b3406478c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" ,Indiana Jones y el dial del destino [4K]
 plugin://script.module.horus?action=play&id=7bcfcdbdcbf0f729ea56b7f0808f581f99516751
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" ,Indiana Jones y el dial del destino [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=8b4d85ea0b555337d50d62454d5fc07db25d890a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" ,Indiana Jones y el dial del destino [Bluray] [SD]
 plugin://script.module.horus?action=play&id=5dcd5b5f6184b695f97c7cdb4d564ef736d0bdb7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Indiana Jones y el dial del destino [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" ,Indiana Jones y el dial del destino [Bluray] [HD]
 plugin://script.module.horus?action=play&id=20f03342c67ee137231256ce3cc37d5c676a49b0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" ,Insidious La puerta roja [4K]
 plugin://script.module.horus?action=play&id=4ca43bf6b8fb6fec41f20f55a83c1ab1811ed58a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" ,Insidious La puerta roja [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=19022c9fece24700af9a595dcdf22d855c130551
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" ,Insidious La puerta roja [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b69cc392ac6787153c0d1e9c11f80958fd7eaedd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Insidious La puerta roja [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" ,Insidious La puerta roja [Bluray] [HD]
 plugin://script.module.horus?action=play&id=186b59d64f1bd569dc02e55bef4acfc3dcbc2d56
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=3b746119a8f4660337fb0bfdff8051cb255651f7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a945804c49fe94181e48536110f5c2c362abd382
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg" ,Inspector Sun y la maldicion de la viuda negra [Bluray] [HD]
 plugin://script.module.horus?action=play&id=40120a18de3c8786745e8fc997f0ec820b6e3efe
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Intoxicacion La cruda verdad de nuestra comida [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lJLSPzS1zdFDNQRBe8zvi3m4oMS.jpg" ,Intoxicacion La cruda verdad de nuestra comida [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=559eedd0d583130fcbb37bb3d51bf593a68dca2e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jagun Jagun [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jTLgX0DgJS8vMCroe4NGgUD04jd.jpg" ,Jagun Jagun [Bluray] [SD]
 plugin://script.module.horus?action=play&id=55dfdcd192444fd9fcba3592f77ad23370c306e2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jagun Jagun [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jTLgX0DgJS8vMCroe4NGgUD04jd.jpg" ,Jagun Jagun [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f927f0f5a47786e2d02a64c96d868bfe1c49a33c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kPlknIjzXkmhmR24NfXa4ECc5Wm.jpg" ,Jeepers Creepers El renacer [4K]
 plugin://script.module.horus?action=play&id=60037376409912c680744b350b2a00669b184d2b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kPlknIjzXkmhmR24NfXa4ECc5Wm.jpg" ,Jeepers Creepers El renacer [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=48a497b5c8ddec735eb07b23f573fc1e0ee8b9e5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kPlknIjzXkmhmR24NfXa4ECc5Wm.jpg" ,Jeepers Creepers El renacer [Bluray] [SD]
 plugin://script.module.horus?action=play&id=bc778739b92d604edbb50375f7d3937f704eca45
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Jeepers Creepers El renacer [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kPlknIjzXkmhmR24NfXa4ECc5Wm.jpg" ,Jeepers Creepers El renacer [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d3268d8be4cdc6a3a27fed48563e454c6bba62c5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ajQaw8mMCU30OR3y2eeHrLLxzpr.jpg" ,Jesus Revolution [4K]
 plugin://script.module.horus?action=play&id=192fd1eb4790f9b3e71c96ee1a901f128535620b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ajQaw8mMCU30OR3y2eeHrLLxzpr.jpg" ,Jesus Revolution [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a29b2a848083320b100cbb3fcf8fdaab3638b678
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ajQaw8mMCU30OR3y2eeHrLLxzpr.jpg" ,Jesus Revolution [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0e8e3b664825f24e9d28ab04d8fff458c923d37d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Jesus Revolution [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ajQaw8mMCU30OR3y2eeHrLLxzpr.jpg" ,Jesus Revolution [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4459fc8000fc28b907f41ac1858dc3ee4a11a697
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Juego de amor [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Jose Mota Live Show - Programa 5.torrent
+plugin://script.module.horus?action=play&id=25eb42489e59dc675d3b7163ce825f8a4b406507
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yKM4TTEiYeVQs9qAti57z6YpOlx.jpg" ,Juego de amor [Bluray] [SD]
 plugin://script.module.horus?action=play&id=51bceb6a52c4a8506f05fbe3f15b953ab00a090d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Juego de amor [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yKM4TTEiYeVQs9qAti57z6YpOlx.jpg" ,Juego de amor [Bluray] [HD]
 plugin://script.module.horus?action=play&id=eeed77aeac9bcf57eeb335ebae3d6017b587922d
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=076b2d901a7ebff4e7c1efb1108b59047417495c
@@ -433,219 +461,237 @@ plugin://script.module.horus?action=play&id=076b2d901a7ebff4e7c1efb1108b59047417
 plugin://script.module.horus?action=play&id=8241958d4e60584ce4c0286116aac9c9cb19082a
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Kill Mode [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a7e22f77f3cabe52bdbafb3b7f3785b3cb45ba0a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie [4K]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La doble vida de Kim Novak [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=185dcda2d8006aaf8ee05844453cac3708b28a26
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg" ,La fiebre de los peluches Beanie [4K]
 plugin://script.module.horus?action=play&id=818fcf5a3f9e4a7c4686baacb13ec66e79a747ec
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg" ,La fiebre de los peluches Beanie [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f3b1c459771044df7b8f40a969267fa5fd3da4c8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg" ,La fiebre de los peluches Beanie [Bluray] [HD]
 plugin://script.module.horus?action=play&id=bebc48282af987856b3402475fba677569af754d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La fiebre de los peluches Beanie [HDTV] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg" ,La fiebre de los peluches Beanie [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=e4183f5574d5b68299f7b12e823ffffe9b8ba87b
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,La fuga del capitan Volkonogov [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ccmtOFDFKU2hhKBVPGj6UntmozH.jpg" ,La flauta magica [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=255bbf366ce441beabe1595e67790a350b9e281a
+#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ut8aYq7fJ91WqJFVULuiy4sbbQQ.jpg" ,La fuga del capitan Volkonogov [Bluray] [SD]
 plugin://script.module.horus?action=play&id=67a4164557ed4b18ec0a7df47db5798292bb5667
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,La fuga del capitan Volkonogov [Bluray] [HD]
+#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ut8aYq7fJ91WqJFVULuiy4sbbQQ.jpg" ,La fuga del capitan Volkonogov [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a16e417e1b01f3ecc5a89adb52e4d05c9941341d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kH1rOzSQuRurtTMmlpP8VfTZZMf.jpg" ,La gran juventud [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=9fcde702d85fe325abcdbede95b32eb618c62235
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kH1rOzSQuRurtTMmlpP8VfTZZMf.jpg" ,La gran juventud [Bluray] [SD]
 plugin://script.module.horus?action=play&id=629b2e05ddd62e4b5232bc734f9672647dc9322a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La gran juventud [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kH1rOzSQuRurtTMmlpP8VfTZZMf.jpg" ,La gran juventud [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5792b1470a5cf3c9c2265adca0e5263a56227714
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/neh3P3A70Yisxjz0gHX2LHdjENX.jpg" ,La hija eterna [4K]
 plugin://script.module.horus?action=play&id=48ba0834ed94d8fd082103cc00cf953c409cde9d
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/neh3P3A70Yisxjz0gHX2LHdjENX.jpg" ,La hija eterna [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=4b83e9fcad1f79b583b727290ebe5abe77f1246c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/neh3P3A70Yisxjz0gHX2LHdjENX.jpg" ,La hija eterna [Bluray] [SD]
 plugin://script.module.horus?action=play&id=022f5c9ab3b0528b6898c2730df21b92936f26e1
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La hija eterna [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/neh3P3A70Yisxjz0gHX2LHdjENX.jpg" ,La hija eterna [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4f15c8f9cc71c9394de4e944e6750b60d4442a8c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La impaciencia del corazon [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2bbfyBh5zUXXQ1MTHqeggRfJbG7.jpg" ,La impaciencia del corazon [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4e739fca31852c12e4a5a888cc6592e6b2775e31
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La impaciencia del corazon [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2bbfyBh5zUXXQ1MTHqeggRfJbG7.jpg" ,La impaciencia del corazon [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5156848b1c6ddc7ced5c15dfc3348705e8be953f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jS2FeU4gceQm5nTGx8xNeIuqVBt.jpg" ,La indignada Annie [Bluray] [SD]
 plugin://script.module.horus?action=play&id=2fb611ccf2ebf15934065e73c654cd3ee428b948
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La indignada Annie [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jS2FeU4gceQm5nTGx8xNeIuqVBt.jpg" ,La indignada Annie [Bluray] [HD]
 plugin://script.module.horus?action=play&id=e9eb1689dc7cef9b209a58a117e247907c68bbd4
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La inspiracion mas profunda [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rl4AkmB2nAMaTaYZQV0pwesOz3e.jpg" ,La inspiracion mas profunda [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=1df0fe94dd7e6ca1152d420b285a3239d47aa5a9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La mujer de Tchaikovsky [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/52JeZVi0FIDgv4nHfQPkZ6Oc2T3.jpg" ,La mujer de Tchaikovsky [Bluray] [SD]
 plugin://script.module.horus?action=play&id=804f1bc738f8b081dac83090fa76e0c7ddd062d8
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La mujer de Tchaikovsky [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/52JeZVi0FIDgv4nHfQPkZ6Oc2T3.jpg" ,La mujer de Tchaikovsky [Bluray] [HD]
 plugin://script.module.horus?action=play&id=033ad5509a3bf82264ea1ad767d8a814ecedde19
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La noche [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rzAShiFrU6tSSr9gLD5AxKKwtOo.jpg" ,La noche [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4256a78fa675540f8d3820d4424a7ddb5af1fda5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La noche [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rzAShiFrU6tSSr9gLD5AxKKwtOo.jpg" ,La noche [Bluray] [HD]
 plugin://script.module.horus?action=play&id=efa86c926ffb31b1acc21aa439a4006430785dde
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La novia de rojo [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/TWr0A8eyPj7JO6WhdctWrrSIQq.jpg" ,La novia de rojo [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=9c9b3b0c3b2de7be5b6201722649b2901ef312b0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La novia de rojo [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/TWr0A8eyPj7JO6WhdctWrrSIQq.jpg" ,La novia de rojo [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b30f24e44ad3a81311e1ff1e806a6e7991749d31
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La novia de rojo [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/TWr0A8eyPj7JO6WhdctWrrSIQq.jpg" ,La novia de rojo [Bluray] [HD]
 plugin://script.module.horus?action=play&id=82481c79e35413bf2d21e5979bb9aa7205ffb0b7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La paradoja de Antares [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5cvxTGDi56ZZeuycUm1lomFNzN6.jpg" ,La paradoja de Antares [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0f10175c6d2ee7e0cdb476158ce4bdb1e1010fe3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La paradoja de Antares [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5cvxTGDi56ZZeuycUm1lomFNzN6.jpg" ,La paradoja de Antares [Bluray] [HD]
 plugin://script.module.horus?action=play&id=807ee35664fd3645ac958c875449001829d316d5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La primera purga [4K]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg" ,La primera purga [4K]
 plugin://script.module.horus?action=play&id=8f8ab702fbf062a3d9d2d88d7bf34aa980e94591
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La semilla [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xATwuFVNRZqKvQecVIgSlPaNlgH.jpg" ,La semilla [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=ac17f3397af0c505166d1f6ca229cd830f35bec6
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La semilla [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dYbp4NwCTQN8JLxKh5i4vech3td.jpg" ,La semilla [Bluray] [SD]
 plugin://script.module.horus?action=play&id=cd821aa7d319943a50041a47db397f8334b8d092
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La semilla [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dYbp4NwCTQN8JLxKh5i4vech3td.jpg" ,La semilla [Bluray] [HD]
 plugin://script.module.horus?action=play&id=e7dc61158e4240ad2a92ca73ec9ee605795c1685
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" ,La sirenita [4K]
 plugin://script.module.horus?action=play&id=cb0a69c52ccba4d6ff5f853ae5f103ef88125373
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" ,La sirenita [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=620a3cd9a0e127a9f6c2413cdcce51b29545dde4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" ,La sirenita [Bluray] [SD]
 plugin://script.module.horus?action=play&id=111b30646e36dc235be8ca0f905612785d66bf9e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,La sirenita [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" ,La sirenita [Bluray] [HD]
 plugin://script.module.horus?action=play&id=63a24549a7221506ca45d40f9f796779d631b765
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2fQyr4C5sMfQkfZHxruG0ZBcu0g.jpg" ,La sombra del crimen [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f24b73e8dbf147a3617bbda2a0a92f89ead703d9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2fQyr4C5sMfQkfZHxruG0ZBcu0g.jpg" ,La sombra del crimen [Bluray] [SD]
 plugin://script.module.horus?action=play&id=30b7337cbd2e7833000fe451769379096b9c0fd9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,La sombra del crimen [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2fQyr4C5sMfQkfZHxruG0ZBcu0g.jpg" ,La sombra del crimen [Bluray] [HD]
 plugin://script.module.horus?action=play&id=8d54cd8b2951a12ae772a4bd7c98d4f8debddc0b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x2JI0osuzgyd0YDRigfCFVUdg0R.jpg" ,La vida sin ti [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=1b8428182d373fdd627e25772a813f7b64de3716
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg" ,Lamborghini El hombre detras de la leyenda [4K]
 plugin://script.module.horus?action=play&id=efda6914afecfa3fb542f4077cd0643bfc75ad51
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg" ,Lamborghini El hombre detras de la leyenda [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=9606f175a0f9d8ba7423df80b9c4b922a8bf1f07
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg" ,Lamborghini El hombre detras de la leyenda [Bluray] [SD]
 plugin://script.module.horus?action=play&id=9d4374ef944cedf05d2592217b9b1eca32aa55b9
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lamborghini El hombre detras de la leyenda [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg" ,Lamborghini El hombre detras de la leyenda [Bluray] [HD]
 plugin://script.module.horus?action=play&id=9164e919132e47c11ae46d1bb2bca262ba4d6986
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las estrellas al mediodia [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/f5V3xlghc9UJG2sF44nzQwyAl4R.jpg" ,Las estrellas al mediodia [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=9c1b4ec17c8adbdce5ec8845dae5d217a4d94e3c
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Las Noches De Tef?a 1x05 Forte Imaginatio [FHD]
 plugin://script.module.horus?action=play&id=89bf8a9d89e949e75032734092f854a33f2f670e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las ocho montanas [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/k005afxR9TZSFRcFN5XiPEjNQ8C.jpg" ,Las ocho montanas [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=690b94646cefa6988d006a5573cfdbc560b50389
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/k005afxR9TZSFRcFN5XiPEjNQ8C.jpg" ,Las ocho montanas [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4401915c4a9bf9ce998289b9bc821cb002790abe
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Las ocho montanas [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/k005afxR9TZSFRcFN5XiPEjNQ8C.jpg" ,Las ocho montanas [Bluray] [HD]
 plugin://script.module.horus?action=play&id=55838fff2578ce95bf0e88327aba9c3cd65027f9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequenas victorias [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7abkBKQ65ktmLus53D8d9BVEDvp.jpg" ,Las pequenas victorias [Bluray] [SD]
 plugin://script.module.horus?action=play&id=3cc5c8bcf9cec2f9d77a3ca91865fbb53dd91de1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequenas victorias [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7abkBKQ65ktmLus53D8d9BVEDvp.jpg" ,Las pequenas victorias [Bluray] [HD]
 plugin://script.module.horus?action=play&id=81b6850662caad7328fc2db65f0114bd91d7d7c4
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Las pequexas victorias [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=ee27e0c9fb1691c124079715855c26133a85644a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Libelula [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nXz7AyTMCiJrrnLiZYJDfR7DoF0.jpg" ,Libelula [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0fdd5f121d2d25ce687026d4c5b71acf5c09a775
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Libelula [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nXz7AyTMCiJrrnLiZYJDfR7DoF0.jpg" ,Libelula [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f4469f5b1d2806b223cfbf7a9fea7f110a5a185f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lo que nunca te dije pero deberia haberte dicho [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Libres 2 F1 Gran Premio de Italia 2023 R 14 23 [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=79e1a4b3448eaf4324abb5c6545af1286616edcc
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Libres 3 F1 Gran Premio de Italia 2023 R 14 23 [HDTV] [FHD]
+plugin://script.module.horus?action=play&id=5cf92f2264710ae1a714019d8c6dcdc7282492c7
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nLe01lWFtLJBxOoFEh7uBWTItc.jpg" ,Lo que nunca te dije pero deberia haberte dicho [Bluray] [SD]
 plugin://script.module.horus?action=play&id=21916f37f8a693869c44d494ad363fb561c31e70
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Lo que nunca te dije pero deberia haberte dicho [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nLe01lWFtLJBxOoFEh7uBWTItc.jpg" ,Lo que nunca te dije pero deberia haberte dicho [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4f217d32843bcff9557cff5d2d18ac51ba900c39
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Loli Tormenta [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pkdVfqRayyAlzX79Ri8P2Z9vRK8.jpg" ,Loli Tormenta [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=1113b18a49bb8667900ea40ce3b55182b32a539b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Loli Tormenta [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pkdVfqRayyAlzX79Ri8P2Z9vRK8.jpg" ,Loli Tormenta [Bluray] [HD]
 plugin://script.module.horus?action=play&id=2781ce5bb9dd331ebbc604f0e3e5cd3d6dddb09f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los buenos modales [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oRyAaTDiGZVPtC4fMRU8IKXjA86.jpg" ,Los buenos modales [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=cdec4c9e84e7eb9fe35493b90f3174fdf5c818b4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los buenos modales [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oRyAaTDiGZVPtC4fMRU8IKXjA86.jpg" ,Los buenos modales [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f7f06df0b50ac3a30cd92960f35c0cd015224334
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los buenos modales [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oRyAaTDiGZVPtC4fMRU8IKXjA86.jpg" ,Los buenos modales [Bluray] [HD]
 plugin://script.module.horus?action=play&id=1a6a5ee05503483b727589fdc1afc7f36eb6f8ee
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zqhO44oc0pWM32seJeXMcjPLvwV.jpg" ,Los caballeros del zodiaco [4K]
 plugin://script.module.horus?action=play&id=d5e9071dc8247e7b9eea247210c3278a920da829
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zqhO44oc0pWM32seJeXMcjPLvwV.jpg" ,Los caballeros del zodiaco [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=718ffe202c50853b914e3eb6f1501dd56a8a99aa
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zqhO44oc0pWM32seJeXMcjPLvwV.jpg" ,Los caballeros del zodiaco [Bluray] [SD]
 plugin://script.module.horus?action=play&id=eea496eca757459f2f00fd0d3370d97d81be8c4e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los caballeros del zodiaco [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zqhO44oc0pWM32seJeXMcjPLvwV.jpg" ,Los caballeros del zodiaco [Bluray] [HD]
 plugin://script.module.horus?action=play&id=33c3a0ecdc3c694ab4495c253f90ab58191bc3e7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los Tres Mosqueteros DArtagnan [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" ,Los Tres Mosqueteros DArtagnan [Bluray] [SD]
 plugin://script.module.horus?action=play&id=2856fbfffef9ffdd9ad4b88cccd4ead25183e519
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Los Tres Mosqueteros DArtagnan [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" ,Los Tres Mosqueteros DArtagnan [Bluray] [HD]
 plugin://script.module.horus?action=play&id=fcbc9a35197da72f38bee0a05b758df89fa52175
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maravilloso desastre [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg" ,Maravilloso desastre [4K]
 plugin://script.module.horus?action=play&id=43ce9f136792797ec7324f121a50be7393182a7f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maravilloso desastre [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg" ,Maravilloso desastre [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=0cb7a5b8a75fb3cc2dd8680cc55ac7f4b5a6b948
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marca de vida [HDTV] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/52YQZ293sw26g8R37CfbrAxlFoH.jpg" ,Marca de vida [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=90c5793f3cc666e8e65fec753436a29fade75044
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marca de vida [HDTV] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/52YQZ293sw26g8R37CfbrAxlFoH.jpg" ,Marca de vida [HDTV] [HD]
 plugin://script.module.horus?action=play&id=fc500419fd7cdc72e5cdbf6bb190bc77f429b0b4
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marca de vida [HDTV]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/52YQZ293sw26g8R37CfbrAxlFoH.jpg" ,Marca de vida [HDTV]
 plugin://script.module.horus?action=play&id=eedbcd1c4bad287cf5619efbf4e6241393612f28
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mari [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" ,Mari [Bluray] [SD]
 plugin://script.module.horus?action=play&id=139beb711ce603219f114b7683432685c9eb11e8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mari [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" ,Mari [Bluray] [HD]
 plugin://script.module.horus?action=play&id=ef4b5ec1dec5821d562786ce2189c49041238477
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Maridos [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aJQx8Ba9NTWfMqWngoMDhIOiDCN.jpg" ,Maridos [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=fc7c5ed596946854dc1543511865577fd773eae2
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gKWPzgKwNqexpZP7LkIngLHbzaq.jpg" ,Marlowe [4K]
 plugin://script.module.horus?action=play&id=85704e56f244be04759fd4ed54c5e5ddf96e9353
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [Bluray]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gKWPzgKwNqexpZP7LkIngLHbzaq.jpg" ,Marlowe [Bluray]
 plugin://script.module.horus?action=play&id=340e10af8bd4ee3f24b3ce4308a6a52ca5fede8a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gKWPzgKwNqexpZP7LkIngLHbzaq.jpg" ,Marlowe [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=4ce3f71c9cd69085e2ad0f4554a3210c381af14c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Marlowe [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gKWPzgKwNqexpZP7LkIngLHbzaq.jpg" ,Marlowe [Bluray] [HD]
 plugin://script.module.horus?action=play&id=ecd86251b6e2e7a85c489c484c855e456ef0f68e
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/duRBDfvwHMVoGkEjuccdW6UqDrD.jpg" ,Matria [Bluray] [SD]
 plugin://script.module.horus?action=play&id=450c1ce887b70b63114fbff730360482e3675e6a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Matria [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/duRBDfvwHMVoGkEjuccdW6UqDrD.jpg" ,Matria [Bluray] [HD]
 plugin://script.module.horus?action=play&id=83ad6fa251613f27d35f782f96197c1cc88d149b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Megalodon 2, La Fosa [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Megalodom, 2 La fosa [Bluray] [SD]
+plugin://script.module.horus?action=play&id=24f4a503cf857813ee2595fd1bc657757051b9d3
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Megalodom, 2 La fosa [Bluray] [HD]
+plugin://script.module.horus?action=play&id=1a9a7b8a10e599f78ad71114a5411da0d32b914b
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" ,Megalodon 2, La Fosa [4K]
 plugin://script.module.horus?action=play&id=41e9fbe52a94014c07411949190ce18fd9ddf343
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Megalodon 2, La Fosa [HDTV] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" ,Megalodon 2, La Fosa [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=a316dfb2c5ae09b58a820b354f76a4eca8f03898
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Metal Monsters El Redentor Justiciero [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=7ad62a52acc2b04957105d528fb3ddc9df159310
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mi crimen [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wXvMzAc6qyDQSFbGdWThfuHLN39.jpg" ,Mi crimen [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=3f1debc5ac0d109775f382821b2dfd6eead3ad56
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mi crimen [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wXvMzAc6qyDQSFbGdWThfuHLN39.jpg" ,Mi crimen [Bluray] [SD]
 plugin://script.module.horus?action=play&id=493bf325ad762efc47a173bd2af8b39705dc803a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mi crimen [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wXvMzAc6qyDQSFbGdWThfuHLN39.jpg" ,Mi crimen [Bluray] [HD]
 plugin://script.module.horus?action=play&id=0381118b9aa586b59b585062ccde45a604ff116d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nnXKsXITPTZiwbPrL0iMlVnlLan.jpg" ,Mona Lisa y la luna de sangre [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=be493cabd03d526eec3dfd000a125d51c6be69a9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nnXKsXITPTZiwbPrL0iMlVnlLan.jpg" ,Mona Lisa y la luna de sangre [Bluray] [SD]
 plugin://script.module.horus?action=play&id=12bce8e41aa6494c006af7e48bb16545d25c89cf
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Mona Lisa y la luna de sangre [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nnXKsXITPTZiwbPrL0iMlVnlLan.jpg" ,Mona Lisa y la luna de sangre [Bluray] [HD]
 plugin://script.module.horus?action=play&id=ea4173f9c632e46141ca9deffe3119e9734b16ea
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9y59OnzXfwzyCuvWHXPhgjPgYzi.jpg" ,Moving On [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=1686be9d542808f658a6bed6072c4e300ab304e3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9y59OnzXfwzyCuvWHXPhgjPgYzi.jpg" ,Moving On [Bluray] [SD]
 plugin://script.module.horus?action=play&id=e3d0b40f91a5a39139dbd0f7d4703cf0cd0f2a30
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Moving On [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9y59OnzXfwzyCuvWHXPhgjPgYzi.jpg" ,Moving On [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3d3c6809b6982496cd33ea6314b50fc2866b07d1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nato 0  El origen del mal [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/om2dgX2vmU8WPrMs8Q1hjgzdnEd.jpg" ,Nato 0 El origen del mal [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b1db0518dee23c552b5bb52358ec6e5f058b2ad5
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nato 0  El origen del mal [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/om2dgX2vmU8WPrMs8Q1hjgzdnEd.jpg" ,Nato 0 El origen del mal [Bluray] [HD]
 plugin://script.module.horus?action=play&id=ebe6049f174a0192cec247995306a2aac14dabcb
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Next Exit [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/n1x6VMvCwvs3dLH84N7cSrpT0yt.jpg" ,Next Exit [Bluray] [SD]
 plugin://script.module.horus?action=play&id=794f96127d88b7c372dd13cd7b30a2e6de49891f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Next Exit [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/n1x6VMvCwvs3dLH84N7cSrpT0yt.jpg" ,Next Exit [Bluray] [HD]
 plugin://script.module.horus?action=play&id=cf55716ca86519f2409e816eb49025edb1e9540b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Ni de cona estas invitada a mi bat mitsva [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/s9EWMx96aWVDQzuCBdSwO63HDfu.jpg" ,Ni de cona estas invitada a mi bat mitsva [Bluray] [SD]
 plugin://script.module.horus?action=play&id=ec9b595cd3f3021ddac52859572c83183d945004
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Ni de cona estas invitada a mi bat mitsva [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/s9EWMx96aWVDQzuCBdSwO63HDfu.jpg" ,Ni de cona estas invitada a mi bat mitsva [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a230a8cf2143cd5148b7bc15882b75599ea2d4b7
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8ziwi8Iih9qnLvVQnyD7jUdsJ9Q.jpg" ,Nicole Kidman en primera persona [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=6ff391273b5c0cdfd50ccb89acb5faa150433b69
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b9ad65c5abce19973ae232f0281ae2775128a900
 #EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [HD]
 plugin://script.module.horus?action=play&id=bfd89facc2601e64b9d2101a83ed2e884fa4d199
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Nightmare Radio The Night Stalker [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/safosm5GTGKpJQxudigMv8HOIwL.jpg" ,Nightmare Radio The Night Stalker [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=3698a7983595092b6415d62d00999d7fe86a98ef
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nimona [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg" ,Nimona [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a7c6c12d758d476fd4158d808126a1c535631a10
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nimona [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg" ,Nimona [Bluray] [HD]
 plugin://script.module.horus?action=play&id=b8713cd83534897c771a4d65e5e1d10b2cbb7916
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Oenheimer El dilema de la bomba atomica [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=9d83b4ef5b2b688e8433ffe5d40d9cb01fe9cde0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Oso vicioso [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yGCpehozPDlaczL4Fas1d01mfAH.jpg" ,Oso vicioso [4K]
 plugin://script.module.horus?action=play&id=e3931dce088eb090ed679679c48766eb628b777f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paint [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" ,Paint [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=47b80b86103c142915f3bdc220f45d24c159a5e1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paint [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" ,Paint [Bluray] [SD]
 plugin://script.module.horus?action=play&id=b7263bfdb54d60fc5d039cc72e768fa54bee5de9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paint [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" ,Paint [Bluray] [HD]
 plugin://script.module.horus?action=play&id=57c79bec375a5cc107f6ab8501510ce86ce6a417
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Paradise [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" ,Paradise [Bluray] [SD]
 plugin://script.module.horus?action=play&id=cea44e44cef383e1c8f70735a83830372c0043f9
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Pisicna Infinita [Bluray] [SD]
 plugin://script.module.horus?action=play&id=df89b4b4bf7e1d70f3ce9a54dc9b112d204fbaaf
@@ -655,12 +701,14 @@ plugin://script.module.horus?action=play&id=4add22bbfb62e39e774b640f2cc9e3c665ae
 plugin://script.module.horus?action=play&id=0b4b1736812975366713711cb4a05ad5fcf612ec
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pisicna Infinita [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=8e2a2ea55770c3c4948a28fe9baace8960ffa94f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Plan 75 [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hveZXkNJOrTOFLIrFs0VKwue6sp.jpg" ,Plan 75 [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=99a0b14e8c565cd79eb3e92f82f38540af4a2669
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Plan 75 [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hveZXkNJOrTOFLIrFs0VKwue6sp.jpg" ,Plan 75 [Bluray] [SD]
 plugin://script.module.horus?action=play&id=e313b3ac7c98b67dce8a012897fe31dbbf78857e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Plan 75 [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hveZXkNJOrTOFLIrFs0VKwue6sp.jpg" ,Plan 75 [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5e1a30bfe34949dc9d6b19f85e850aa60290e18e
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Planet Sex con Cara Delevingne [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=1ea3764258b6823e0a07f4a6270136e83e43c9f5
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Planeta 5000 [Bluray] [SD]
 plugin://script.module.horus?action=play&id=1d30b035e4180181bdb5d85b14ea9474f1635c79
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Planeta 5000 [Bluray] [HD]
@@ -671,135 +719,149 @@ plugin://script.module.horus?action=play&id=30d33d464ad6c8f59615267f4fbd5ce3e3bb
 plugin://script.module.horus?action=play&id=adec09ca4704b167a32f96ac645c791789858b40
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Professionals 1x06 [HD]
 plugin://script.module.horus?action=play&id=d3f72a0f958b63d1eb83aa8483f0cb57b82a786e
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Remember [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6EylGzawhctQMULswkudy1eaa2o.jpg" ,Remember [Bluray] [SD]
 plugin://script.module.horus?action=play&id=75a04e96f92546afba6297aa4ee6ef56bc78c979
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Remember [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6EylGzawhctQMULswkudy1eaa2o.jpg" ,Remember [Bluray] [HD]
 plugin://script.module.horus?action=play&id=00c7371947d3e15d00b9742f3ec158184ce27ffd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" ,Renfield [4K]
 plugin://script.module.horus?action=play&id=42ab514af981878d08b4d07d42cc3f50cf321f15
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" ,Renfield [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=08a80235d56b8d296eb4cc5dc938a5208011c01d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" ,Renfield [Bluray] [SD]
 plugin://script.module.horus?action=play&id=a5c0a67ebf00de37121add3ba3dabe2d9d6f8ce2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Renfield [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" ,Renfield [Bluray] [HD]
 plugin://script.module.horus?action=play&id=17cc1584323e855e70042d90f55cd336fccb322d
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qN1hXbtNRs5b9459tdlzz4PsaKd.jpg" ,Replicantes [4K]
 plugin://script.module.horus?action=play&id=b8f79eb693e146a93774a0fd0b056b35bbc902ce
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qN1hXbtNRs5b9459tdlzz4PsaKd.jpg" ,Replicantes [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f16a8c83809e4571f315b9ea04a3adbe27275211
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qN1hXbtNRs5b9459tdlzz4PsaKd.jpg" ,Replicantes [Bluray] [SD]
 plugin://script.module.horus?action=play&id=66d0892ddec3ae85298352144613c30729a44026
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Replicantes [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qN1hXbtNRs5b9459tdlzz4PsaKd.jpg" ,Replicantes [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a307ae4c14f250b5d52310275985f3f65f316fdb
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Resident Evil Death Island [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg" ,Resident Evil Death Island [Bluray] [SD]
 plugin://script.module.horus?action=play&id=53f8e6aa5f2a189c3d73626ddbd3f1e9f3bb52ba
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Resident Evil Death Island [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg" ,Resident Evil Death Island [Bluray] [HD]
 plugin://script.module.horus?action=play&id=7a4e33a10b842959cae97d4c767b1bc6e0e170be
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Retorno a Seul [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qKVu2QqARzNZUkO9IpoSFaOXIRG.jpg" ,Retorno a Seul [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=15db982da1bfe8ca13c37dd78285c09d9c46458b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Retorno a Seul [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qKVu2QqARzNZUkO9IpoSFaOXIRG.jpg" ,Retorno a Seul [Bluray] [SD]
 plugin://script.module.horus?action=play&id=bf8548e68a40bef9f556d2a7a94fe590e1f0cdb0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Retorno a Seul [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qKVu2QqARzNZUkO9IpoSFaOXIRG.jpg" ,Retorno a Seul [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f881df633db69897b4da1027d61b09efe966578a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Robots [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg" ,Robots [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=d7f06c284ce35b4f094d89f4dae27c7ae082ef04
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Robots [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg" ,Robots [Bluray] [SD]
 plugin://script.module.horus?action=play&id=111cf9ddfd396f07c631609c03d4fe9b197dbcd4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Robots [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg" ,Robots [Bluray] [HD]
 plugin://script.module.horus?action=play&id=8af975b5fa6d2bc1630989a0e0cdd35637f000df
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Robots [4K]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg" ,Robots [4K]
 plugin://script.module.horus?action=play&id=4c0a66cff901257948c450b53461dc08cc475dae
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg" ,Rojo blanco y sangre azul [4K]
 plugin://script.module.horus?action=play&id=ef1cf017b0831f757cac3867c43c0721825e004a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg" ,Rojo blanco y sangre azul [Bluray] [SD]
 plugin://script.module.horus?action=play&id=34e4ec150148eded0976d9aee77d05bc25cbc215
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg" ,Rojo blanco y sangre azul [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4b91f0f982ed1441515e7cd104efe296e09112c4
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Rojo blanco y sangre azul [HDTV] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg" ,Rojo blanco y sangre azul [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=b9071d46631465e57563f50440f67dc0fab27b98
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/skC8lc8VvWv3mkAdUPUnkiNvhkg.jpg" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=02453765d00dcb1ce9f4f672eefdc11245a5cb8a
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/skC8lc8VvWv3mkAdUPUnkiNvhkg.jpg" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [SD]
 plugin://script.module.horus?action=play&id=c32a5d55214bd53880f93f9173c32776a82660ba
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/skC8lc8VvWv3mkAdUPUnkiNvhkg.jpg" ,Saint Omer El pueblo contra Laurence Coly [Bluray] [HD]
 plugin://script.module.horus?action=play&id=7dfbef2e67383ce2a9a026ea961d2bf1830bbff0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Scarlet [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jGKCpt3zzbGZbgoza6HCvecqElM.jpg" ,Sakra [4K]
+plugin://script.module.horus?action=play&id=8aa85b67c95bb4fd7a8bbe34db5af6271503c76d
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jGKCpt3zzbGZbgoza6HCvecqElM.jpg" ,Sakra [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=4d05b5987f4f5eb8721e0df7e43c91ed694429cd
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gWcvfIwTl6WhVi7o0n6cwjNxZcb.jpg" ,Scarlet [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0e28929d56cfecf9021e7aad68a473db30fbd80f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Scarlet [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gWcvfIwTl6WhVi7o0n6cwjNxZcb.jpg" ,Scarlet [Bluray] [HD]
 plugin://script.module.horus?action=play&id=c50945ead8ea5cb276f047ef476980bc24a850a6
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,She Came from the Woods [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/tXrC0g0xg07FCxvoHpfLjB7cCoE.jpg" ,Secretos del deporte El salon de la infamia [Bluray]
+plugin://script.module.horus?action=play&id=1fa63f5e2b056c1d8a715763725f3606c9a097d8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg" ,Secretos del deporte Johnny Football [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=aac232485a13fd666586335315b1293ab5a48935
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" ,She Came from the Woods [Bluray] [SD]
 plugin://script.module.horus?action=play&id=6b649689311fe0f6883a0cde62ccd54b54a2a48c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,She Came from the Woods [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" ,She Came from the Woods [Bluray] [HD]
 plugin://script.module.horus?action=play&id=26899cddebd9179646cd640cf0994adedad2e018
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Shepherd [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/97hqL0UHSnMbpMeoSWM0UyOEIff.jpg" ,Shepherd [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=c3450b2b9265ff8114af85a39dba9744b12edb20
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Shepherd [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/97hqL0UHSnMbpMeoSWM0UyOEIff.jpg" ,Shepherd [Bluray] [SD]
 plugin://script.module.horus?action=play&id=855520e279162b73af11d27d142cd43c1b0dcff7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Shepherd [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/97hqL0UHSnMbpMeoSWM0UyOEIff.jpg" ,Shepherd [Bluray] [HD]
 plugin://script.module.horus?action=play&id=92c789130b6c7af628dba6ac1f66ef56344edd92
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2vu2kXcmGOtZou1CnZafcepCpp4.jpg" ,Si quiero o no [Bluray] [SD]
 plugin://script.module.horus?action=play&id=9591caae31ab44303140d8b4428a849310361622
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2vu2kXcmGOtZou1CnZafcepCpp4.jpg" ,Si quiero o no [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4980a3ad45ae14a20089a942cae87cadc172f3d3
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si quiero o no [HDTV] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2vu2kXcmGOtZou1CnZafcepCpp4.jpg" ,Si quiero o no [HDTV] [FHD]
 plugin://script.module.horus?action=play&id=c19a5511c881c1c40487c67e89352bd81d09f0ad
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si todas las puertas se cierran [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/miLOZwtrxm5MlWn73vPp2gAnhkU.jpg" ,Si todas las puertas se cierran [Bluray] [SD]
 plugin://script.module.horus?action=play&id=761d886d0188973f529cd1f3e69009425186d09c
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Si todas las puertas se cierran [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/miLOZwtrxm5MlWn73vPp2gAnhkU.jpg" ,Si todas las puertas se cierran [Bluray] [HD]
 plugin://script.module.horus?action=play&id=14c17b5680861dd29ab750b469523742d1817608
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/48H5e9rHLbxXp0atCPRiXTsTW3i.jpg" ,Sick of Myself [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f43e7005bce704d23b8ba8e96b4c207d347a8840
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/48H5e9rHLbxXp0atCPRiXTsTW3i.jpg" ,Sick of Myself [Bluray] [SD]
 plugin://script.module.horus?action=play&id=e9ddc333fb05bd1ee6ff23a0a10709f55064e29b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sick of Myself [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/48H5e9rHLbxXp0atCPRiXTsTW3i.jpg" ,Sick of Myself [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5212690f34b2e72a197de6f3852b2c50c4a5c47f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" ,Sin malos rollos [4K]
 plugin://script.module.horus?action=play&id=eb5b576fc208b338f5ce00f10493358331fc5bbd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" ,Sin malos rollos [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=ca032021e0ff8d9ada8643ba2fe67cfd86de1d56
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" ,Sin malos rollos [Bluray] [SD]
 plugin://script.module.horus?action=play&id=d8e2b3d8553b8abf3de66c731d3e1c2431dadde7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Sin malos rollos [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" ,Sin malos rollos [Bluray] [HD]
 plugin://script.module.horus?action=play&id=1dbc7bb1255b0eb437f150862af76cbba9fac0a4
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sin senal [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mv2DFhsaLeNgFzNe2G5CJhzbrkt.jpg" ,Sin senal [Bluray] [SD]
 plugin://script.module.horus?action=play&id=2c56c58062a1babdccce1795e29e828c7e804723
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Sin senal [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mv2DFhsaLeNgFzNe2G5CJhzbrkt.jpg" ,Sin senal [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d308bca5bd6774631740fec3670ae26d86a78317
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" ,Spider-Man Cruzando el Multiverso [4K]
+plugin://script.module.horus?action=play&id=e04503ddc6422ada4d9ca22bc0de873d6950df24
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" ,Spider-Man Cruzando el Multiverso [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=d665c48af6e760ef8ab85054cf286ff63cc31113
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" ,Spider-Man Cruzando el Multiverso [Bluray] [SD]
 plugin://script.module.horus?action=play&id=08fe3c70b7490efbb34094b8215d1593950c6166
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Spider-Man Cruzando el Multiverso [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" ,Spider-Man Cruzando el Multiverso [Bluray] [HD]
 plugin://script.module.horus?action=play&id=fb9476a5562ae1db7ace0bbb5643d7ba855577a2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Stephen Curry Un jugador subestimado [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zkSbTskb99UxUaNH7w5Ka2M30Zl.jpg" ,Stephen Curry Un jugador subestimado [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=d8589eb096457db383402a444bd3fdc814111628
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Suenos y pan [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vW1ayuyRIuIm3UhC3XxPenaVbv2.jpg" ,Suenos y pan [Bluray] [SD]
 plugin://script.module.horus?action=play&id=3f2ff89032f4d79b443af5bc82db3a41efd21ac0
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Suenos y pan [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vW1ayuyRIuIm3UhC3XxPenaVbv2.jpg" ,Suenos y pan [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3ce930155ba2d989cca257d7e44e70e3717728ca
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Th3Qu13tG1rl [FHD]
 plugin://script.module.horus?action=play&id=763c00614f1039d65723c349d908024f0e12718e
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,The Bear 2x01 Ternera [FHD]
 plugin://script.module.horus?action=play&id=726f91e2b621e2e41baff6c6d9be90eef358bed9
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Best Man [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg" ,The Best Man [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=6db5aa83c491755f955ac43837f608bc1f9d5d3a
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Best Man [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg" ,The Best Man [Bluray] [SD]
 plugin://script.module.horus?action=play&id=28a9145ef4ee7c149e4c7dc4664e433c7ee2df61
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Best Man [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg" ,The Best Man [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3c24ec6c8f5b1e50a5803b3bba9e8a5fab497ac6
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Boogeyman [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/68vam4lGyeHE6q6bkNFseGyb4aC.jpg" ,The Boogeyman [4K]
+plugin://script.module.horus?action=play&id=468682437fb404669025c8e5ef5e3b05731763d5
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/68vam4lGyeHE6q6bkNFseGyb4aC.jpg" ,The Boogeyman [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=331319a2a3e12117a44aafb2a5818c60de0f1765
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Boogeyman [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/68vam4lGyeHE6q6bkNFseGyb4aC.jpg" ,The Boogeyman [Bluray] [SD]
 plugin://script.module.horus?action=play&id=5832b244a92f8812ac1a82e3e47dbfb0b0dcc8b1
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Boogeyman [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/68vam4lGyeHE6q6bkNFseGyb4aC.jpg" ,The Boogeyman [Bluray] [HD]
 plugin://script.module.horus?action=play&id=d5b235f8bad676f56c2f131f515eb79dab61cbc5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/p1czkLtquPkiQg3OqubHqNzr6jM.jpg" ,The Devil Conspiracy [Bluray] [SD]
 plugin://script.module.horus?action=play&id=1523c608c555118dbc6909d2bf6797f6025a4fe6
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Devil Conspiracy [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/p1czkLtquPkiQg3OqubHqNzr6jM.jpg" ,The Devil Conspiracy [Bluray] [HD]
 plugin://script.module.horus?action=play&id=11a1afbfe1de80790b87066be1edf87492ff5b3b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Donor Party [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zWOPibu4RqGz9Y4zj657HslR964.jpg" ,The Donor Party [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=b4cee9485c763c921920b0ff7fd7be751ba1ae79
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Donor Party [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zWOPibu4RqGz9Y4zj657HslR964.jpg" ,The Donor Party [Bluray] [SD]
 plugin://script.module.horus?action=play&id=d6b559c677a6ab22437262478ba36037a25b72dd
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Donor Party [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zWOPibu4RqGz9Y4zj657HslR964.jpg" ,The Donor Party [Bluray] [HD]
 plugin://script.module.horus?action=play&id=a9bfaf03b8ee5f18dd5ea6334a64ccf8ec025689
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Exorcism of God [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=ed477d6123447fa0e81b2a9083bd247e46ff96e4
@@ -807,99 +869,109 @@ plugin://script.module.horus?action=play&id=ed477d6123447fa0e81b2a9083bd247e46ff
 plugin://script.module.horus?action=play&id=46ba8ccf16b96efacad6af245df2e85dcffda6f0
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Exorcism of God [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f2f6df463d54ca3492217cce55853b67b7959069
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Flash [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" ,The Flash [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=16c7a0f80249fcdd75b8e053e9eb29cc09478c17
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Ghost Writer [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/afnRPdZ0bL7ZIH8hvtLhBkPJOZv.jpg" ,The Ghost Writer [Bluray] [SD]
 plugin://script.module.horus?action=play&id=7cf931cdba66e2e9ebf386fe9eeb7009efb67cd7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Ghost Writer [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/afnRPdZ0bL7ZIH8hvtLhBkPJOZv.jpg" ,The Ghost Writer [Bluray] [HD]
 plugin://script.module.horus?action=play&id=c043d1bebc2adbc3aba9b02c726a8633caf50245
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Goldsmith [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6eUxBpQSfFvQx1tJLRe74lyMw13.jpg" ,The Goldsmith [Bluray] [SD]
 plugin://script.module.horus?action=play&id=0f94caf07ba18aca3b7fe29772e25e62e452be1f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Goldsmith [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6eUxBpQSfFvQx1tJLRe74lyMw13.jpg" ,The Goldsmith [Bluray] [HD]
 plugin://script.module.horus?action=play&id=66474f113e75a6b0d9de6b201d209d96ee2fe6f7
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The List Rienda suelta [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/13CSRnge3SkUOKTpZLg9r1IHtJS.jpg" ,The List Rienda suelta [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=a6455c34806563ee6b9fbba2b880d89035a4bca8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The List Rienda suelta [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/13CSRnge3SkUOKTpZLg9r1IHtJS.jpg" ,The List Rienda suelta [Bluray] [SD]
 plugin://script.module.horus?action=play&id=75a344527087a15b3ff7410de8356ff8f8982490
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The List Rienda suelta [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/13CSRnge3SkUOKTpZLg9r1IHtJS.jpg" ,The List Rienda suelta [Bluray] [HD]
 plugin://script.module.horus?action=play&id=cfaf2f311e7023057f7b15a9996f8912fa173151
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Lost King [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dQVqBGH9eGxQe05DPjGddpNNhx7.jpg" ,The Lost King [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=4c1310a6cba0495743605e9322bc7ff1663cde9c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Lost King [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dQVqBGH9eGxQe05DPjGddpNNhx7.jpg" ,The Lost King [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f7bc8292ab5e3251a524d350a849de21ce03f4c8
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [4K]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4vgcEWBpfxVeqBe17qyoNZmKe5o.jpg" ,The Machine [4K]
 plugin://script.module.horus?action=play&id=5f7026fffa3a7f10446962ea6c563e5438a36c07
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [Bluray] [FHD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4vgcEWBpfxVeqBe17qyoNZmKe5o.jpg" ,The Machine [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=c907321da749990678e210eee89e3a467a04fefa
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4vgcEWBpfxVeqBe17qyoNZmKe5o.jpg" ,The Machine [Bluray] [SD]
 plugin://script.module.horus?action=play&id=574c73870d41f7c48eed33dc97fa821fe7b5ec2b
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,The Machine [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4vgcEWBpfxVeqBe17qyoNZmKe5o.jpg" ,The Machine [Bluray] [HD]
 plugin://script.module.horus?action=play&id=4bf81e26aa557283097e8f3dec63805f42d23306
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Quiet Girl [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg" ,The Quiet Girl [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=909479105751d5a8237b3cd34bc56d0ffb5a6403
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,The Quiet Girl [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg" ,The Quiet Girl [Bluray] [SD]
 plugin://script.module.horus?action=play&id=724f70bd986343c99304129bcff1c5f839906e2b
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Tori y Lokita [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/h1xdM22OXzsKRbt2u9cP2L1L8ie.jpg" ,Tori y Lokita [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=56909baeb0c2c7d148668c873038814780011581
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Tori y Lokita [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/h1xdM22OXzsKRbt2u9cP2L1L8ie.jpg" ,Tori y Lokita [Bluray] [HD]
 plugin://script.module.horus?action=play&id=52e4fc4445a86f607a040a8d68cc4df6680395c7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [4K]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" ,Transformers El despertar de las bestias [4K]
 plugin://script.module.horus?action=play&id=fee0f3a3ec9ea8aec38aa26a3b7bed0ce7fbe2cc
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [FHD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" ,Transformers El despertar de las bestias [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=87fa0d86a191ac9d4d988e314b98a492df085596
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" ,Transformers El despertar de las bestias [Bluray] [SD]
 plugin://script.module.horus?action=play&id=cd2bdf4beb06c72fde2df2052704e80297a02a6e
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Transformers El despertar de las bestias [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" ,Transformers El despertar de las bestias [Bluray] [HD]
 plugin://script.module.horus?action=play&id=799f0d1dc12419c14972966fdcec999124961b7c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un cabaret en la campina [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/e7kkfsWcQozD87kp6Ab8WAtfvXn.jpg" ,Tubular Bells 50 aniversario [Bluray] [FHD]
+plugin://script.module.horus?action=play&id=4e45fae52044fad4183b4759bd8a0d3005866b7a
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jVx92fH3Jv0bzY1aAzGFZl7K8Bk.jpg" ,Un cabaret en la campina [Bluray] [SD]
 plugin://script.module.horus?action=play&id=7c9631cf6b17b88c3aa3749225c8a3aef71a173c
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un cabaret en la campina [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/jVx92fH3Jv0bzY1aAzGFZl7K8Bk.jpg" ,Un cabaret en la campina [Bluray] [HD]
 plugin://script.module.horus?action=play&id=f3335495649bfa3dbd9fb4115c34896deb73f45f
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un dia y medio [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vdQWE5gjut4Omw9NTIDfZYqP0k5.jpg" ,Un dia y medio [Bluray] [SD]
 plugin://script.module.horus?action=play&id=3e675d99ef093624aabc9ca5104b34c07ff6e2ba
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un dia y medio [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vdQWE5gjut4Omw9NTIDfZYqP0k5.jpg" ,Un dia y medio [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5bb54ed283ef7bf76289a31318ccc278f2821639
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un lugar por el que luchar [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ejpKwVHLmplSSe9StZrWbkCLPgG.jpg" ,Un fin de semana en Gaza [Bluray] [SD]
+plugin://script.module.horus?action=play&id=d08881f443595e52891e78338bacf103fab1d73b
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ejpKwVHLmplSSe9StZrWbkCLPgG.jpg" ,Un fin de semana en Gaza [Bluray] [HD]
+plugin://script.module.horus?action=play&id=b7dcdd6dd187332de422ede9c4fb75b0b9355a0d
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/egdZEgMhqFsxezztDlDqch5TjVM.jpg" ,Un lugar por el que luchar [Bluray] [SD]
 plugin://script.module.horus?action=play&id=f07e6aef07e107cb50ba345c40403867dcf579d2
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un lugar por el que luchar [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/egdZEgMhqFsxezztDlDqch5TjVM.jpg" ,Un lugar por el que luchar [Bluray] [HD]
 plugin://script.module.horus?action=play&id=c6e19a2b61e3846f7c4d97021324ae4eb238d767
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un paseo con Madeleine [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kuLHjxxEOT3h7M05JzRDt8zQJAi.jpg" ,Un paseo con Madeleine [Bluray] [SD]
 plugin://script.module.horus?action=play&id=80851f83c4e0bff66a62a9eaae13e7b73ec9b8a7
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Un paseo con Madeleine [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kuLHjxxEOT3h7M05JzRDt8zQJAi.jpg" ,Un paseo con Madeleine [Bluray] [HD]
 plugin://script.module.horus?action=play&id=e67f6edbda00eed7b6f97422e9aa58f9b5644824
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un sueno [Bluray] [SD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dWWKzI1AQ2WZgZLXCrLnSxMC2P2.jpg" ,Un sueno [Bluray] [SD]
 plugin://script.module.horus?action=play&id=d47e05627a5f1710844de32b4a51f3d0dc4c3321
-#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Un sueno [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dWWKzI1AQ2WZgZLXCrLnSxMC2P2.jpg" ,Un sueno [Bluray] [HD]
 plugin://script.module.horus?action=play&id=3d3fc6d1a7f6547c035f73ec9792a8b53b496365
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Unos suegros de armas tomar [Bluray] [SD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6SCokFkHM5dTTTfiGXmPWysucMX.jpg" ,Unos suegros de armas tomar [Bluray] [SD]
 plugin://script.module.horus?action=play&id=4133ce24670fe7121dfddf949ab0baf3a5e5c583
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Unos suegros de armas tomar [Bluray] [HD]
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6SCokFkHM5dTTTfiGXmPWysucMX.jpg" ,Unos suegros de armas tomar [Bluray] [HD]
 plugin://script.module.horus?action=play&id=5ceae1cfe5ff988b282030b530aff5becd9159cf
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,UnSu3n1o [FHD]
 plugin://script.module.horus?action=play&id=72518e29cf23766e5f534d0b139fa8393e5482d2
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4sW70MD60zlPvIusRgkBzOeCImI.jpg" ,Unwelcome [4K]
 plugin://script.module.horus?action=play&id=b00d7f8df5caf565526b23d9c7d949db6fd771f0
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4sW70MD60zlPvIusRgkBzOeCImI.jpg" ,Unwelcome [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=f3ec88e01f5c6c0a35ebf7e1e1acf386b444e895
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4sW70MD60zlPvIusRgkBzOeCImI.jpg" ,Unwelcome [Bluray] [SD]
 plugin://script.module.horus?action=play&id=8e8c3761623eda1d918963d7a37fb5b5725e6327
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Unwelcome [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4sW70MD60zlPvIusRgkBzOeCImI.jpg" ,Unwelcome [Bluray] [HD]
 plugin://script.module.horus?action=play&id=aaf2a93b8a2e7c115b226f151c212bca2e5d9d6a
-#EXTINF:-1 group-title="2032" tvg-id="" tvg-logo="" ,Violeta el hada traviesa [Bluray] [HD]
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4Ji9EP9bdyftAhGWNd1560Z5F1d.jpg" ,Vaya vacaciones [Bluray] [SD]
+plugin://script.module.horus?action=play&id=e83b78f431be350e21fc334523bd55b89a890da0
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4Ji9EP9bdyftAhGWNd1560Z5F1d.jpg" ,Vaya vacaciones [Bluray] [HD]
+plugin://script.module.horus?action=play&id=a33a7ae956c8265df981cfd1dea70e76374a4dd6
+#EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7GmSsEw1D7IAtG2EEJ9W4Vkrmp8.jpg" ,Violeta el hada traviesa [Bluray] [HD]
 plugin://script.module.horus?action=play&id=33c0fffe8cd09d4f8c6850c7fa9aa38f74961478
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Volpina [Bluray] [SD]
+#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9L7JJyJNvnViZfydrlCD2DJPLB.jpg" ,Volpina [Bluray] [SD]
 plugin://script.module.horus?action=play&id=de5604f50f499f7935f11b4aae75029fcd9c75ef
-#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="" ,Volpina [Bluray] [HD]
+#EXTINF:-1 group-title="2021" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9L7JJyJNvnViZfydrlCD2DJPLB.jpg" ,Volpina [Bluray] [HD]
 plugin://script.module.horus?action=play&id=dffbf3d215f18f3acbb51b41b671c63418323ab3
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Wildflower [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ilQAelP061WlgL9oSROetd5PfpA.jpg" ,Wildflower [4K]
 plugin://script.module.horus?action=play&id=cfa87033192c5459101ec163733ff061a1351a9f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Wildflower [Bluray] [SD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ilQAelP061WlgL9oSROetd5PfpA.jpg" ,Wildflower [Bluray] [SD]
 plugin://script.module.horus?action=play&id=e16bf9d57a0612f9e6e0342c43f4292d0b7b7d71
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Wildflower [Bluray] [HD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ilQAelP061WlgL9oSROetd5PfpA.jpg" ,Wildflower [Bluray] [HD]
 plugin://script.module.horus?action=play&id=e8f8e7ae8db43073843e7e624b8662006d3800b5
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor [4K]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ob48y9pAxfPem64RQ94wZIqH0xI.jpg" ,Y que tendra que ver el amor [4K]
 plugin://script.module.horus?action=play&id=14fe4aa46b84a68dc3f8a816d19431e470202c6f
-#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="" ,Y que tendra que ver el amor [Bluray] [FHD]
+#EXTINF:-1 group-title="2022" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ob48y9pAxfPem64RQ94wZIqH0xI.jpg" ,Y que tendra que ver el amor [Bluray] [FHD]
 plugin://script.module.horus?action=play&id=d30681f5325622032427c7f7619ddd4ab85177bb
 #EXTINF:-1 group-title="2023" tvg-id="" tvg-logo="" ,Zodi and Tehu aventuras en el desierto [Bluray] [SD]
 plugin://script.module.horus?action=play&id=57c3e9f3ce40b1f0612b8bf124f64dd9f37fa38e

@@ -30,18 +30,18 @@ def crear_lista_m3u(archivo_csv, nombre_lista_m3u, enlace_formato, condicion, ti
                     if magnet:
                         enlace = enlace_formato.format(magnet=magnet)
                         if tipo == 'Serie':
-                            m3u_file.write(f'#EXTINF:-1 group-title="{row["Titulo"]}" tvg-id="" tvg-logo="" ,{row["Titulo"]} (Cap {row["Capitulo"]}){calidad}{resolucion}\n{enlace}\n')
+                            m3u_file.write(f'#EXTINF:-1 group-title="{row["Titulo"]}" tvg-id="" tvg-logo="{row["Url"]}" ,{row["Titulo"]} (Cap {row["Capitulo"]}){calidad}{resolucion}\n{enlace}\n')
                         elif tipo == 'Pelicula':
-                            m3u_file.write(f'#EXTINF:-1 group-title="{row["Año"]}" tvg-id="" tvg-logo="" ,{row["Titulo (Año)"]}{calidad}{resolucion}\n{enlace}\n')
+                            m3u_file.write(f'#EXTINF:-1 group-title="{row["Año"]}" tvg-id="" tvg-logo="{row["Url"]}" ,{row["Titulo (Año)"]}{calidad}{resolucion}\n{enlace}\n')
                         total_generados += 1
                 else:
                     if id_acestream != '0':
                         if condicion == 'horus' or condicion == 'get' or condicion == 'base':
                             enlace = enlace_formato.format(id_acestream=id_acestream, magnet=magnet)
                             if tipo == 'Serie':
-                                m3u_file.write(f'#EXTINF:-1 group-title="{row["Titulo"]}" tvg-id="" tvg-logo="" ,{row["Titulo"]} (Cap {row["Capitulo"]}){calidad}{resolucion}\n{enlace}\n')
+                                m3u_file.write(f'#EXTINF:-1 group-title="{row["Titulo"]}" tvg-id="" tvg-logo="{row["Url"]}" ,{row["Titulo"]} (Cap {row["Capitulo"]}){calidad}{resolucion}\n{enlace}\n')
                             elif tipo == 'Pelicula':
-                                m3u_file.write(f'#EXTINF:-1 group-title="{row["Año"]}" tvg-id="" tvg-logo="" ,{row["Titulo"]}{calidad}{resolucion}\n{enlace}\n')
+                                m3u_file.write(f'#EXTINF:-1 group-title="{row["Año"]}" tvg-id="" tvg-logo="{row["Url"]}" ,{row["Titulo"]}{calidad}{resolucion}\n{enlace}\n')
                             total_generados += 1
 
             if total_generados == 0:
